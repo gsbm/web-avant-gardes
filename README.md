@@ -29,6 +29,8 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Brill Brill Studio](https://brillbrillstudio.com/) (Photography studio)<br>
 [Azab](https://www.azab.es/) (Architecture studio)<br>
 [RTA Studio](http://rtastudio.co.nz/) (Architecture studio)<br>
+[Scholz and Associates](https://scholzand.com/) (Agency)<br>
+[Design by Toko](https://designbytoko.com/) (Design studio)<br>
 [101](http://101.at/) (Design studio)<br>
 
 ### Misc
@@ -36,5 +38,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Bi Scriptual](http://bi-scriptual.com/) (Book)<br>
 [Found color](https://foundcolor.co/) (Color scheme)<br>
 [Timetable](https://timetablerecords.com/) (Music label)<br>
+[Demo Festival](https://demofestival.com/) (Design festival)<br>
 [Whole Festival](https://wholefestival.com/) (Music festival)<br>
+[WM Artist Studio](http://www.wmartistmanagement.com/) (Artist management)<br>
 [Ecosistema del Diseño Español](https://ecosistemadeldiseño.es/) (?)
