@@ -1,5 +1,8 @@
-# Web avant-gardes
-> 💇‍♀️ Collection of experimental, radical, or unorthodox websites.
+<center>
+<img src="https://github.com/boardens/web-avant-gardes/blob/master/avant-gardes.svg" width="350px">
+</center>
+
+💇‍♀️ Collection of experimental, radical, or unorthodox websites.
 
 ## What does 'avant-garde' mean ?
 The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "advance guard" or "vanguard", literally "fore-guard") are people or works that are experimental, radical, or unorthodox with respect to art, culture, or society. It may be characterized by nontraditional, aesthetic innovation and initial unacceptability, and it may offer a critique of the relationship between producer and consumer. (Source: [wikipedia](https://en.wikipedia.org/wiki/Avant-garde))
