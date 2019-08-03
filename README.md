@@ -76,5 +76,5 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Entireworld](https://theentireworld.com/) (Clothes shop)<br>
 [Han Kjøbenhavn](https://hankjobenhavn.com/) (Clothes shop)<br>
 [!!!](http://chkchkchk.net/) (Band)<br>
-[The Recreationalist](https://www.therecreationalist.com/) (?)
+[The Recreationalist](https://www.therecreationalist.com/) (?)<br>
 [Ecosistema del Diseño Español](https://ecosistemadeldiseño.es/) (?)
