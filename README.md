@@ -18,6 +18,8 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Gabriel Contassot](https://www.gabrielcontassot.com/) (Designer)<br>
 [Nick Losacco](https://www.nicklosacco.com/) (Designer)<br>
 [Jonty Davies](http://jontydavies.com/) (Photographer)<br>
+[Sandra Autukaite](https://www.sandraautukaite.com/) (Designer)<br>
+[Kristen Cabrera](https://kristencabrera.com/) (Designer)<br>
 
 ### Studio
 [Bretagne](http://www.bretagnebretagne.fr/) (Type foundry)<br>
@@ -35,15 +37,25 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Scholz and Associates](https://scholzand.com/) (Agency)<br>
 [Design by Toko](https://designbytoko.com/) (Design studio)<br>
 [101](http://101.at/) (Design studio)<br>
+[Nord+](https://www.nord.plus/) (Design studio)<br>
+[Belen Tenorio](http://www.belentenorio.com/) (Design studio)<br>
 
 ### Misc
 [Untitled Sans](http://untitledsans.com/) (Font)<br>
 [CPT](https://www.centerforphilosophicaltechnologies.org/) (Research center)<br>
 [Bi Scriptual](http://bi-scriptual.com/) (Book)<br>
+[Alien magazine](http://www.alien-magazine.com/) (Magazine)
+[Rosemilk](https://www.rosemi.lk/) (Ceramics)<br>
 [Found color](https://foundcolor.co/) (Color scheme)<br>
 [Timetable](https://timetablerecords.com/) (Music label)<br>
 [Demo Festival](https://demofestival.com/) (Design festival)<br>
 [Whole Festival](https://wholefestival.com/) (Music festival)<br>
 [Ricky Michiels](https://www.rickymichiels.com/) (Artist management)<br>
 [WM Artist Studio](http://www.wmartistmanagement.com/) (Artist management)<br>
+[A-okay](http://a-okay.one/) (Translators)<br>
+[A big mood](http://hexagon-ux.superhi.com/) (Blog)<br>
+[ClarkfromInvision](https://clarkfrominvision.com/) (Blog)<br>
+[Mould Map 7](http://mouldmap.com/) (Experimentals comics)<br>
+[Google Fonts + Korean](https://googlefonts.github.io/korean/) (Fonts directory)<br>
+[EFâ€”AP](http://www.ef-ap.com/) (Architecture research)<br>
 [Ecosistema del Diseño Español](https://ecosistemadeldiseño.es/) (?)
