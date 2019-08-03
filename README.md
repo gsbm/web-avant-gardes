@@ -64,6 +64,8 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [UsVersus](https://usvs.co/) (Design studio)<br>
 [Zero Turns Two](https://two.zero.nyc/) (Design studio)<br>
 [Collins](https://www.wearecollins.com) (Design studio)<br>
+[Bureau Mirko Borsche](https://bureauborsche.com) (Design studio)<br>
+[High5](http://www.highfivebro.com/) (Design studio)<br>
 
 ### Misc
 [Untitled Sans](http://untitledsans.com/) (Font)<br>
@@ -89,7 +91,9 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Coal Drops Yard](https://www.coaldropsyard.com/) (Stores directory)<br>
 [Entireworld](https://theentireworld.com/) (Clothes shop)<br>
 [Han Kjøbenhavn](https://hankjobenhavn.com/) (Clothes shop)<br>
+[Laurel Halo](http://www.laurelhalo.com/) (Musician)
 [!!!](http://chkchkchk.net/) (Band)<br>
 [The Recreationalist](https://www.therecreationalist.com/) (?)<br>
+[Superimpose](https://superimpose.global/) (?)<br>
 [032c](https://032c.com/) (?)<br>
 [Ecosistema del Diseño Español](https://ecosistemadeldiseño.es/) (?)
