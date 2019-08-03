@@ -20,6 +20,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Jonty Davies](http://jontydavies.com/) (Photographer)<br>
 [Sandra Autukaite](https://www.sandraautukaite.com/) (Designer)<br>
 [Kristen Cabrera](https://kristencabrera.com/) (Designer)<br>
+[Aristide Benoist](https://www.aristidebenoist.com/) (Designer)<br>
 
 ### Studios or agencies
 [Bretagne](http://www.bretagnebretagne.fr/) (Type foundry)<br>
