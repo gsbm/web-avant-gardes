@@ -35,6 +35,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 
 ### Misc
 [Untitled Sans](http://untitledsans.com/) (Font)<br>
+[CPT](https://www.centerforphilosophicaltechnologies.org/) (Research center)<br>
 [Bi Scriptual](http://bi-scriptual.com/) (Book)<br>
 [Found color](https://foundcolor.co/) (Color scheme)<br>
 [Timetable](https://timetablerecords.com/) (Music label)<br>
