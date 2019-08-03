@@ -34,6 +34,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Floris Schrama](http://www.florisschrama.nl/) (Designer)<br>
 [Pedro Cardoso](https://pedr0.com/) (Designer)<br>
 [Sara Maia](http://www.saramaia.net/) (Stylist)<br>
+[Rui da Paz](https://rui.cool/) (Designer)<br>
 
 ### Studios or agencies
 [Bretagne](http://www.bretagnebretagne.fr/) (Type foundry)<br>
