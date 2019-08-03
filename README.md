@@ -44,5 +44,6 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Timetable](https://timetablerecords.com/) (Music label)<br>
 [Demo Festival](https://demofestival.com/) (Design festival)<br>
 [Whole Festival](https://wholefestival.com/) (Music festival)<br>
+[Ricky Michiels](https://www.rickymichiels.com/) (Artist management)<br>
 [WM Artist Studio](http://www.wmartistmanagement.com/) (Artist management)<br>
 [Ecosistema del Diseño Español](https://ecosistemadeldiseño.es/) (?)
