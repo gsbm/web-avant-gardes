@@ -19,6 +19,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Nick Losacco](https://www.nicklosacco.com/) (Designer)<br>
 [Jonty Davies](http://jontydavies.com/) (Photographer)<br>
 [Pierre Choiniere](https://pierrechoiniere.com/) (Photographer)<br>
+[Agnes Lloyd-Platt](https://agneslloydplatt.com/) (Photographer)<br>
 [Sandra Autukaite](https://www.sandraautukaite.com/) (Designer)<br>
 [Kristen Cabrera](https://kristencabrera.com/) (Designer)<br>
 [Aristide Benoist](https://www.aristidebenoist.com/) (Designer)<br>
@@ -27,6 +28,12 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Adam Ho](https://www.adamho.com/) (Designer)<br>
 [Florian Monfrini](https://florianmonfrini.com/) (Artist)<br>
 [Candy Chiu](http://candychiu.com/) (Designer)<br>
+[Juraj Molnár](https://jurajmolnar.com/) (Designer)<br>
+[Max Siedentopf](http://maxsiedentopf.com/) (Visual artist)<br>
+[Mariana Lobão](http://marianalobao.com/) (Designer)<br>
+[Floris Schrama](http://www.florisschrama.nl/) (Designer)<br>
+[Pedro Cardoso](https://pedr0.com/) (Designer)<br>
+[Sara Maia](http://www.saramaia.net/) (Stylist)<br>
 
 ### Studios or agencies
 [Bretagne](http://www.bretagnebretagne.fr/) (Type foundry)<br>
@@ -52,6 +59,10 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Farbe Designbüro](https://buero-farbe.de/) (Design studio)<br>
 [Auwää](https://auwaa.ch/) (Design studio)<br>
 [Twenty Nine](https://www.xxix.co/) (Design studio)<br>
+[Heller](https://heller.tv) (Space architecture studio)<br>
+[UsVersus](https://usvs.co/) (Design studio)<br>
+[Zero Turns Two](https://two.zero.nyc/) (Design studio)<br>
+[Collins](https://www.wearecollins.com) (Design studio)<br>
 
 ### Misc
 [Untitled Sans](http://untitledsans.com/) (Font)<br>
@@ -71,10 +82,13 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Mould Map 7](http://mouldmap.com/) (Experimentals comics)<br>
 [Google Fonts + Korean](https://googlefonts.github.io/korean/) (Fonts directory)<br>
 [EFâ€”AP](http://www.ef-ap.com/) (Architecture research)<br>
+[La petite reine](http://cafelapetitereine.ch/) (Café)<br>
+[PC Graphic Design Dpt.](http://www.purchase.design/) (College)<br>
 [Man-made disaster](https://manmadedisaster.art/) (Art exhibition)<br>
 [Coal Drops Yard](https://www.coaldropsyard.com/) (Stores directory)<br>
 [Entireworld](https://theentireworld.com/) (Clothes shop)<br>
 [Han Kjøbenhavn](https://hankjobenhavn.com/) (Clothes shop)<br>
 [!!!](http://chkchkchk.net/) (Band)<br>
 [The Recreationalist](https://www.therecreationalist.com/) (?)<br>
+[032c](https://032c.com/) (?)<br>
 [Ecosistema del Diseño Español](https://ecosistemadeldiseño.es/) (?)
