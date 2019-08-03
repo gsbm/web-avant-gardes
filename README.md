@@ -91,7 +91,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Coal Drops Yard](https://www.coaldropsyard.com/) (Stores directory)<br>
 [Entireworld](https://theentireworld.com/) (Clothes shop)<br>
 [Han Kjøbenhavn](https://hankjobenhavn.com/) (Clothes shop)<br>
-[Laurel Halo](http://www.laurelhalo.com/) (Musician)
+[Laurel Halo](http://www.laurelhalo.com/) (Musician)<br>
 [!!!](http://chkchkchk.net/) (Band)<br>
 [The Recreationalist](https://www.therecreationalist.com/) (?)<br>
 [Superimpose](https://superimpose.global/) (?)<br>
