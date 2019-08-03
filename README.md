@@ -9,7 +9,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 
 ## Website collection
 
-### Independants
+### Personals
 [Lucas Le Bihan](http://lucaslebihan.fr/) (Designer)<br>
 [Julie Cristobal](http://juliecristobal.com/) (Stylist)<br>
 [Charlotte Debauge-Cahen](https://charlottedebauge.fr/) (Designer)<br>
@@ -21,7 +21,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Sandra Autukaite](https://www.sandraautukaite.com/) (Designer)<br>
 [Kristen Cabrera](https://kristencabrera.com/) (Designer)<br>
 
-### Studio
+### Studios or agencies
 [Bretagne](http://www.bretagnebretagne.fr/) (Type foundry)<br>
 [Dreams Office](http://www.dreamsoffice.fr/) (Design studio)<br>
 [Studio Lin](https://studiolin.org/) (Design studio)<br>
