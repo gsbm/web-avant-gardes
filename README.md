@@ -44,7 +44,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Untitled Sans](http://untitledsans.com/) (Font)<br>
 [CPT](https://www.centerforphilosophicaltechnologies.org/) (Research center)<br>
 [Bi Scriptual](http://bi-scriptual.com/) (Book)<br>
-[Alien magazine](http://www.alien-magazine.com/) (Magazine)
+[Alien magazine](http://www.alien-magazine.com/) (Magazine)<br>
 [Rosemilk](https://www.rosemi.lk/) (Ceramics)<br>
 [Found color](https://foundcolor.co/) (Color scheme)<br>
 [Timetable](https://timetablerecords.com/) (Music label)<br>
