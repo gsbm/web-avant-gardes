@@ -18,9 +18,15 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Gabriel Contassot](https://www.gabrielcontassot.com/) (Designer)<br>
 [Nick Losacco](https://www.nicklosacco.com/) (Designer)<br>
 [Jonty Davies](http://jontydavies.com/) (Photographer)<br>
+[Pierre Choiniere](https://pierrechoiniere.com/) (Photographer)<br>
 [Sandra Autukaite](https://www.sandraautukaite.com/) (Designer)<br>
 [Kristen Cabrera](https://kristencabrera.com/) (Designer)<br>
 [Aristide Benoist](https://www.aristidebenoist.com/) (Designer)<br>
+[Vincent Tavano](https://www.tavanovincent.com/) (Designer)<br>
+[Chrissie Abbott](https://chrissieabbott.com/) (Designer)<br>
+[Adam Ho](https://www.adamho.com/) (Designer)<br>
+[Florian Monfrini](https://florianmonfrini.com/) (Artist)<br>
+[Candy Chiu](http://candychiu.com/) (Designer)<br>
 
 ### Studios or agencies
 [Bretagne](http://www.bretagnebretagne.fr/) (Type foundry)<br>
@@ -40,6 +46,12 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [101](http://101.at/) (Design studio)<br>
 [Nord+](https://www.nord.plus/) (Design studio)<br>
 [Belen Tenorio](http://www.belentenorio.com/) (Design studio)<br>
+[Two much](http://twomuch.studio/) (Design studio)<br>
+[HAWRAF](https://www.hawraf.com/) (Design studio)<br>
+[Jaapsmit](https://jaapsmit.nl/) (Design studio)<br>
+[Farbe Designbüro](https://buero-farbe.de/) (Design studio)<br>
+[Auwää](https://auwaa.ch/) (Design studio)<br>
+[Twenty Nine](https://www.xxix.co/) (Design studio)<br>
 
 ### Misc
 [Untitled Sans](http://untitledsans.com/) (Font)<br>
@@ -59,4 +71,10 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Mould Map 7](http://mouldmap.com/) (Experimentals comics)<br>
 [Google Fonts + Korean](https://googlefonts.github.io/korean/) (Fonts directory)<br>
 [EFâ€”AP](http://www.ef-ap.com/) (Architecture research)<br>
+[Man-made disaster](https://manmadedisaster.art/) (Art exhibition)<br>
+[Coal Drops Yard](https://www.coaldropsyard.com/) (Stores directory)<br>
+[Entireworld](https://theentireworld.com/) (Clothes shop)<br>
+[Han Kjøbenhavn](https://hankjobenhavn.com/) (Clothes shop)<br>
+[!!!](http://chkchkchk.net/) (Band)<br>
+[The Recreationalist](https://www.therecreationalist.com/) (?)
 [Ecosistema del Diseño Español](https://ecosistemadeldiseño.es/) (?)
