@@ -9,7 +9,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 
 ## Website collection
 
-### Personals
+### Personals pages
 [Lucas Le Bihan](http://lucaslebihan.fr/) (Designer)<br>
 [Julie Cristobal](http://juliecristobal.com/) (Stylist)<br>
 [Charlotte Debauge-Cahen](https://charlottedebauge.fr/) (Designer)<br>
@@ -67,7 +67,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Bureau Mirko Borsche](https://bureauborsche.com) (Design studio)<br>
 [High5](http://www.highfivebro.com/) (Design studio)<br>
 
-### Misc
+### Miscellaneous
 [Untitled Sans](http://untitledsans.com/) (Font)<br>
 [CPT](https://www.centerforphilosophicaltechnologies.org/) (Research center)<br>
 [Bi Scriptual](http://bi-scriptual.com/) (Book)<br>
@@ -92,8 +92,8 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Entireworld](https://theentireworld.com/) (Clothes shop)<br>
 [Han Kjøbenhavn](https://hankjobenhavn.com/) (Clothes shop)<br>
 [Laurel Halo](http://www.laurelhalo.com/) (Musician)<br>
-[!!!](http://chkchkchk.net/) (Band)<br>
+[Ecosistema del Diseño Español](https://ecosistemadeldiseño.es/) (?)
 [The Recreationalist](https://www.therecreationalist.com/) (?)<br>
 [Superimpose](https://superimpose.global/) (?)<br>
 [032c](https://032c.com/) (?)<br>
-[Ecosistema del Diseño Español](https://ecosistemadeldiseño.es/) (?)
+[!!!](http://chkchkchk.net/) (Band)<br>
