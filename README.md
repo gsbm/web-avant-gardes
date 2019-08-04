@@ -104,7 +104,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Laurel Halo](http://www.laurelhalo.com/) (Musician)<br>
 [Dateagle Art](https://dateagle.art/) (Art journal)<br>
 [All your days](https://www.allyourdays.com/) (Band tour)<br>
-[Ecosistema del Diseño Español](https://ecosistemadeldiseño.es/) (?)
+[Ecosistema del Diseño Español](https://ecosistemadeldiseño.es/) (?)<br>
 [The Recreationalist](https://www.therecreationalist.com/) (?)<br>
 [Superimpose](https://superimpose.global/) (?)<br>
 [Marini marmi](http://www.marinimarmi.com/) (?)<br>
