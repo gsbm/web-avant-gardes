@@ -20,6 +20,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Jonty Davies](http://jontydavies.com/) (Photographer)<br>
 [Pierre Choiniere](https://pierrechoiniere.com/) (Photographer)<br>
 [Agnes Lloyd-Platt](https://agneslloydplatt.com/) (Photographer)<br>
+[Sara Marandi](http://www.saramarandi.com/) (Photographer)<br>
 [Sandra Autukaite](https://www.sandraautukaite.com/) (Designer)<br>
 [Kristen Cabrera](https://kristencabrera.com/) (Designer)<br>
 [Aristide Benoist](https://www.aristidebenoist.com/) (Designer)<br>
@@ -35,6 +36,8 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Pedro Cardoso](https://pedr0.com/) (Designer)<br>
 [Sara Maia](http://www.saramaia.net/) (Stylist)<br>
 [Rui da Paz](https://rui.cool/) (Designer)<br>
+[Xevi Fernandez](https://xevifernandez.com/) (Stylist)<br>
+[Athena Tian](https://yuenye.com/) (Designer)<br>
 
 ### Studios or agencies
 [Bretagne](http://www.bretagnebretagne.fr/) (Type foundry)<br>
@@ -62,13 +65,16 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Twenty Nine](https://www.xxix.co/) (Design studio)<br>
 [Heller](https://heller.tv) (Space architecture studio)<br>
 [UsVersus](https://usvs.co/) (Design studio)<br>
+[Zero](https://zero.nyc/) (Design studio)<br>
 [Zero Turns Two](https://two.zero.nyc/) (Design studio)<br>
 [Collins](https://www.wearecollins.com) (Design studio)<br>
 [Bureau Mirko Borsche](https://bureauborsche.com) (Design studio)<br>
 [High5](http://www.highfivebro.com/) (Design studio)<br>
+[GDW](https://gdw.kr/) (Design studio)<br>
+[Stuuudio](https://stuuudio.co/) (Design studio)<br>
 
 ### Miscellaneous
-[Untitled Sans](http://untitledsans.com/) (Font)<br>
+[Untitled Sans](http://untitledsans.com/) (Typeface)<br>
 [CPT](https://www.centerforphilosophicaltechnologies.org/) (Research center)<br>
 [Bi Scriptual](http://bi-scriptual.com/) (Book)<br>
 [Alien magazine](http://www.alien-magazine.com/) (Magazine)<br>
@@ -91,7 +97,12 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Coal Drops Yard](https://www.coaldropsyard.com/) (Stores directory)<br>
 [Entireworld](https://theentireworld.com/) (Clothes shop)<br>
 [Han Kjøbenhavn](https://hankjobenhavn.com/) (Clothes shop)<br>
+[Won Hundred](https://wonhundred.com/) (Clothes shop)<br>
+[Balenciaga](https://www.balenciaga.com/nl/) (Clothes shop)<br>
+[Nanushka](https://www.nanushka.com/) (Clothes shop)<br>
 [Laurel Halo](http://www.laurelhalo.com/) (Musician)<br>
+[Dateagle Art](https://dateagle.art/) (Art journal)<br>
+[All your days](https://www.allyourdays.com/) (Band tour)<br>
 [Ecosistema del Diseño Español](https://ecosistemadeldiseño.es/) (?)
 [The Recreationalist](https://www.therecreationalist.com/) (?)<br>
 [Superimpose](https://superimpose.global/) (?)<br>
