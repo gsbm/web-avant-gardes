@@ -72,6 +72,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [High5](http://www.highfivebro.com/) (Design studio)<br>
 [GDW](https://gdw.kr/) (Design studio)<br>
 [Stuuudio](https://stuuudio.co/) (Design studio)<br>
+[Osk](http://osk.co/) (Design studio)<br>
 
 ### Miscellaneous
 [Untitled Sans](http://untitledsans.com/) (Typeface)<br>
@@ -106,5 +107,6 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Ecosistema del Diseño Español](https://ecosistemadeldiseño.es/) (?)
 [The Recreationalist](https://www.therecreationalist.com/) (?)<br>
 [Superimpose](https://superimpose.global/) (?)<br>
+[Marini marmi](http://www.marinimarmi.com/) (?)<br>
 [032c](https://032c.com/) (?)<br>
 [!!!](http://chkchkchk.net/) (Band)<br>
