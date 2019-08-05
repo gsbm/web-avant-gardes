@@ -11,7 +11,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 
 ### Personal pages
 [Lucas Le Bihan](http://lucaslebihan.fr/) (Designer)<br>
-[Julie Cristobal](http://juliecristobal.com/) (Stylist)<br>
+`★` [Julie Cristobal](http://juliecristobal.com/) (Stylist)<br>
 [Charlotte Debauge-Cahen](https://charlottedebauge.fr/) (Designer)<br>
 [Pavel Kedzich](https://kedzich.com/) (Designer)<br>
 [Adam Brandon](http://adam-brandon.com) (Art director)<br>
