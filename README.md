@@ -38,6 +38,18 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Rui da Paz](https://rui.cool/) (Designer)<br>
 [Xevi Fernandez](https://xevifernandez.com/) (Stylist)<br>
 [Athena Tian](https://yuenye.com/) (Designer)<br>
+[Sonia Rentsch](http://www.soniarentsch.com/about) (Art director)<br>
+[Mara Züst](https://marazuest.net/) (Artist)<br>
+[Christopher Paul Sharpe](http://christopherpaulsharpe.com/) (Photographer)<br>
+[Anna Rosa](http://annarosa.com/) (Photographer)<br>
+[Julia Sellmann](http://juliasellmann.com/) (Photographer)<br>
+[Alexander Coggin](http://alexandercoggin.com/) (Photographer)<br>
+[Dan Holdsworth](http://www.danholdsworth.com/) (Photographer)<br>
+[Sacha Maric](https://www.sachamaric.com/) (Photographer)<br>
+[Rachel de Joode](https://racheldejoode.com/) (Artist)<br>
+[Caroline Dussuel](https://carolinedussuel.com/) (Photographer)<br>
+[Bharat Sikka](http://www.bharatsikka.com/) (Artist)<br>
+[Mary Gaudin](https://marygaudin.com/) (Photographer)<br>
 
 ### Studios or agencies
 [Bretagne](http://www.bretagnebretagne.fr/) (Type foundry)<br>
@@ -73,6 +85,9 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [GDW](https://gdw.kr/) (Design studio)<br>
 [Stuuudio](https://stuuudio.co/) (Design studio)<br>
 [Osk](http://osk.co/) (Design studio)<br>
+[Maud](https://www.maud.com.au/) (Design studio)<br>
+[Dunne & Raby](http://dunneandraby.co.uk/) (Design studio)<br>
+[Atelier Dreibholz](http://dreibholz.com/) (Design studio)<br>
 
 ### Miscellaneous
 [Untitled Sans](http://untitledsans.com/) (Typeface)<br>
@@ -104,6 +119,8 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Laurel Halo](http://www.laurelhalo.com/) (Musician)<br>
 [Dateagle Art](https://dateagle.art/) (Art journal)<br>
 [All your days](https://www.allyourdays.com/) (Band tour)<br>
+[Syrena art museum](http://syrena.artmuseum.pl/) (Art museum)<br>
+[Guggenheim](http://exhibitions.guggenheim.org/storylines/) (Art museum)<br>
 [Ecosistema del Diseño Español](https://ecosistemadeldiseño.es/) (?)<br>
 [The Recreationalist](https://www.therecreationalist.com/) (?)<br>
 [Superimpose](https://superimpose.global/) (?)<br>
