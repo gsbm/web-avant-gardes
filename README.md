@@ -159,10 +159,10 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Sifang Art Museum](http://www.sifangartmuseum.org/) (Art museum)<br>
 [La modernité viennoise](https://modernism.vienna.info/fr/) (Culture)<br>
 [Marianne Brandt Award](https://marianne-brandt-wettbewerb.de/) (Award)<br>
+[!!!](http://chkchkchk.net/) (Band)<br>
 [Ecosistema del Diseño Español](https://ecosistemadeldiseño.es/) (?)<br>
 [The Recreationalist](https://www.therecreationalist.com/) (?)<br>
 [Superimpose](https://superimpose.global/) (?)<br>
 [Lubalin 100](http://www.lubalin100.com/) (?)<br>
 [Marini marmi](http://www.marinimarmi.com/) (?)<br>
 [032c](https://032c.com/) (?)<br>
-[!!!](http://chkchkchk.net/) (Band)<br>
