@@ -143,7 +143,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Man-made disaster](https://manmadedisaster.art/) (Art exhibition)<br>
 [Coal Drops Yard](https://www.coaldropsyard.com/) (Stores directory)<br>
 [Entireworld](https://theentireworld.com/) (Clothes shop)<br>
-[Han Kjøbenhavn](https://hankjobenhavn.com/) (Clothes shop)<br>
+`★` [Han Kjøbenhavn](https://hankjobenhavn.com/) (Clothes shop)<br>
 [Won Hundred](https://wonhundred.com/) (Clothes shop)<br>
 [Balenciaga](https://www.balenciaga.com/nl/) (Clothes shop)<br>
 [Nanushka](https://www.nanushka.com/) (Clothes shop)<br>
