@@ -57,6 +57,18 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Geordie Wood](http://geordiewood.com/) (Photographer)<br>
 [Jenny Nordberg](http://jenny-nordberg.com/) (Artist)<br>
 [Diane Martel](https://diane-martel.com/) (Visual artist)<br>
+[Nicolas Delaroche](https://nicolasdelaroche.com/) (Artist)<br>
+[Naho Kubota](https://nahokubota.com/) (Photographer)<br>
+[Yoshihiko Ueda](http://www.yoshihikoueda.com/) (Photographer)<br>
+[Ilari Laamanen](http://ilarilaamanen.com/) (Curator)<br>
+[Lindsay Howard](http://lindsayhoward.net/) (Curator)<br>
+[Sven Stuckenschmidt](https://www.svenstuckenschmidt.de/) (Artist)<br>
+[Erwan Sene](http://www.erwansene.pro/) (Artist)<br>
+[Eric Price](https://ericprice.cc/) (Designer)<br>
+[Martin Wecke](https://martinwecke.de/) (Designer)<br>
+[Samuel Coronado](https://samucoronado.com/) (Designer)<br>
+[Svyat Vishnyakov](https://vishvish.design/) (Designer)<br>
+[Mariya Pepelanova](https://pepecph.com/) (Photographer)<br>
 
 ### Studios or agencies
 [Bretagne](http://www.bretagnebretagne.fr/) (Type foundry)<br>
@@ -72,7 +84,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Azab](https://www.azab.es/) (Architecture studio)<br>
 [RTA Studio](http://rtastudio.co.nz/) (Architecture studio)<br>
 [Scholz and Associates](https://scholzand.com/) (Agency)<br>
-[Design by Toko](https://designbytoko.com/) (Design studio)<br>
+[Gallery by Toko](https://designbytoko.com/) (Design studio)<br>
 [101](http://101.at/) (Design studio)<br>
 [Nord+](https://www.nord.plus/) (Design studio)<br>
 [Belen Tenorio](http://www.belentenorio.com/) (Design studio)<br>
@@ -97,6 +109,14 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Atelier Dreibholz](http://dreibholz.com/) (Design studio)<br>
 [Pol Solsona Studio](http://polsolsona.com/) (Design studio)<br>
 [No plans](https://noplans.show/) (Design studio)<br>
+[Unu o unu](http://www.unuounu.org/) (Artist association)<br>
+[CCKW](https://www.cckw.us/shop) (Design studio)<br>
+[Inventory Studio](http://inventorystudio.co.uk/) (Design studio)<br>
+[Studio Vedet](https://studiovedet.com/) (Design studio)<br>
+[Counterpoint](http://counterpoint-association.com/) (Artist association)<br>
+[Studio Rejane Dal Bello](http://rejanedalbello.com/) (Design studio)<br>
+[Atelier Florian Markl](https://florianmarkl.com/) (Design studio)<br>
+[Switch](https://switch.co.nz/) (Design studio)<br>
 
 ### Miscellaneous
 [Untitled Sans](http://untitledsans.com/) (Typeface)<br>
@@ -108,6 +128,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Timetable](https://timetablerecords.com/) (Music label)<br>
 [Demo Festival](https://demofestival.com/) (Design festival)<br>
 [Whole Festival](https://wholefestival.com/) (Music festival)<br>
+[Dice](http://dice.berlin/) (Music festival)<br>
 [Ricky Michiels](https://www.rickymichiels.com/) (Artist management)<br>
 [WM Artist Studio](http://www.wmartistmanagement.com/) (Artist management)<br>
 [A-okay](http://a-okay.one/) (Translators)<br>
@@ -117,7 +138,8 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Google Fonts + Korean](https://googlefonts.github.io/korean/) (Fonts directory)<br>
 [EFâ€”AP](http://www.ef-ap.com/) (Architecture research)<br>
 [La petite reine](http://cafelapetitereine.ch/) (Café)<br>
-[PC Graphic Design Dpt.](http://www.purchase.design/) (College)<br>
+[PC Graphic Design Dpt.](http://www.purchase.design/) (Educational program)<br>
+[Future London Academy](https://bauhaus.futurelondonacademy.com/)
 [Man-made disaster](https://manmadedisaster.art/) (Art exhibition)<br>
 [Coal Drops Yard](https://www.coaldropsyard.com/) (Stores directory)<br>
 [Entireworld](https://theentireworld.com/) (Clothes shop)<br>
@@ -129,11 +151,18 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Visual Journal](https://visualjournal.it/) (Blog)<br>
 [Dateagle Art](https://dateagle.art/) (Art journal)<br>
 [All your days](https://www.allyourdays.com/) (Band tour)<br>
-[Syrena art museum](http://syrena.artmuseum.pl/) (Art museum)<br>
+[Syrena Art Museum](http://syrena.artmuseum.pl/) (Art museum)<br>
+[The Physics Room](http://physicsroom.org.nz/) (Art gallery)<br>
+[Edouard Malingue](https://edouardmalingue.com/) (Art gallery)<br>
+[A plus A](http://aplusa.it/) (Art gallery)<br>
 [Guggenheim](http://exhibitions.guggenheim.org/storylines/) (Art museum)<br>
+[Sifang Art Museum](http://www.sifangartmuseum.org/) (Art museum)<br>
+[La modernité viennoise](https://modernism.vienna.info/fr/) (Culture)<br>
+[Marianne Brandt Award](https://marianne-brandt-wettbewerb.de/) (Award)<br>
 [Ecosistema del Diseño Español](https://ecosistemadeldiseño.es/) (?)<br>
 [The Recreationalist](https://www.therecreationalist.com/) (?)<br>
 [Superimpose](https://superimpose.global/) (?)<br>
+[Lubalin 100](http://www.lubalin100.com/) (?)<br>
 [Marini marmi](http://www.marinimarmi.com/) (?)<br>
 [032c](https://032c.com/) (?)<br>
 [!!!](http://chkchkchk.net/) (Band)<br>
