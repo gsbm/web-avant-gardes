@@ -50,6 +50,13 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Caroline Dussuel](https://carolinedussuel.com/) (Photographer)<br>
 [Bharat Sikka](http://www.bharatsikka.com/) (Artist)<br>
 [Mary Gaudin](https://marygaudin.com/) (Photographer)<br>
+[Stefan Heinrichs](http://www.stefanheinrichs.com/) (Photographer)<br>
+[Kristina Bartosova](http://kristinabartosova.com/) (Designer)<br>
+[Sophia Goedecke](http://sophiagoedecke.de/) (Designer)<br>
+[Yan Tomaszewski](http://yantomaszewski.com/) (Artist)<br>
+[Geordie Wood](http://geordiewood.com/) (Photographer)<br>
+[Jenny Nordberg](http://jenny-nordberg.com/) (Artist)<br>
+[Diane Martel](https://diane-martel.com/) (Visual artist)<br>
 
 ### Studios or agencies
 [Bretagne](http://www.bretagnebretagne.fr/) (Type foundry)<br>
@@ -88,6 +95,8 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Maud](https://www.maud.com.au/) (Design studio)<br>
 [Dunne & Raby](http://dunneandraby.co.uk/) (Design studio)<br>
 [Atelier Dreibholz](http://dreibholz.com/) (Design studio)<br>
+[Pol Solsona Studio](http://polsolsona.com/) (Design studio)<br>
+[No plans](https://noplans.show/) (Design studio)<br>
 
 ### Miscellaneous
 [Untitled Sans](http://untitledsans.com/) (Typeface)<br>
@@ -117,6 +126,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Balenciaga](https://www.balenciaga.com/nl/) (Clothes shop)<br>
 [Nanushka](https://www.nanushka.com/) (Clothes shop)<br>
 [Laurel Halo](http://www.laurelhalo.com/) (Musician)<br>
+[Visual Journal](https://visualjournal.it/) (Blog)<br>
 [Dateagle Art](https://dateagle.art/) (Art journal)<br>
 [All your days](https://www.allyourdays.com/) (Band tour)<br>
 [Syrena art museum](http://syrena.artmuseum.pl/) (Art museum)<br>
