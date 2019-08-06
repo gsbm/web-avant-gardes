@@ -14,7 +14,6 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 `★` [Julie Cristobal](http://juliecristobal.com/) (Stylist)<br>
 [Charlotte Debauge-Cahen](https://charlottedebauge.fr/) (Designer)<br>
 [Pavel Kedzich](https://kedzich.com/) (Designer)<br>
-[Adam Brandon](http://adam-brandon.com) (Art director)<br>
 [Nick Losacco](https://www.nicklosacco.com/) (Designer)<br>
 [Jonty Davies](http://jontydavies.com/) (Photographer)<br>
 [Pierre Choiniere](https://pierrechoiniere.com/) (Photographer)<br>
