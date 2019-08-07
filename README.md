@@ -163,7 +163,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [EFâ€”AP](http://www.ef-ap.com/) (Architecture research)<br>
 [La petite reine](http://cafelapetitereine.ch/) (Café)<br>
 [PC Graphic Design Dpt.](http://www.purchase.design/) (Educational program)<br>
-[Future London Academy](https://bauhaus.futurelondonacademy.com/)
+[Future London Academy](https://bauhaus.futurelondonacademy.com/) (Educational program)<br>
 [Man-made disaster](https://manmadedisaster.art/) (Art exhibition)<br>
 [Coal Drops Yard](https://www.coaldropsyard.com/) (Stores directory)<br>
 [Entireworld](https://theentireworld.com/) (Clothes shop)<br>
