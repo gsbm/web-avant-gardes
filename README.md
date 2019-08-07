@@ -138,6 +138,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [56](https://56.digital/) (Design studio)<br>
 [Namespace](https://namespace.studio/) (Design studio)<br>
 [Mint Art Haus](https://mintarthaus.com/) (Design studio)<br>
+[Blaze Type](https://blazetype.eu/) (Type foundry)<br>
 
 ### Miscellaneous
 [Untitled Sans](http://untitledsans.com/) (Typeface)<br>
