@@ -67,6 +67,8 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Samuel Coronado](https://samucoronado.com/) (Designer)<br>
 [Svyat Vishnyakov](https://vishvish.design/) (Designer)<br>
 [Mariya Pepelanova](https://pepecph.com/) (Photographer)<br>
+[Floris Schrama](http://www.florisschrama.nl/) (Designer)<br>
+[Jacob Sutton](http://jacobsutton.com/) (Photographer)<br>
 
 ### Studios or agencies
 [Bretagne](http://www.bretagnebretagne.fr/) (Type foundry)<br>
@@ -117,6 +119,8 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Switch](https://switch.co.nz/) (Design studio)<br>
 [Random Ltd](https://ransomltd.com/) (Design studio)<br>
 [Climate](http://thisisclimate.com/) (Design studio)<br>
+[Apelido & Apelido](https://apelido-apelido.com/) (Design studio)<br>
+[YO YO YO](https://yoyoyo.photos/) (Design studio)<br>
 
 ### Miscellaneous
 [Untitled Sans](http://untitledsans.com/) (Typeface)<br>
@@ -127,6 +131,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Found color](https://foundcolor.co/) (Color scheme)<br>
 [Timetable](https://timetablerecords.com/) (Music label)<br>
 [Demo Festival](https://demofestival.com/) (Design festival)<br>
+[Weltformat Festival](https://weltformat-festival.ch/) (Design festival)<br>
 [Whole Festival](https://wholefestival.com/) (Music festival)<br>
 [Dice](http://dice.berlin/) (Music festival)<br>
 [Ricky Michiels](https://www.rickymichiels.com/) (Artist management)<br>
