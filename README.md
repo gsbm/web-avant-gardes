@@ -193,7 +193,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [RISD GD Triennial](http://risdgdtriennial2018.risd.gd/) (Exhibition)<br>
 [Modeselecktor](https://www.modeselektor.com/) (Band)<br>
 [!!!](http://chkchkchk.net/) (Band)<br>
-[Bergen Assembly](http://bergenassembly.no/) (Contemporary art event)
+[Bergen Assembly](http://bergenassembly.no/) (Contemporary art event)<br>
 [Most meaningful](http://mostmeaningful.org/) (?)<br>
 [Stormwender](https://stromwender.nl/) (?)<br>
 [Ecosistema del Diseño Español](https://ecosistemadeldiseño.es/) (?)<br>
