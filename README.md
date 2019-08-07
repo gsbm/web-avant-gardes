@@ -69,6 +69,10 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Mariya Pepelanova](https://pepecph.com/) (Photographer)<br>
 [Floris Schrama](http://www.florisschrama.nl/) (Designer)<br>
 [Jacob Sutton](http://jacobsutton.com/) (Photographer)<br>
+[Nelson Heinemann](https://nelsonheinemann.com/) (Stylist)<br>
+[Karina Zavidova](http://zavidova.com/) (Designer)<br>
+[Dan Flynn](http://design.byform.co/) (Designer)<br>
+[Timur Fattahov](https://timur.red/) (Designer)<br>
 
 ### Studios or agencies
 [Bretagne](http://www.bretagnebretagne.fr/) (Type foundry)<br>
@@ -121,6 +125,8 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Climate](http://thisisclimate.com/) (Design studio)<br>
 [Apelido & Apelido](https://apelido-apelido.com/) (Design studio)<br>
 [YO YO YO](https://yoyoyo.photos/) (Design studio)<br>
+[Math Practise](http://math-practice.org/) (Design studio)<br>
+[Crevv](https://crevv.com/) (Design studio)<br>
 
 ### Miscellaneous
 [Untitled Sans](http://untitledsans.com/) (Typeface)<br>
@@ -152,18 +158,25 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Won Hundred](https://wonhundred.com/) (Clothes shop)<br>
 [Balenciaga](https://www.balenciaga.com/nl/) (Clothes shop)<br>
 [Nanushka](https://www.nanushka.com/) (Clothes shop)<br>
+[Stubio](https://stu-b-io.com/) (Clothes shop)<br>
 [Laurel Halo](http://www.laurelhalo.com/) (Musician)<br>
 [Visual Journal](https://visualjournal.it/) (Blog)<br>
+[I will Seoul you](http://iwillseoulyou.kr/) (Blog)<br>
 [Dateagle Art](https://dateagle.art/) (Art journal)<br>
 [All your days](https://www.allyourdays.com/) (Band tour)<br>
 [Syrena Art Museum](http://syrena.artmuseum.pl/) (Art museum)<br>
 [The Physics Room](http://physicsroom.org.nz/) (Art gallery)<br>
 [Edouard Malingue](https://edouardmalingue.com/) (Art gallery)<br>
 [A plus A](http://aplusa.it/) (Art gallery)<br>
+[Secret Friend](http://secret-friend.xyz/) (Experimental showcase)<br>
+[Antenne Books](https://www.antennebooks.com/) (Books shop)<br>
+[Dapp Boi](https://dappboi.com/) (Blockchain)<br>
 [Guggenheim](http://exhibitions.guggenheim.org/storylines/) (Art museum)<br>
 [Sifang Art Museum](http://www.sifangartmuseum.org/) (Art museum)<br>
+[SeMA](http://sema.seoul.go.kr/) (Art museum)<br>
 [La modernité viennoise](https://modernism.vienna.info/fr/) (Culture)<br>
 [Marianne Brandt Award](https://marianne-brandt-wettbewerb.de/) (Award)<br>
+[RISD GD Triennial](http://risdgdtriennial2018.risd.gd/) (Exhibition)<br>
 [!!!](http://chkchkchk.net/) (Band)<br>
 [Ecosistema del Diseño Español](https://ecosistemadeldiseño.es/) (?)<br>
 [The Recreationalist](https://www.therecreationalist.com/) (?)<br>
