@@ -73,6 +73,13 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Karina Zavidova](http://zavidova.com/) (Designer)<br>
 [Dan Flynn](http://design.byform.co/) (Designer)<br>
 [Timur Fattahov](https://timur.red/) (Designer)<br>
+[Mirelle Borra](https://mirelleborra.com/) (Artist)<br>
+[Kostas Murkudis](http://kostasmurkudis.net/) (Designer)<br>
+[Matteo Masette](https://www.masette.com/) (Designer)<br>
+[Grace Hoffman](http://gracehoffman.com/) (Designer)<br>
+[Gaëtan Thirion](http://gaetan-thirion.com/) (Designer)<br>
+[Anthony Scime](https://art-ams.com/) (Designer)<br>
+[Pleun Verhoofstad](https://pleunverhoofstad.com/OVER-PLEUN) (Designer)<br>
 
 ### Studios or agencies
 [Bretagne](http://www.bretagnebretagne.fr/) (Type foundry)<br>
@@ -127,11 +134,16 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [YO YO YO](https://yoyoyo.photos/) (Design studio)<br>
 [Math Practise](http://math-practice.org/) (Design studio)<br>
 [Crevv](https://crevv.com/) (Design studio)<br>
+[Purho](http://www.purho.it/en/) (Design studio)<br>
+[56](https://56.digital/) (Design studio)<br>
+[Namespace](https://namespace.studio/) (Design studio)<br>
+[Mint Art Haus](https://mintarthaus.com/) (Design studio)<br>
 
 ### Miscellaneous
 [Untitled Sans](http://untitledsans.com/) (Typeface)<br>
 [CPT](https://www.centerforphilosophicaltechnologies.org/) (Research center)<br>
 [Bi Scriptual](http://bi-scriptual.com/) (Book)<br>
+[Middleplane](https://middleplane.com/) (Book)<br>
 [Alien magazine](http://www.alien-magazine.com/) (Magazine)<br>
 [Rosemilk](https://www.rosemi.lk/) (Ceramics)<br>
 [Found color](https://foundcolor.co/) (Color scheme)<br>
@@ -143,6 +155,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Ricky Michiels](https://www.rickymichiels.com/) (Artist management)<br>
 [WM Artist Studio](http://www.wmartistmanagement.com/) (Artist management)<br>
 [A-okay](http://a-okay.one/) (Translators)<br>
+[SSHH](https://sshh.nyc/) (Open space)<br>
 [A big mood](http://hexagon-ux.superhi.com/) (Blog)<br>
 [ClarkfromInvision](https://clarkfrominvision.com/) (Blog)<br>
 [Mould Map 7](http://mouldmap.com/) (Experimentals comics)<br>
@@ -159,6 +172,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Balenciaga](https://www.balenciaga.com/nl/) (Clothes shop)<br>
 [Nanushka](https://www.nanushka.com/) (Clothes shop)<br>
 [Stubio](https://stu-b-io.com/) (Clothes shop)<br>
+[Temporary Mark](http://temporarymark.com/) (Clothes shop)<br>
 [Laurel Halo](http://www.laurelhalo.com/) (Musician)<br>
 [Visual Journal](https://visualjournal.it/) (Blog)<br>
 [I will Seoul you](http://iwillseoulyou.kr/) (Blog)<br>
@@ -177,9 +191,14 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [La modernité viennoise](https://modernism.vienna.info/fr/) (Culture)<br>
 [Marianne Brandt Award](https://marianne-brandt-wettbewerb.de/) (Award)<br>
 [RISD GD Triennial](http://risdgdtriennial2018.risd.gd/) (Exhibition)<br>
+[Modeselecktor](https://www.modeselektor.com/) (Band)<br>
 [!!!](http://chkchkchk.net/) (Band)<br>
+[Bergen Assembly](http://bergenassembly.no/) (Contemporary art event)
+[Most meaningful](http://mostmeaningful.org/) (?)<br>
+[Stormwender](https://stromwender.nl/) (?)<br>
 [Ecosistema del Diseño Español](https://ecosistemadeldiseño.es/) (?)<br>
 [The Recreationalist](https://www.therecreationalist.com/) (?)<br>
+[Participant Inc](http://participantinc.org/) (?)<br>
 [Superimpose](https://superimpose.global/) (?)<br>
 [Lubalin 100](http://www.lubalin100.com/) (?)<br>
 [Marini marmi](http://www.marinimarmi.com/) (?)<br>
