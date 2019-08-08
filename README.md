@@ -82,6 +82,11 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Anthony Scime](https://art-ams.com/) (Designer)<br>
 [Pleun Verhoofstad](https://pleunverhoofstad.com/OVER-PLEUN) (Designer)<br>
 [Jeremie Dussault-Lefebvre](https://jeremie.xyz/) (Designer)<br>
+[Esther Hovers](https://estherhovers.com/About-Contact) (Photographer)<br>
+[Nicolas C. Eckhardt](https://nicholasceckhardt.com/) (Photographer)<br>
+[Sammlung Walter](https://sammlungwalter.de/) (Designer)<br>
+[Sasha Ng](http://sasha-ng.com/) (Designer)<br>
+[Ben Cross](https://www.bencross.xyz/) (Designer)<br>
 
 ### Studios or agencies
 [Bretagne](http://www.bretagnebretagne.fr/) (Type foundry)<br>
@@ -135,6 +140,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Climate](http://thisisclimate.com/) (Design studio)<br>
 [Apelido & Apelido](https://apelido-apelido.com/) (Design studio)<br>
 [YO YO YO](https://yoyoyo.photos/) (Design studio)<br>
+[From A to B](http://studio-fromatob.com/) (Design studio)<br>
 [Math Practise](http://math-practice.org/) (Design studio)<br>
 [Crevv](https://crevv.com/) (Design studio)<br>
 [Purho](http://www.purho.it/en/) (Design studio)<br>
@@ -142,6 +148,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Namespace](https://namespace.studio/) (Design studio)<br>
 [Mint Art Haus](https://mintarthaus.com/) (Design studio)<br>
 [Blaze Type](https://blazetype.eu/) (Type foundry)<br>
+[Writing Man](https://www.writingman.co.uk/) (Copywriting)<br>
 
 ### Miscellaneous
 [Untitled Sans](http://untitledsans.com/) (Typeface)<br>
@@ -169,6 +176,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [PC Graphic Design Dpt.](http://www.purchase.design/) (Educational program)<br>
 [Future London Academy](https://bauhaus.futurelondonacademy.com/) (Educational program)<br>
 [Man-made disaster](https://manmadedisaster.art/) (Art exhibition)<br>
+[Spinny Nights](https://www.spinnynights.com/) (Showcase platform)<br>
 [Coal Drops Yard](https://www.coaldropsyard.com/) (Stores directory)<br>
 [Entireworld](https://theentireworld.com/) (Clothes shop)<br>
 `★` [Han Kjøbenhavn](https://hankjobenhavn.com/) (Clothes shop)<br>
@@ -197,6 +205,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Marianne Brandt Award](https://marianne-brandt-wettbewerb.de/) (Award)<br>
 [RISD GD Triennial](http://risdgdtriennial2018.risd.gd/) (Exhibition)<br>
 [Modeselecktor](https://www.modeselektor.com/) (Band)<br>
+[First Crimes](https://www.firstcrimes.com/) (Band)<br>
 [!!!](http://chkchkchk.net/) (Band)<br>
 [Bergen Assembly](http://bergenassembly.no/) (Contemporary art event)<br>
 [Most meaningful](http://mostmeaningful.org/) (?)<br>
