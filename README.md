@@ -69,6 +69,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Mariya Pepelanova](https://pepecph.com/) (Photographer)<br>
 [Floris Schrama](http://www.florisschrama.nl/) (Designer)<br>
 [Jacob Sutton](http://jacobsutton.com/) (Photographer)<br>
+`★` [Ella Lehto](https://ellalehto.com/) (Designer)<br>
 [Nelson Heinemann](https://nelsonheinemann.com/) (Stylist)<br>
 [Karina Zavidova](http://zavidova.com/) (Designer)<br>
 [Dan Flynn](http://design.byform.co/) (Designer)<br>
@@ -80,6 +81,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Gaëtan Thirion](http://gaetan-thirion.com/) (Designer)<br>
 [Anthony Scime](https://art-ams.com/) (Designer)<br>
 [Pleun Verhoofstad](https://pleunverhoofstad.com/OVER-PLEUN) (Designer)<br>
+[Jeremie Dussault-Lefebvre](https://jeremie.xyz/) (Designer)<br>
 
 ### Studios or agencies
 [Bretagne](http://www.bretagnebretagne.fr/) (Type foundry)<br>
@@ -123,6 +125,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Unu o unu](http://www.unuounu.org/) (Artist association)<br>
 [CCKW](https://www.cckw.us/shop) (Design studio)<br>
 [Inventory Studio](http://inventorystudio.co.uk/) (Design studio)<br>
+`★` [Another Studio](http://anotherstudio.it/) (Design studio)<br>
 [Studio Vedet](https://studiovedet.com/) (Design studio)<br>
 [Counterpoint](http://counterpoint-association.com/) (Artist association)<br>
 [Studio Rejane Dal Bello](http://rejanedalbello.com/) (Design studio)<br>
@@ -175,6 +178,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Stubio](https://stu-b-io.com/) (Clothes shop)<br>
 [Temporary Mark](http://temporarymark.com/) (Clothes shop)<br>
 [Laurel Halo](http://www.laurelhalo.com/) (Musician)<br>
+[Beakermag](https://breakermag.com/) (Magazine)<br>
 [Visual Journal](https://visualjournal.it/) (Blog)<br>
 [I will Seoul you](http://iwillseoulyou.kr/) (Blog)<br>
 [Dateagle Art](https://dateagle.art/) (Art journal)<br>
