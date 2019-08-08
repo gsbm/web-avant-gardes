@@ -87,6 +87,10 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Sammlung Walter](https://sammlungwalter.de/) (Designer)<br>
 [Sasha Ng](http://sasha-ng.com/) (Designer)<br>
 [Ben Cross](https://www.bencross.xyz/) (Designer)<br>
+[Manu Rosaleny](https://manurosaleny.es/) (Photographer)<br>
+[Kristin Rosch](https://kristinrosch.com/) (Designer)<br>
+[Oscar Gómez](http://scrgb.co/) (Designer)<br>
+[Jon Gacnik](https://jongacnik.com/) (Designer)<br>
 
 ### Studios or agencies
 [Bretagne](http://www.bretagnebretagne.fr/) (Type foundry)<br>
@@ -149,6 +153,9 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Mint Art Haus](https://mintarthaus.com/) (Design studio)<br>
 [Blaze Type](https://blazetype.eu/) (Type foundry)<br>
 [Writing Man](https://www.writingman.co.uk/) (Copywriting)<br>
+[HelloMe](https://hellome.studio/) (Design studio)<br>
+[Temporary State](http://typefaces.temporarystate.net/) (Type foundry)<br>
+[Studio Push](https://studio-push.com/) (Design studio)<br>
 
 ### Miscellaneous
 [Untitled Sans](http://untitledsans.com/) (Typeface)<br>
@@ -198,6 +205,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Secret Friend](http://secret-friend.xyz/) (Experimental showcase)<br>
 [Antenne Books](https://www.antennebooks.com/) (Books shop)<br>
 [Dapp Boi](https://dappboi.com/) (Blockchain)<br>
+[Temper](https://temper.jonaspelzer.com/) (Onepage builder)<br>
 [Guggenheim](http://exhibitions.guggenheim.org/storylines/) (Art museum)<br>
 [Sifang Art Museum](http://www.sifangartmuseum.org/) (Art museum)<br>
 [SeMA](http://sema.seoul.go.kr/) (Art museum)<br>
@@ -210,9 +218,11 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Bergen Assembly](http://bergenassembly.no/) (Contemporary art event)<br>
 [Most meaningful](http://mostmeaningful.org/) (?)<br>
 [Stormwender](https://stromwender.nl/) (?)<br>
+[SILO](https://s-i-l-o.fr/) (?)<br>
 [Ecosistema del Diseño Español](https://ecosistemadeldiseño.es/) (?)<br>
 [The Recreationalist](https://www.therecreationalist.com/) (?)<br>
 [Participant Inc](http://participantinc.org/) (?)<br>
+[Tanzkongress 2019](http://tanzkongress2019.de/) (?)<br>
 [Superimpose](https://superimpose.global/) (?)<br>
 [Lubalin 100](http://www.lubalin100.com/) (?)<br>
 [Marini marmi](http://www.marinimarmi.com/) (?)<br>
