@@ -91,6 +91,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Kristin Rosch](https://kristinrosch.com/) (Designer)<br>
 [Oscar Gómez](http://scrgb.co/) (Designer)<br>
 [Jon Gacnik](https://jongacnik.com/) (Designer)<br>
+[Yannis Karpouzis](https://www.yanniskarpouzis.com/) (Artist)<br>
 
 ### Studios or agencies
 [Bretagne](http://www.bretagnebretagne.fr/) (Type foundry)<br>
@@ -156,6 +157,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [HelloMe](https://hellome.studio/) (Design studio)<br>
 [Temporary State](http://typefaces.temporarystate.net/) (Type foundry)<br>
 [Studio Push](https://studio-push.com/) (Design studio)<br>
+[Visual Adaptater](https://visualadapter.com/) (Design studio)<br>
 
 ### Miscellaneous
 [Untitled Sans](http://untitledsans.com/) (Typeface)<br>
