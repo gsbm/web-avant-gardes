@@ -159,6 +159,8 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Temporary State](http://typefaces.temporarystate.net/) (Type foundry)<br>
 [Studio Push](https://studio-push.com/) (Design studio)<br>
 [Visual Adaptater](https://visualadapter.com/) (Design studio)<br>
+[Wedge](https://www.wedge.work/) (Design studio)<br>
+[White Russian](https://whiterussian.studio/) (Design studio)<br>
 
 ### Miscellaneous
 [Untitled Sans](http://untitledsans.com/) (Typeface)<br>
