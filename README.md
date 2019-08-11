@@ -92,6 +92,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Oscar Gómez](http://scrgb.co/) (Designer)<br>
 [Jon Gacnik](https://jongacnik.com/) (Designer)<br>
 [Yannis Karpouzis](https://www.yanniskarpouzis.com/) (Artist)<br>
+[Alex Kryritsis](https://www.alexkyritsis.com/) (Designer)<br>
 
 ### Studios or agencies
 [Bretagne](http://www.bretagnebretagne.fr/) (Type foundry)<br>
@@ -204,6 +205,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [The Physics Room](http://physicsroom.org.nz/) (Art gallery)<br>
 [Edouard Malingue](https://edouardmalingue.com/) (Art gallery)<br>
 [A plus A](http://aplusa.it/) (Art gallery)<br>
+[Matter of Art](https://matterof.art/)(Art biennale)<br>
 [Secret Friend](http://secret-friend.xyz/) (Experimental showcase)<br>
 [Antenne Books](https://www.antennebooks.com/) (Books shop)<br>
 [Dapp Boi](https://dappboi.com/) (Blockchain)<br>
