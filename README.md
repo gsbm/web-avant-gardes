@@ -94,6 +94,8 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Yannis Karpouzis](https://www.yanniskarpouzis.com/) (Artist)<br>
 [Alex Kryritsis](https://www.alexkyritsis.com/) (Designer)<br>
 [Javi Medialdea](https://www.javimedialdea.es/) (Designer)<br>
+[Gianfranco Panza](http://www.gianfrancopanza.com/) (Architect)<br>
+[Esther Hovers](https://estherhovers.com/) (Artist)<br>
 
 ### Studios or agencies
 [Bretagne](http://www.bretagnebretagne.fr/) (Type foundry)<br>
