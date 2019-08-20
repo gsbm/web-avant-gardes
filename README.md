@@ -221,6 +221,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [La modernité viennoise](https://modernism.vienna.info/fr/) (Culture)<br>
 [Marianne Brandt Award](https://marianne-brandt-wettbewerb.de/) (Award)<br>
 [RISD GD Triennial](http://risdgdtriennial2018.risd.gd/) (Exhibition)<br>
+[Coral Agency](https://coral.ag/) (Musician Agency)<br>
 [Modeselecktor](https://www.modeselektor.com/) (Band)<br>
 [First Crimes](https://www.firstcrimes.com/) (Band)<br>
 [!!!](http://chkchkchk.net/) (Band)<br>
