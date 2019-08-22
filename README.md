@@ -145,7 +145,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Studio Rejane Dal Bello](http://rejanedalbello.com/) (Design studio)<br>
 [Atelier Florian Markl](https://florianmarkl.com/) (Design studio)<br>
 [Switch](https://switch.co.nz/) (Design studio)<br>
-[Random Ltd](https://ransomltd.com/) (Design studio)<br>
+[Random Ltd](https://ransomltd.com/) (Photography studio)<br>
 [Climate](http://thisisclimate.com/) (Design studio)<br>
 [Apelido & Apelido](https://apelido-apelido.com/) (Design studio)<br>
 [YO YO YO](https://yoyoyo.photos/) (Design studio)<br>
