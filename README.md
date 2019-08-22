@@ -225,7 +225,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Coral Agency](https://coral.ag/) (Musician Agency)<br>
 [Modeselecktor](https://www.modeselektor.com/) (Band)<br>
 [First Crimes](https://www.firstcrimes.com/) (Band)<br>
-[!!!](http://chkchkchk.net/) (Band)<br>
+[!!! (Chk Chk Chk)](http://chkchkchk.net/) (Band)<br>
 [Bergen Assembly](http://bergenassembly.no/) (Contemporary art event)<br>
 [Most meaningful](http://mostmeaningful.org/) (?)<br>
 [Stormwender](https://stromwender.nl/) (?)<br>
