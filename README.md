@@ -165,6 +165,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Wedge](https://www.wedge.work/) (Design studio)<br>
 [White Russian](https://whiterussian.studio/) (Design studio)<br>
 [Sometimes Always](https://sometimes-always.com/) (Design studio)<br>
+[The new company](http://www.new.company/) (Design studio)<br>
 
 ### Miscellaneous
 [Untitled Sans](http://untitledsans.com/) (Typeface)<br>
