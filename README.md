@@ -230,7 +230,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [First Crimes](https://www.firstcrimes.com/) (Band)<br>
 [!!! (Chk Chk Chk)](http://chkchkchk.net/) (Band)<br>
 [Bergen Assembly](http://bergenassembly.no/) (Contemporary art event)<br>
-[Balanciaga](https://www.balenciaga.com/fr/) (Clothing brand)
+[Balanciaga](https://www.balenciaga.com/fr/) (Clothing brand)<br>
 [Most meaningful](http://mostmeaningful.org/) (?)<br>
 [Stormwender](https://stromwender.nl/) (?)<br>
 [SILO](https://s-i-l-o.fr/) (?)<br>
