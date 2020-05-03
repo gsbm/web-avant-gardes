@@ -234,7 +234,6 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Bergen Assembly](http://bergenassembly.no/) (Contemporary art event)<br>
 [Balanciaga](https://www.balenciaga.com/fr/) (Clothing brand)<br>
 [Paid Interns](http://payinterns.nyc/) (Company list)<br>
-[Most meaningful](http://mostmeaningful.org/) (?)<br>
 [Stormwender](https://stromwender.nl/) (?)<br>
 [SILO](https://s-i-l-o.fr/) (?)<br>
 [Ecosistema del Diseño Español](https://ecosistemadeldiseño.es/) (?)<br>
