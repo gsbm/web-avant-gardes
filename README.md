@@ -171,6 +171,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Bureau 205](https://www.bureau205.fr/) (Graphic design agency)<br>
 [VVorkroom](http://vvorkroom.com/) (Graphic design agency)<br>
 [PATAWA](https://ptw.wtf/) (Artistic direction)<br>
+[CUSP](https://heycusp.com/) (Creative collective)<br>
 
 ### Miscellaneous
 [Untitled Sans](http://untitledsans.com/) (Typeface)<br>
