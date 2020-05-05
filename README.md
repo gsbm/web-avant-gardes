@@ -96,8 +96,8 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Javi Medialdea](https://www.javimedialdea.es/) (Designer)<br>
 [Gianfranco Panza](http://www.gianfrancopanza.com/) (Architect)<br>
 [Esther Hovers](https://estherhovers.com/) (Artist)<br>
-[Adam Ho](https://www.adamho.com/) (Designer)
-[Bruno Tomé](https://brunotome.dev/) (Designer)
+[Adam Ho](https://www.adamho.com/) (Designer)<br>
+[Bruno Tomé](https://brunotome.dev/) (Designer)<br>
 
 ### Studios or agencies
 [Bretagne](http://www.bretagnebretagne.fr/) (Type foundry)<br>
@@ -170,6 +170,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [The new company](http://www.new.company/) (Design studio)<br>
 [Bureau 205](https://www.bureau205.fr/) (Graphic design agency)<br>
 [VVorkroom](http://vvorkroom.com/) (Graphic design agency)<br>
+[PATAWA](https://ptw.wtf/) (Artistic direction)<br>
 
 ### Miscellaneous
 [Untitled Sans](http://untitledsans.com/) (Typeface)<br>
