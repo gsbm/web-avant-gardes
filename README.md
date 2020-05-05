@@ -97,6 +97,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Gianfranco Panza](http://www.gianfrancopanza.com/) (Architect)<br>
 [Esther Hovers](https://estherhovers.com/) (Artist)<br>
 [Adam Ho](https://www.adamho.com/) (Designer)
+[Bruno Tomé](https://brunotome.dev/) (Designer)
 
 ### Studios or agencies
 [Bretagne](http://www.bretagnebretagne.fr/) (Type foundry)<br>
