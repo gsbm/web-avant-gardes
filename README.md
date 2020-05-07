@@ -242,6 +242,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Illuminating Radioactivity](https://illuminating-radioactivity.com/) (Educational)<br>
 [HyperText](https://hypertext.futurefonts.xyz/) (Experimental typefaces)<br>
 [Film Truck](https://www.filmtruck.co/) (Movie)<br>
+[Monkeybuzz](https://monkeybuzz.com.br/) (Music news)<br>
 [Stormwender](https://stromwender.nl/) (?)<br>
 [SILO](https://s-i-l-o.fr/) (?)<br>
 [Ecosistema del Diseño Español](https://ecosistemadeldiseño.es/) (?)<br>
