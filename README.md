@@ -174,6 +174,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [CUSP](https://heycusp.com/) (Creative collective)<br>
 [LM Chabot](https://lmchabot.com/) (Photography studio)<br>
 [OMA](https://oma.eu/) (Architecture studio)<br>
+[Contemple](https://ccccontemple.com/studio) (Design studio)<br>
 
 ### Miscellaneous
 [Untitled Sans](http://untitledsans.com/) (Typeface)<br>
