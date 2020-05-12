@@ -9,6 +9,8 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 
 ## Website collection
 
+`★ Editor's pick`
+
 ### Personal pages
 [Lucas Le Bihan](http://lucaslebihan.fr/) (Designer)<br>
 `★` [Julie Cristobal](http://juliecristobal.com/) (Stylist)<br>
