@@ -247,6 +247,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Film Truck](https://www.filmtruck.co/) (Movie)<br>
 [Monkeybuzz](https://monkeybuzz.com.br/) (Music news)<br>
 [Oikon Hospitality](https://www.oikonhospitality.com/) (Management)<br>
+[revue faire](https://revue-faire.eu/) (Issues)<br>
 [Stormwender](https://stromwender.nl/) (?)<br>
 [SILO](https://s-i-l-o.fr/) (?)<br>
 [Ecosistema del Diseño Español](https://ecosistemadeldiseño.es/) (?)<br>
