@@ -179,7 +179,8 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Contemple](https://ccccontemple.com/studio) (Design studio)<br>
 [syndicat](https://s-y-n-d-i-c-a-t.eu/infos/) (Design studio)<br>
 [97cm](https://www.97cm.de) (Atelier)<br>
-[Studio Andrea Guccini](http://andreaguccini.com/works/) (Graphic design agency)<br>
+[Studio Andrea Guccini](http://andreaguccini.com/) (Graphic design agency)<br>
+[Studio Gameiro](https://www.studiogameiro.com/) (Architecture studio)<br>
 
 ### Miscellaneous
 [Untitled Sans](http://untitledsans.com/) (Typeface)<br>
