@@ -102,6 +102,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Armin Unruh](https://arminunruh.com/) (Developer)<br>
 [Jacobs Slum](http://jacobsslum.dk/) (Historian)<br>
 [Thomas van Ryzewyk](http://vanryzewyk.com/) (Designer)<br>
+[Johannes Schnatmann](http://jotundes.com/) (Artist)<br>
 
 ### Studios or agencies
 [Bretagne](http://www.bretagnebretagne.fr/) (Type foundry)<br>
