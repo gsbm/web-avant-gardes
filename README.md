@@ -104,6 +104,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Thomas van Ryzewyk](http://vanryzewyk.com/) (Designer)<br>
 [Johannes Schnatmann](http://jotundes.com/) (Artist)<br>
 [Oscar Gómez](http://scrgb.co/) (Designer)<br>
+[Julian Galay](http://juliangalay.com/) (Musician)<br>
 
 ### Studios or agencies
 [Bretagne](http://www.bretagnebretagne.fr/) (Type foundry)<br>
