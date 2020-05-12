@@ -106,7 +106,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Thomas van Ryzewyk](http://vanryzewyk.com/) (Designer)<br>
 [Johannes Schnatmann](http://jotundes.com/) (Artist)<br>
 [Oscar Gómez](http://scrgb.co/) (Designer)<br>
-`★` [Julian Galay](http://juliangalay.com/) (Musician)<br>
+`★` [Julian Galay](http://juliangalay.com/) (Compositor)<br>
 [Veronica Calfat](http://veronicacalfat.com/) (Artist)<br>
 
 ### Studios or agencies
@@ -213,7 +213,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [ClarkfromInvision](https://clarkfrominvision.com/) (Blog)<br>
 [Mould Map 7](http://mouldmap.com/) (Experimentals comics)<br>
 [Google Fonts + Korean](https://googlefonts.github.io/korean/) (Fonts directory)<br>
-[EFâ€”AP](http://www.ef-ap.com/) (Architecture research)<br>
+[EFâ€”AP](http://www.ef-ap.com/) `DOWN 👷‍` (Architecture research)<br>
 [La petite reine](http://cafelapetitereine.ch/) (Café)<br>
 [PC Graphic Design Dpt.](http://www.purchase.design/) (Educational program)<br>
 [Future London Academy](https://bauhaus.futurelondonacademy.com/) (Educational program)<br>
