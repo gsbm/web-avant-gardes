@@ -98,6 +98,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Esther Hovers](https://estherhovers.com/) (Artist)<br>
 [Adam Ho](https://www.adamho.com/) (Designer)<br>
 [Bruno Tomé](https://brunotome.dev/) (Designer)<br>
+`★` [Kostas Murkudis](https://kostasmurkudis.org/) (Designer)<br>
 
 ### Studios or agencies
 [Bretagne](http://www.bretagnebretagne.fr/) (Type foundry)<br>
