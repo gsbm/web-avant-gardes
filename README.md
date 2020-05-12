@@ -248,6 +248,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Monkeybuzz](https://monkeybuzz.com.br/) (Music news)<br>
 [Oikon Hospitality](https://www.oikonhospitality.com/) (Management)<br>
 [revue faire](https://revue-faire.eu/) (Issues)<br>
+[empire](https://www.e-m-p-i-r-e.eu/) (Book publisher)
 [Stormwender](https://stromwender.nl/) (?)<br>
 [SILO](https://s-i-l-o.fr/) (?)<br>
 [Ecosistema del Diseño Español](https://ecosistemadeldiseño.es/) (?)<br>
