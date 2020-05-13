@@ -192,6 +192,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Patchwork Architecture](https://patchworkarchitecture.co.nz/) (Architecture studio)<br>
 [6th Finger](https://6thfinger.studio/) (Creative collective)<br>
 [Spin](https://spin.co.uk/) (Design studio)<br>
+[Air Studio](https://www.airstudios.com/) (Recording studio)<br>
 
 ### Miscellaneous
 [Untitled Sans](http://untitledsans.com/) (Typeface)<br>
