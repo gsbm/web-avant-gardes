@@ -206,6 +206,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [cortese/mazza](https://cortesemazza.com/) (Architecture studio)<br>
 [Studio Nanneke Boomgaard](https://nannekeboomgaard.nl/) (Furniture design studio)<br>
 [Funeral Studio](https://funeral.studio/) (Design studio)<br>
+[Collins](https://www.wearecollins.com/) (Design studio)<br>
 
 ### Miscellaneous
 [Untitled Sans](http://untitledsans.com/) (Typeface)<br>
