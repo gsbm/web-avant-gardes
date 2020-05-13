@@ -290,7 +290,7 @@ You can contribute to this non-exhaustive list by :
 - Removing/indicate a dead website `DOWN 👷‍` or one which don't match with our criteres `TO REVIEW 🚩`
 - Improving websites list organisation (categories, etc.)
 - Editing informations for unknown `(?)` website sub categories
-- Taking a website screenshot, to be used in the future as thumbnail
+- Taking a full-width 16:9 website screenshot, to be used in the future as thumbnail
 
 ### Synthax
 
