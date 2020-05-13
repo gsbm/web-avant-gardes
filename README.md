@@ -304,6 +304,15 @@ Adding a flag
 `TO REVIEW 🚩`    Website to review again
 `(?)`             Unknown sub category
 ```
+
+### Start hunting
+
+You can find some unexpected website by exploring showcase websites like :
+- [Awwwards](https://www.awwwards.com/)
+- [siteInspire](https://www.siteinspire.com/)
+- [Webflow](https://webflow.com/discover/)
+- [Brutalist Websites](https://brutalistwebsites.com/)
+
 <br>
 
 An huge thank for all thoses websites hunters !
