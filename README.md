@@ -109,6 +109,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 `★` [Julian Galay](http://juliangalay.com/) (Compositor)<br>
 [Veronica Calfat](http://veronicacalfat.com/) (Artist)<br>
 [Stephanie Jeong](https://jeongsteph.design/) (Designer)<br>
+[Scott Reinhard](https://scottreinhard.com/) (Designer)<br>
 
 ### Studios or agencies
 [Bretagne](http://www.bretagnebretagne.fr/) (Type foundry)<br>
