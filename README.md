@@ -112,6 +112,8 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Scott Reinhard](https://scottreinhard.com/) (Designer)<br>
 [Andrew Walsh-Lister](https://andrew-lister.info/) (Designer)<br>
 [Chad Miller](https://chdmlr.com/) (Designer)<br>
+[Hrvoje Živčić](https://hrvojezivcic.com/) (Designer)<br>
+[Victor Clemente](https://victorclemente.me/) (Designer)<br>
 
 ### Studios or agencies
 [Bretagne](http://www.bretagnebretagne.fr/) (Type foundry)<br>
@@ -197,6 +199,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [6th Finger](https://6thfinger.studio/) (Creative collective)<br>
 [Spin](https://spin.co.uk/) (Design studio)<br>
 [Air Studio](https://www.airstudios.com/) (Recording studio)<br>
+[cortese/mazza](https://cortesemazza.com/) (Architecture studio)<br>
 
 ### Miscellaneous
 [Untitled Sans](http://untitledsans.com/) (Typeface)<br>
