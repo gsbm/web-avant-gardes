@@ -111,6 +111,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Stephanie Jeong](https://jeongsteph.design/) (Designer)<br>
 [Scott Reinhard](https://scottreinhard.com/) (Designer)<br>
 [Andrew Walsh-Lister](https://andrew-lister.info/) (Designer)<br>
+[Chad Miller](https://chdmlr.com/) (Designer)<br>
 
 ### Studios or agencies
 [Bretagne](http://www.bretagnebretagne.fr/) (Type foundry)<br>
