@@ -189,6 +189,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [97cm](https://www.97cm.de) (Atelier)<br>
 [Studio Andrea Guccini](http://andreaguccini.com/) (Graphic design agency)<br>
 [Studio Gameiro](https://www.studiogameiro.com/) (Architecture studio)<br>
+[Patchwork Architecture](https://patchworkarchitecture.co.nz/) (Architecture studio)<br>
 
 ### Miscellaneous
 [Untitled Sans](http://untitledsans.com/) (Typeface)<br>
