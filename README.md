@@ -269,16 +269,41 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Harvard Design Magazine](http://www.harvarddesignmagazine.org/) (Magazine)<br>
 [Bonde](http://www.bonde.nyc/) (Design event)<br>
 [B'Est Movie 2019](http://rassegnabestmovie.it/) (Movie)<br>
-[Stormwender](https://stromwender.nl/) (?)<br>
-[SILO](https://s-i-l-o.fr/) (?)<br>
-[Ecosistema del Diseño Español](https://ecosistemadeldiseño.es/) (?)<br>
-[The Recreationalist](https://www.therecreationalist.com/) (?)<br>
-[Participant Inc](http://participantinc.org/) (?)<br>
-[Dreamlaser](http://dreamlaser.ru/) (?)<br>
-[Tanzkongress 2019](http://tanzkongress2019.de/) (?)<br>
-[Superimpose](https://superimpose.global/) (?)<br>
-[Lubalin 100](http://www.lubalin100.com/) (?)<br>
-[Marini marmi](http://www.marinimarmi.com/) (?)<br>
-[032c](https://032c.com/) (?)<br>
-[Aires Libres](https://aireslibres.com/) (?)<br>
-[Masters 2018](http://www.antwerpmasters.be/) (?)<br>
+[Stormwender](https://stromwender.nl/) `(?)`<br>
+[SILO](https://s-i-l-o.fr/) `(?)`<br>
+[Ecosistema del Diseño Español](https://ecosistemadeldiseño.es/) `(?)`<br>
+[The Recreationalist](https://www.therecreationalist.com/) `(?)`<br>
+[Participant Inc](http://participantinc.org/) `(?)`<br>
+[Dreamlaser](http://dreamlaser.ru/) `(?)`<br>
+[Tanzkongress 2019](http://tanzkongress2019.de/) `(?)`<br>
+[Superimpose](https://superimpose.global/) `(?)`<br>
+[Lubalin 100](http://www.lubalin100.com/) `(?)`<br>
+[Marini marmi](http://www.marinimarmi.com/) `(?)`<br>
+[032c](https://032c.com/) `(?)`<br>
+[Aires Libres](https://aireslibres.com/) `(?)`<br>
+[Masters 2018](http://www.antwerpmasters.be/) `(?)`<br>
+
+## Contributing
+
+You can contribute to this non-exhaustive list by :
+- Adding a website which seems to match with our criteres
+- Removing/indicate a dead website `DOWN 👷‍` or one which don't match with our criteres `TO REVIEW 🚩`
+- Improving websites list organisation (categories, etc.)
+- Editing informations for unknown `(?)` website sub categories
+
+### Synthax
+
+Adding website
+```Markdown
+[Website name](url) (Sub category)<br>
+```
+Adding a flag
+```markdown
+`DOWN 👷‍`          Dead website
+`TO REVIEW 🚩`    Website to review again
+`(?)`             Unknown sub category
+```
+<br>
+
+An huge thank for all thoses websites hunters !
+> *Sometimes, we find the rare pearl when we aren't looking for.*
