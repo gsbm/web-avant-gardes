@@ -330,4 +330,4 @@ You can find some unexpected website by exploring showcase websites like :
 <br>
 
 An huge thank for all thoses websites hunters !
-> *Sometimes, we find the rare pearl when we aren't looking for.*
+> *Often, we find the rare pearl when we aren't looking for.*
