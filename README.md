@@ -110,6 +110,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Veronica Calfat](http://veronicacalfat.com/) (Artist)<br>
 [Stephanie Jeong](https://jeongsteph.design/) (Designer)<br>
 [Scott Reinhard](https://scottreinhard.com/) (Designer)<br>
+[Andrew Walsh-Lister](https://andrew-lister.info/) (Designer)<br>
 
 ### Studios or agencies
 [Bretagne](http://www.bretagnebretagne.fr/) (Type foundry)<br>
@@ -292,7 +293,7 @@ You can contribute to this non-exhaustive list by :
 - Adding a website which seems to match with our criteres
 - Removing/indicate a dead website `DOWN 👷‍` or one which don't match with our criteres `TO REVIEW 🚩`
 - Improving websites list organisation (categories, etc.)
-- Editing informations for unknown `(?)` website sub categories
+- Editing informations for unknown `(?)` website sub categories or correcting wrong informations
 - Taking a full-width 16:9 website screenshot, to be used in the future as thumbnail
 
 ### Synthax
