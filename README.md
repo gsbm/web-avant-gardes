@@ -119,6 +119,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Juliette Lepineau](https://juliettelepineau.net/) (Artist)<br>
 [Alvaro Canovas Puigmarti](https://a-canovas.com/) (Designer)<br>
 [Oliviero Fiorenzi](https://olivierofiorenzi.com/) (Artist)<br>
+[Melvin Ghandour](https://melvinghandour.com/) (Designer)<br>
 
 ### Studios or agencies
 [Bretagne](http://www.bretagnebretagne.fr/) (Type foundry)<br>
