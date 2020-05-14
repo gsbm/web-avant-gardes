@@ -286,6 +286,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Bonde](http://www.bonde.nyc/) (Design event)<br>
 [B'Est Movie 2019](http://rassegnabestmovie.it/) (Movie)<br>
 [Waka Waka, Collection N.02](https://2.collection-wakawaka.world/) (Object design collection)<br>
+[Landscapes of Fulfillment](https://landscapes-of-fulfillment.org/) (Architecture seminar)<br>
 [Stormwender](https://stromwender.nl/) `(?)`<br>
 [SILO](https://s-i-l-o.fr/) `(?)`<br>
 [Ecosistema del Diseño Español](https://ecosistemadeldiseño.es/) `(?)`<br>
