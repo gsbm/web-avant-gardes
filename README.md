@@ -211,6 +211,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Collins](https://www.wearecollins.com/) (Design studio)<br>
 [Tableau](https://tableau-cph.com/) (Design studio)<br>
 [Demande Spéciale](http://demandespeciale.ca/) (Design studio)<br>
+[Barkas](https://thebarkas.com/) (Design studio)<br>
 
 ### Miscellaneous
 [Untitled Sans](http://untitledsans.com/) (Typeface)<br>
