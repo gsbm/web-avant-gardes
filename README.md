@@ -120,6 +120,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 [Alvaro Canovas Puigmarti](https://a-canovas.com/) (Designer)<br>
 [Oliviero Fiorenzi](https://olivierofiorenzi.com/) (Artist)<br>
 [Melvin Ghandour](https://melvinghandour.com/) (Designer)<br>
+[Olivier Charland](https://olicharland.com/) (Designer)<br>
 
 ### Studios or agencies
 [Bretagne](http://www.bretagnebretagne.fr/) (Type foundry)<br>
