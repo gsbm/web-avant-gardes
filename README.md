@@ -325,11 +325,11 @@ You can contribute to this non-exhaustive list by :
 
 ### Synthax
 
-Adding website
+Adding a website
 ```Markdown
 - [Website name](url) (Sub category)<br>
 ```
-Adding a flag
+Adding a label
 ```markdown
 `DOWN 👷‍`          Dead website
 `TO REVIEW 🚩`    Website to review again
