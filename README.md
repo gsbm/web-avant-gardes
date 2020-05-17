@@ -324,7 +324,7 @@ You can contribute to this non-exhaustive list by :
 
 Adding website
 ```Markdown
-[Website name](url) (Sub category)<br>
+- [Website name](url) (Sub category)<br>
 ```
 Adding a flag
 ```markdown
