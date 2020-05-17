@@ -217,6 +217,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [July](http://studiojuly.co/) (Design studio)<br>
 - [Porto Rocha](https://portorocha.com/) (Design studio)<br>
 - [International Magic](https://intmagic.com/) (Design studio)<br>
+- [Superimpose](https://superimpose.global/) (Creative agency)<br>
 
 ### Miscellaneous
 - [Untitled Sans](http://untitledsans.com/) (Typeface)<br>
@@ -304,7 +305,6 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Participant Inc](http://participantinc.org/) `(?)`<br>
 - [Dreamlaser](http://dreamlaser.ru/) `(?)`<br>
 - [Tanzkongress 2019](http://tanzkongress2019.de/) `(?)`<br>
-- [Superimpose](https://superimpose.global/) `(?)`<br>
 - [Lubalin 100](http://www.lubalin100.com/) `(?)`<br>
 - [Marini marmi](http://www.marinimarmi.com/) `(?)`<br>
 - [032c](https://032c.com/) `(?)`<br>
