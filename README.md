@@ -216,6 +216,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - `★` [PLAYLAB, INC.](https://www.playlab.org/) (Design studio)<br>
 - [July](http://studiojuly.co/) (Design studio)<br>
 - [Porto Rocha](https://portorocha.com/) (Design studio)<br>
+- [International Magic](https://intmagic.com/) (Design studio)<br>
 
 ### Miscellaneous
 - [Untitled Sans](http://untitledsans.com/) (Typeface)<br>
