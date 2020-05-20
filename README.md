@@ -305,6 +305,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Landscapes of Fulfillment](https://landscapes-of-fulfillment.org/) (Architecture seminar)<br>
 - [Officesss](https://www.officesss.online/) (Zoom backgrounds)<br>
 - [Stephanie Nelson Dancegroup](https://www.sndancegroup.org/) (Dance ensemble)<br>
+- [Swiss Design Awards Blog](https://swissdesignawardsblog.ch/) (Design blog)<br>
 - [Postcards from Isolation](https://isolation.is/) `(?)`<br>
 - [Stormwender](https://stromwender.nl/) `(?)`<br>
 - [SILO](https://s-i-l-o.fr/) `(?)`<br>
