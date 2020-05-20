@@ -121,6 +121,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Oliviero Fiorenzi](https://olivierofiorenzi.com/) (Artist)<br>
 - [Melvin Ghandour](https://melvinghandour.com/) (Designer)<br>
 - [Olivier Charland](https://olicharland.com/) (Designer)<br>
+- [Manu Rosaleny](https://manurosaleny.es/) (Photographer)<br>
 
 ### Studios, agencies
 - [Bretagne](http://www.bretagnebretagne.fr/) (Type foundry)<br>
