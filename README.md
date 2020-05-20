@@ -98,7 +98,6 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Javi Medialdea](https://www.javimedialdea.es/) (Designer)<br>
 - [Gianfranco Panza](http://www.gianfrancopanza.com/) (Architect)<br>
 - [Esther Hovers](https://estherhovers.com/) (Artist)<br>
-- [Adam Ho](https://www.adamho.com/) (Designer)<br>
 - [Bruno Tomé](https://brunotome.dev/) (Designer)<br>
 - `★` [Kostas Murkudis](https://kostasmurkudis.org/) (Designer)<br>
 - [Armin Unruh](https://arminunruh.com/) (Developer)<br>
