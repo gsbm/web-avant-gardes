@@ -124,6 +124,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Manu Rosaleny](https://manurosaleny.es/) (Photographer)<br>
 - `★`[Gio Pandone](https://www.giopandone.com/) (Designer)<br>
 - [Nam Huynh](https://www.namhuynh.de/) (Designer)<br>
+- [Thomas Hervé](http://www.hervethomas.com/) (Designer)<br>
 
 ### Studios, agencies
 - [Bretagne](http://www.bretagnebretagne.fr/) (Type foundry)<br>
