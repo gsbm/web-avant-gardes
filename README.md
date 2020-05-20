@@ -344,6 +344,7 @@ You can find some unexpected website by exploring showcase websites like :
 - [siteInspire](https://www.siteinspire.com/)
 - [Webflow](https://webflow.com/discover/)
 - [Brutalist Websites](https://brutalistwebsites.com/)
+- [Klikkenthéke](https://klikkentheke.com/)
 
 <br>
 
