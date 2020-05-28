@@ -227,6 +227,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Diplomats](https://diplomats.tv/) (Creative studio)<br>
 - [Cactus Club](https://www.cactusclub.biz/) (Production company)<br>
 - [House of Folk](https://houseoffolk.com/) (Design studio)<br>
+- [NewTab studio](https://www.newtab-studio.com/) (Design studio)<br>
 
 ### Miscellaneous
 - [Untitled Sans](http://untitledsans.com/) (Typeface)<br>
