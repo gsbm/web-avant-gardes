@@ -127,6 +127,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Samy Rio](https://www.samyrio.fr/) (Designer)<br>
 - [Gwennina Moigne](http://www.gwenninamoigne.com/) (Designer)<br>
 - [Tatitana Egoshina](https://tatianae.com/) (Designer)<br>
+- [Jens Nielsen](https://thinkbear.net/) (Designer)<br>
 
 ### Studios, agencies
 - [Bretagne](http://www.bretagnebretagne.fr/) (Type foundry)<br>
