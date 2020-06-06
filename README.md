@@ -276,7 +276,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Laurel Halo](http://www.laurelhalo.com/) (Musician)<br>
 - [Beakermag](https://breakermag.com/) (Magazine)<br>
 - [Visual Journal](https://visualjournal.it/) (Blog)<br>
-- [I will Seoul you](http://iwillseoulyou.kr/) (Blog)<br>
+- [I will Seoul you](http://iwillseoulyou.kr/) `DOWN 👷‍` (Blog)<br>
 - [Dateagle Art](https://dateagle.art/) (Art journal)<br>
 - [All your days](https://www.allyourdays.com/) (Band tour)<br>
 - [Syrena Art Museum](http://syrena.artmuseum.pl/) (Art museum)<br>
