@@ -332,7 +332,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [032c](https://032c.com/) `(?)`<br>
 - [Aires Libres](https://aireslibres.com/) `(?)`<br>
 - [Masters 2018](http://www.antwerpmasters.be/) `(?)`<br>
-- [Take a walk on the wild side](http://takeawalkonthewildside.rietveldacademie.nl/)
+- [Take a walk on the wild side](http://takeawalkonthewildside.rietveldacademie.nl/) `(?)`<br>
 
 ## Contributing
 
