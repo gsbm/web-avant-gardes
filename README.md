@@ -239,6 +239,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Studio MUT](http://studiomut.com/) (Design studio)<br>
 - [Open Foundry](https://open-foundry.com/) (Type foundry)<br>
 - [Future Simple Studio](http://futuresimple.studio/) (Architecture studio)<br>
+- `★` [Studio Almond](https://www.almond.studio/) (Design studio)<br>
 
 ### Miscellaneous
 - [Untitled Sans](http://untitledsans.com/) (Typeface)<br>
