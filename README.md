@@ -131,7 +131,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Davided Mascioli](https://www.dmascioli.com/) (Designer)<br>
 - [Matteo Campostrini](http://www.matteocampostrini.com/) (Designer)<br>
 - [Nelson Heinemann](https://nelsonheinemann.com/) (Stylist)<br>
-- [Nam Huynh](https://www.namhuynh.de/) (Designer)<br>
+- `★` [Nam Huynh](https://www.namhuynh.de/) (Designer)<br>
 
 ### Studios, agencies
 - [Bretagne](http://www.bretagnebretagne.fr/) (Type foundry)<br>
@@ -237,6 +237,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Studio Mærtens](https://studiomaertens.com/) (Industrial design studio)<br>
 - [Studio MUT](http://studiomut.com/) (Design studio)<br>
 - [Open Foundry](https://open-foundry.com/) (Type foundry)<br>
+- [Future Simple Studio](http://futuresimple.studio/) (Architecture studio)<br>
 
 ### Miscellaneous
 - [Untitled Sans](http://untitledsans.com/) (Typeface)<br>
