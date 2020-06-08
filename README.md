@@ -234,6 +234,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [NewTab studio](https://www.newtab-studio.com/) (Design studio)<br>
 - [Studio Mærtens](https://studiomaertens.com/) (Industrial design studio)<br>
 - [Studio MUT](http://studiomut.com/) (Design studio)<br>
+- [Open Foundry](https://open-foundry.com/) (Type foundry)<br>
 
 ### Miscellaneous
 - [Untitled Sans](http://untitledsans.com/) (Typeface)<br>
