@@ -325,6 +325,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Stephanie Nelson Dancegroup](https://www.sndancegroup.org/) (Dance ensemble)<br>
 - [Swiss Design Awards Blog](https://swissdesignawardsblog.ch/) (Design blog)<br>
 - [Novembre](https://novembre.global/about) (Inspiration plateform)<br>
+- [Typographic Singularity 2020](https://www.typographicsingularity.com/) (Design event)<br>
 - [Postcards from Isolation](https://isolation.is/) `(?)`<br>
 - [Stormwender](https://stromwender.nl/) `(?)`<br>
 - [SILO](https://s-i-l-o.fr/) `(?)`<br>
