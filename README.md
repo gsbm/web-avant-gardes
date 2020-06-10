@@ -55,7 +55,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Sophia Goedecke](http://sophiagoedecke.de/) (Designer)<br>
 - [Yan Tomaszewski](http://yantomaszewski.com/) (Artist)<br>
 - [Geordie Wood](http://geordiewood.com/) (Photographer)<br>
-- `★` [Jenny Nordberg](http://jenny-nordberg.com/) (Artist)<br>
+- [Jenny Nordberg](http://jenny-nordberg.com/) (Artist)<br>
 - [Diane Martel](https://diane-martel.com/) (Visual artist)<br>
 - [Nicolas Delaroche](https://nicolasdelaroche.com/) (Artist)<br>
 - [Naho Kubota](https://nahokubota.com/) (Photographer)<br>
