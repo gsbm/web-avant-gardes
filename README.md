@@ -135,6 +135,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - `★` [Gio Pandone](https://www.giopandone.com/) (Designer)<br>
 - [Frederico Cavalieri](http://effecava.xyz/) (Designer)<br>
 - [Mun Jiwoo](https://www.munjiwoo.com/) (Artist)<br>
+- [Adam Clarke](http://adamclarkecolour.com/) (Colourist)<br>
 
 ### Studios, agencies
 - [Bretagne](http://www.bretagnebretagne.fr/) (Type foundry)<br>
