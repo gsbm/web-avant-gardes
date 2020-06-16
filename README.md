@@ -324,6 +324,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [empire](https://www.e-m-p-i-r-e.eu/) (Book publisher)<br>
 - [Harvard Design Magazine](http://www.harvarddesignmagazine.org/) (Magazine)<br>
 - [Revue Lagon](http://revuelagon.com/) (Magazine)<br>
+- [10011 Magazine](https://www.10011mag.co/) (Art magazine)<br>
 - [Bonde](http://www.bonde.nyc/) (Design event)<br>
 - [B'Est Movie 2019](http://rassegnabestmovie.it/) (Movie)<br>
 - [Waka Waka, Collection N.02](https://2.collection-wakawaka.world/) (Object design collection)<br>
