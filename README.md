@@ -253,6 +253,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [ECAL Typefaces](https://ecal-typefaces.ch/) (Student foundry)<br>
 - [Art en grève](https://artengreve.com/) (Movement)<br>
 - [CPT](https://www.centerforphilosophicaltechnologies.org/) (Research center)<br>
+- `★` [Théâtre St-Gervais Genève](https://saintgervais.ch/) (Theater)<br>
 - [Bi Scriptual](http://bi-scriptual.com/) (Book)<br>
 - [Middleplane](https://middleplane.com/) (Book)<br>
 - [Alien magazine](http://www.alien-magazine.com/) (Magazine)<br>
