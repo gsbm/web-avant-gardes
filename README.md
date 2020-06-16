@@ -110,7 +110,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Stephanie Jeong](https://jeongsteph.design/) (Designer)<br>
 - [Scott Reinhard](https://scottreinhard.com/) (Designer)<br>
 - [Andrew Walsh-Lister](https://andrew-lister.info/) (Designer)<br>
-- `★`[Chad Miller](https://chdmlr.com/) (Designer)<br>
+- `★` [Chad Miller](https://chdmlr.com/) (Designer)<br>
 - [Hrvoje Živčić](https://hrvojezivcic.com/) (Designer)<br>
 - [Victor Clemente](https://victorclemente.me/) (Designer)<br>
 - [Élise Rigollet](https://eliserigollet.com/) (Designer)<br>
@@ -121,7 +121,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Melvin Ghandour](https://melvinghandour.com/) (Designer)<br>
 - [Olivier Charland](https://olicharland.com/) (Designer)<br>
 - [Manu Rosaleny](https://manurosaleny.es/) (Photographer)<br>
-- `★`[Gio Pandone](https://www.giopandone.com/) (Designer)<br>
+- `★` [Gio Pandone](https://www.giopandone.com/) (Designer)<br>
 - [Nam Huynh](https://www.namhuynh.de/) (Designer)<br>
 - [Thomas Hervé](http://www.hervethomas.com/) (Designer)<br>
 - [Samy Rio](https://www.samyrio.fr/) (Designer)<br>
