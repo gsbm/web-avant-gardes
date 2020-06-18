@@ -249,6 +249,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Typical Organization](https://typical-organization.com/) (Design studio)<br>
 - [Services Généraux](https://generaux.services/) (Creative agency)<br>
 - `★` [2SJ Architekturfotografie](https://2sjarchitekturfotografie.com/) (Photography studio)
+- [Nonymous](https://nonymous.com/) (Communication agency)
 
 ### Miscellaneous
 - [Untitled Sans](http://untitledsans.com/) (Typeface)<br>
