@@ -247,6 +247,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Other Office](http://otheroffice.net/) (Design studio)<br>
 - [56](https://56.digital/) (Creative agency)<br>
 - [Typical Organization](https://typical-organization.com/) (Design studio)<br>
+- [Services Généraux](https://generaux.services/) (Creative agency)<br>
 
 ### Miscellaneous
 - [Untitled Sans](http://untitledsans.com/) (Typeface)<br>
