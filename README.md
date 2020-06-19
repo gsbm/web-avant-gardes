@@ -318,7 +318,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [RISD GD Triennial](http://risdgdtriennial2018.risd.gd/) (Exhibition)<br>
 - [Coral Agency](https://coral.ag/) (Musician Agency)<br>
 - [Modeselecktor](https://www.modeselektor.com/) (Band)<br>
-- [First Crimes](https://www.firstcrimes.com/) `TO REVIEW 🚩` (Band)<br>
+- [First Crimes](https://www.firstcrimes.com/) `TR 🚩` (Band)<br>
 - [!!! (Chk Chk Chk)](http://chkchkchk.net/) (Band)<br>
 - [Bergen Assembly](http://bergenassembly.no/) (Contemporary art event)<br>
 - [Balanciaga](https://www.balenciaga.com/fr/) (Clothing brand)<br>
@@ -377,8 +377,8 @@ Adding a website
 ```
 Adding a label
 ```markdown
-`DOWN 👷‍`          Dead website
-`TO REVIEW 🚩`    Website to review again
+`DOWN 👷‍`          Dead or unworking website
+`TR 🚩`         Website to review again (because of design change or else)
 `(?)`             Unknown sub category
 ```
 
