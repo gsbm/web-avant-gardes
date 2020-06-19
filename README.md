@@ -249,8 +249,9 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [56](https://56.digital/) (Creative agency)<br>
 - [Typical Organization](https://typical-organization.com/) (Design studio)<br>
 - [Services Généraux](https://generaux.services/) (Creative agency)<br>
-- `★` [2SJ Architekturfotografie](https://2sjarchitekturfotografie.com/) (Photography studio)
-- [Nonymous](https://nonymous.com/) (Communication agency)
+- `★` [2SJ Architekturfotografie](https://2sjarchitekturfotografie.com/) (Photography studio)<br>
+- [Nonymous](https://nonymous.com/) (Communication agency)<br>
+- [The Grammar of Frames](https://www.thegrammarof.com/) (Brand experience studio)<br>
 
 ### Miscellaneous
 - [Untitled Sans](http://untitledsans.com/) (Typeface)<br>
