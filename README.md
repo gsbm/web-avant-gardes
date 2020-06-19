@@ -378,7 +378,7 @@ Adding a website
 Adding a label
 ```markdown
 `DOWN 👷‍`          Dead or unworking website
-`TR 🚩`         Website to review again (because of design change or else)
+`TR 🚩`         Website to review again (because of design changes or else)
 `(?)`             Unknown sub category
 ```
 
