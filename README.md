@@ -293,6 +293,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Nanushka](https://www.nanushka.com/) (Clothes shop)<br>
 - [Stubio](https://stu-b-io.com/) (Clothes shop)<br>
 - [Temporary Mark](http://temporarymark.com/) (Clothes shop)<br>
+- [Visual Society](https://visualsociety.ch) (Fashion label)<br>
 - [Laurel Halo](http://www.laurelhalo.com/) (Musician)<br>
 - [Beakermag](https://breakermag.com/) (Magazine)<br>
 - [Visual Journal](https://visualjournal.it/) (Blog)<br>
