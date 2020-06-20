@@ -377,11 +377,12 @@ Adding a website
 - [Website name](url) (Sub category)<br>
 ```
 Adding a label
-```markdown
-`DOWN 👷‍`          Dead or unworking website
-`TR 🚩`         Website to review again (because of design changes or else)
-`(?)`             Unknown sub category
-```
+| | Description |
+|---|---|
+| `DOWN 👷‍` | Dead or unworking website |
+| `TR 🚩` | Website to review again (because of design changes or else) |
+| `RM ❌` | Proposed deletion |
+| `?` | Unknown sub category |
 
 ### Start hunting
 
