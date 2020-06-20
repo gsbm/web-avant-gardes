@@ -381,7 +381,6 @@ Adding a label
 |---|---|
 | `DOWN 👷‍` | Dead or unworking website |
 | `TR 🚩` | Website to review again (because of design changes or else) |
-| `RM ❌` | Proposed deletion (actually unused)  |
 | `(?)` | Unknown sub category |
 
 ### Start hunting
