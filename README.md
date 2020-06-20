@@ -252,6 +252,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - `★` [2SJ Architekturfotografie](https://2sjarchitekturfotografie.com/) (Photography studio)<br>
 - [Nonymous](https://nonymous.com/) (Communication agency)<br>
 - [The Grammar of Frames](https://www.thegrammarof.com/) (Brand experience studio)<br>
+- `★` [Blank Architects](http://blankarchitects.ru/) (Architecture studio)<br>
 
 ### Miscellaneous
 - [Untitled Sans](http://untitledsans.com/) (Typeface)<br>
