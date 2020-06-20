@@ -365,7 +365,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 
 You can contribute to this non-exhaustive list by :
 - Adding a website which seems to match with our criteres
-- Removing/indicate a dead website `DOWN 👷‍` or one which don't match with our criteres `TO REVIEW 🚩`
+- Removing/indicate a dead website `DOWN 👷‍` or one which don't match with our criteres `TR 🚩`
 - Improving websites list organisation (categories, etc.)
 - Editing informations for unknown `(?)` website sub categories or correcting wrong informations
 - Taking a full-width 16:9 website screenshot, to be used in the future as thumbnail
@@ -381,7 +381,7 @@ Adding a label
 |---|---|
 | `DOWN 👷‍` | Dead or unworking website |
 | `TR 🚩` | Website to review again (because of design changes or else) |
-| `RM ❌` | Proposed deletion |
+| `RM ❌` | Proposed deletion (actually unused)  |
 | `(?)` | Unknown sub category |
 
 ### Start hunting
