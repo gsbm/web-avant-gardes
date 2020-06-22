@@ -322,6 +322,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [First Crimes](https://www.firstcrimes.com/) `TR 🚩` (Band)<br>
 - [!!! (Chk Chk Chk)](http://chkchkchk.net/) (Band)<br>
 - [Bergen Assembly](http://bergenassembly.no/) (Contemporary art event)<br>
+- [Antwerp Art Weekend](https://antwerpartweekend.be/) (Contemporary art event)<br>
 - [Balanciaga](https://www.balenciaga.com/fr/) (Clothing brand)<br>
 - [Paid Interns](http://payinterns.nyc/) (Company list)<br>
 - [Illuminating Radioactivity](https://illuminating-radioactivity.com/) (Educational)<br>
