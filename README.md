@@ -7,7 +7,7 @@
 ## What does 'avant-garde' mean ?
 The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "advance guard" or "vanguard", literally "fore-guard") are people or works that are experimental, radical, or unorthodox with respect to art, culture, or society. It may be characterized by nontraditional, aesthetic innovation and initial unacceptability, and it may offer a critique of the relationship between producer and consumer. (Source: [wikipedia](https://en.wikipedia.org/wiki/Avant-garde))
 
-## Website collection
+## Website collection [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg)]
 
 `★ Editor's pick`
 
