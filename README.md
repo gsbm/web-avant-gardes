@@ -345,6 +345,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Swiss Design Awards Blog](https://swissdesignawardsblog.ch/) (Design blog)<br>
 - [Novembre](https://novembre.global/about) (Inspiration plateform)<br>
 - `★` [Rekki](https://rekki.com/) (Application)<br>
+- [Middle Child](https://middlechildphilly.com/) (Sandwich shop)<br>
 - [Typographic Singularity 2020](https://www.typographicsingularity.com/) (Design event)<br><br>
 - [Participant Inc](http://participantinc.org/) `(?)`<br>
 - [Postcards from Isolation](https://isolation.is/) `(?)`<br>
