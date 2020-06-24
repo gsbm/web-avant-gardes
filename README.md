@@ -138,6 +138,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Adam Clarke](http://adamclarkecolour.com/) (Colourist)<br>
 - [Jihee Lee](https://jihee-lee.com/) (Designer)<br>
 - [Elias Derboven](http://eliasderboven.com/) (Photographer)<br>
+- [Khoa Lê](https://lekhoa.com/) (filmmaker)<br>
 
 ### Studios, agencies
 - [Bretagne](http://www.bretagnebretagne.fr/) (Type foundry)<br>
