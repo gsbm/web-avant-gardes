@@ -344,6 +344,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Officesss](https://www.officesss.online/) (Zoom backgrounds)<br>
 - [Stephanie Nelson Dancegroup](https://www.sndancegroup.org/) (Dance ensemble)<br>
 - [Swiss Design Awards Blog](https://swissdesignawardsblog.ch/) (Design blog)<br>
+- [Dutch Design Awards](https://www.dutchdesignawards.nl/) (Awards)<br>
 - [Novembre](https://novembre.global/about) (Inspiration plateform)<br>
 - `★` [Rekki](https://rekki.com/) (Application)<br>
 - [Middle Child](https://middlechildphilly.com/) (Sandwich shop)<br>
