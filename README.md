@@ -316,7 +316,8 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [SeMA](http://sema.seoul.go.kr/) (Art museum)<br>
 - [V-A-C Sreda](https://sreda.v-a-c.org/) (Podcast)<br>
 - [La modernité viennoise](https://modernism.vienna.info/fr/) (Culture)<br>
-- [Marianne Brandt Award](https://marianne-brandt-wettbewerb.de/) (Award)<br>
+- [Marianne Brandt Award](https://marianne-brandt-wettbewerb.de/) (Awards)<br>
+- [Swiss Art Awards](https://swissartawards.ch/) (Awards)<br>
 - [RISD GD Triennial](http://risdgdtriennial2018.risd.gd/) (Exhibition)<br>
 - [Coral Agency](https://coral.ag/) (Musician Agency)<br>
 - [Modeselecktor](https://www.modeselektor.com/) (Band)<br>
