@@ -369,6 +369,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Take a walk on the wild side](http://takeawalkonthewildside.rietveldacademie.nl/) `(?)`<br>
 - [TIGHT Top 2018](https://en-2018.tight.media/) `(?)`<br>
 - [ILYSM](https://ilysm.com/) `(?)`<br>
+- [Richard Rogers Fellowship](http://www.richardrogersfellowship.org/) `(?)`<br>
 
 ## Contributing
 
