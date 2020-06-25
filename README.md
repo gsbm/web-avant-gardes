@@ -343,6 +343,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Waka Waka, Collection N.02](https://2.collection-wakawaka.world/) (Object design collection)<br>
 - [Landscapes of Fulfillment](https://landscapes-of-fulfillment.org/) (Architecture seminar)<br>
 - [Officesss](https://www.officesss.online/) (Zoom backgrounds)<br>
+- [Richard Rogers Fellowship](http://www.richardrogersfellowship.org/) (Design program)<br>
 - [Stephanie Nelson Dancegroup](https://www.sndancegroup.org/) (Dance ensemble)<br>
 - [Swiss Design Awards Blog](https://swissdesignawardsblog.ch/) (Design blog)<br>
 - [Dutch Design Awards](https://www.dutchdesignawards.nl/) (Awards)<br>
@@ -369,7 +370,6 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Take a walk on the wild side](http://takeawalkonthewildside.rietveldacademie.nl/) `(?)`<br>
 - [TIGHT Top 2018](https://en-2018.tight.media/) `(?)`<br>
 - [ILYSM](https://ilysm.com/) `(?)`<br>
-- [Richard Rogers Fellowship](http://www.richardrogersfellowship.org/) `(?)`<br>
 
 ## Contributing
 
