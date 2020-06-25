@@ -377,6 +377,8 @@ You can contribute to this non-exhaustive list by :
 - Editing informations for unknown `(?)` website sub categories or correcting wrong informations
 - Taking a full-width 16:9 website screenshot, to be used in the future as thumbnail
 
+> Feel free to open an issue or submit a PR !
+
 ### Synthax
 
 Adding a website
