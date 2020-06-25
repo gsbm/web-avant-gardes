@@ -352,6 +352,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Middle Child](https://middlechildphilly.com/) (Sandwich shop)<br>
 - [Also Known As](https://veravandeseyp.com/aka/) (Gallery)<br>
 - [Julia Stoschek Collection](https://www.jsc.art/) (Art collection)<br>
+- [Bee Home](https://www.beehome.design/) (Diy blueprint)<br>
 - [Typographic Singularity 2020](https://www.typographicsingularity.com/) (Design event)<br><br>
 - [Participant Inc](http://participantinc.org/) `(?)`<br>
 - [Postcards from Isolation](https://isolation.is/) `(?)`<br>
