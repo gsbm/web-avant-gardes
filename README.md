@@ -358,7 +358,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Julia Stoschek Collection](https://www.jsc.art/) (Art collection)<br>
 - [Bee Home](https://www.beehome.design/) (Diy blueprint)<br>
 - [Luz Mística](https://www.luz-mistica.com/) (Color therapy)<br>
-- [Mate Act Now](https://mateactnow.com/) (Protest)<br>
+- [Mate Act Now](https://mateactnow.com/) (Activism)<br>
 - [Goodbye](https://www.goodbyebooks.org/) (Books publisher)<br>
 - [See In Black](https://seeinblack.com/) (Photography showcase)<br>
 - [Typographic Singularity 2020](https://www.typographicsingularity.com/) (Design event)<br><br>
