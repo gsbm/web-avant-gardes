@@ -258,6 +258,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [The Grammar of Frames](https://www.thegrammarof.com/) (Brand experience studio)<br>
 - `★` [Blank Architects](http://blankarchitects.ru/) (Architecture studio)<br>
 - `★` [ELF Pictures](https://elfpictures.hu/) (Filmmaking studio)<br>
+- `★` [Extraset](https://extraset.ch/) (Type foundry)<br>
 
 ### Miscellaneous
 - [Untitled Sans](http://untitledsans.com/) (Typeface)<br>
