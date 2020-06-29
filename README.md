@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/boardens/web-avant-gardes/blob/master/avant-gardes.svg" width="350px">
+<img src="https://github.com/boardens/web-avant-gardes/blob/master/avant-gardes.svg" width="350px" alt="web-avant-gardes">
 </p><br>
 
 > 💇‍♀️ Collection of experimental, radical, or unorthodox websites.
@@ -381,6 +381,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Take a walk on the wild side](http://takeawalkonthewildside.rietveldacademie.nl/) `(?)`<br>
 - [TIGHT Top 2018](https://en-2018.tight.media/) `(?)`<br>
 - [ILYSM](https://ilysm.com/) `(?)`<br>
+- [Latitude](https://explorelatitude.com/) `(?)` <br>
 
 ## Contributing
 
