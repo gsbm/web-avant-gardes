@@ -142,6 +142,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Elias Derboven](http://eliasderboven.com/) (Photographer)<br>
 - [Khoa Lê](https://lekhoa.com/) (Filmmaker)<br>
 - [Ricardo Ferrol](https://ricardoferrol.com/) (Art director)<br>
+- [Ayaka B. Ito](https://ayakaito.com/info) (Designer)<br>
 
 ### Studios, agencies
 - [Bretagne](http://www.bretagnebretagne.fr/) (Type foundry)<br>
