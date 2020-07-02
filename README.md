@@ -145,6 +145,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Ayaka B. Ito](https://ayakaito.com/) (Designer)<br>
 - [Mark Hurrell](https://mhurrell.co.uk/) (Designer)<br>
 - [Kellen Renstrom](https://kellenrenstrom.com/) (Designer)<br>
+- [Jeff Staple](https://jeffstaple.tv/) (Designer)<br>
 
 ### Studios, agencies
 - [Bretagne](http://www.bretagnebretagne.fr/) (Type foundry)<br>
