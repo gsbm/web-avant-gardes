@@ -372,7 +372,8 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Goodbye](https://www.goodbyebooks.org/) (Books publisher)<br>
 - `★` [See In Black](https://seeinblack.com/) (Photography showcase)<br>
 - [Typographic Singularity 2020](https://www.typographicsingularity.com/) (Design event)
-- [Very Good Films](https://verygoodfilms.co/) (Movies catalog)<br><br>
+- [Very Good Films](https://verygoodfilms.co/) (Movies catalog)
+- [Live Talk From](https://livetalkfrom.com) (Live talk)<br><br>
 - [Participant Inc](http://participantinc.org/) `(?)`<br>
 - [Postcards from Isolation](https://isolation.is/) `(?)`<br>
 - [Stormwender](https://stromwender.nl/) `(?)`<br>
