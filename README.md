@@ -373,8 +373,8 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - `★` [See In Black](https://seeinblack.com/) (Photography showcase)<br>
 - [Typographic Singularity 2020](https://www.typographicsingularity.com/) (Design event)<br>
 - [Very Good Films](https://verygoodfilms.co/) (Movies catalog)<br>
-- [Live Talk From](https://livetalkfrom.com) (Live talk)<br>
-- [Oto Nove Swiss](https://www.otonoveswiss.com/) (Contemporary music festival)<br><br>
+- `★` [Live Talk From](https://livetalkfrom.com) (Live talk)<br>
+- `★` [Oto Nove Swiss](https://www.otonoveswiss.com/) (Contemporary music festival)<br><br>
 - [Participant Inc](http://participantinc.org/) `(?)`<br>
 - [Postcards from Isolation](https://isolation.is/) `(?)`<br>
 - [Stormwender](https://stromwender.nl/) `(?)`<br>
