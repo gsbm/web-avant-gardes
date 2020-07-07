@@ -295,8 +295,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [A big mood](http://hexagon-ux.superhi.com/) (Blog)<br>
 - [Mould Map 7](http://mouldmap.com/) (Experimentals comics)<br>
 - [Google Fonts + Korean](https://googlefonts.github.io/korean/) (Fonts directory)<br>
-- [La petite reine](http://cafelapetitereine.ch/) (Café)<br>
-- [PC Graphic Design Dpt.](http://www.purchase.design/) (Educational program)<br>
+- [PC Graphic Design Dpt.](http://www.purchase.design/) `DOWN 👷‍` (Educational program)<br>
 - [Future London Academy](https://bauhaus.futurelondonacademy.com/) (Educational program)<br>
 - [Man-made disaster](https://manmadedisaster.art/) (Art exhibition)<br>
 - [Spinny Nights](https://www.spinnynights.com/) (Showcase platform)<br>
