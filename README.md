@@ -268,6 +268,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Tennent Brown](http://tennentbrown.co.nz/) (Architecture studio)<br>
 - [Bureau Blamage](http://www.bblamage.net/) (Design studio)<br>
 - [205TF](https://www.205.tf/) (Type foundry)<br>
+- [Futur Neue](http://www.futurneue.cc/) (Design studio)<br>
 
 ### Miscellaneous
 - [Untitled Sans](http://untitledsans.com/) (Typeface)<br>
