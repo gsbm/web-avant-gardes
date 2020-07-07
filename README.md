@@ -269,6 +269,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Bureau Blamage](http://www.bblamage.net/) (Design studio)<br>
 - [205TF](https://www.205.tf/) (Type foundry)<br>
 - [Futur Neue](http://www.futurneue.cc/) (Design studio)<br>
+- [Compagnie 7273](https://cie7273.com/) (Choreographers)<br>
 
 ### Miscellaneous
 - [Untitled Sans](http://untitledsans.com/) (Typeface)<br>
