@@ -299,7 +299,6 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Future London Academy](https://bauhaus.futurelondonacademy.com/) (Educational program)<br>
 - [Man-made disaster](https://manmadedisaster.art/) (Art exhibition)<br>
 - [Spinny Nights](https://www.spinnynights.com/) (Showcase platform)<br>
-- [Coal Drops Yard](https://www.coaldropsyard.com/) (Stores directory)<br>
 - [Entireworld](https://theentireworld.com/) (Clothes shop)<br>
 - [Studio Kaze](https://studiokaze.online/) (Clothes shop)<br>
 - `★` [Han Kjøbenhavn](https://hankjobenhavn.com/) (Clothes shop)<br>
