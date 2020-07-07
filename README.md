@@ -309,7 +309,6 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Temporary Mark](http://temporarymark.com/) (Clothes shop)<br>
 - [Visual Society](https://visualsociety.ch) (Fashion label)<br>
 - [Beakermag](https://breakermag.com/) (Magazine)<br>
-- [Visual Journal](https://visualjournal.it/) (Blog)<br>
 - [I will Seoul you](http://iwillseoulyou.kr/) `DOWN 👷‍` (Blog)<br>
 - [Dateagle Art](https://dateagle.art/) (Art journal)<br>
 - [All your days](https://www.allyourdays.com/) (Band tour)<br>
