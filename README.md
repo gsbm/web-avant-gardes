@@ -304,7 +304,6 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - `★` [Han Kjøbenhavn](https://hankjobenhavn.com/) (Clothes shop)<br>
 - [Won Hundred](https://wonhundred.com/) (Clothes shop)<br>
 - [Balenciaga](https://www.balenciaga.com/nl/) (Clothes shop)<br>
-- [Nanushka](https://www.nanushka.com/) (Clothes shop)<br>
 - [Stubio](https://stu-b-io.com/) (Clothes shop)<br>
 - [Temporary Mark](http://temporarymark.com/) (Clothes shop)<br>
 - [Visual Society](https://visualsociety.ch) (Fashion label)<br>
