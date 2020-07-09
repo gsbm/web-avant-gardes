@@ -68,7 +68,6 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Mariya Pepelanova](https://pepecph.com/) (Photographer)<br>
 - [Floris Schrama](http://www.florisschrama.nl/) (Designer)<br>
 - [Jacob Sutton](http://jacobsutton.com/) (Photographer)<br>
-- `★` [Ella Lehto](https://ellalehto.com/) (Designer)<br>
 - [Nelson Heinemann](https://nelsonheinemann.com/) (Stylist)<br>
 - [Karina Zavidova](http://zavidova.com/) (Designer)<br>
 - [Dan Flynn](http://design.byform.co/) (Designer)<br>
