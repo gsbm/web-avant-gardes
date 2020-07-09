@@ -69,7 +69,6 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Floris Schrama](http://www.florisschrama.nl/) (Designer)<br>
 - [Nelson Heinemann](https://nelsonheinemann.com/) (Stylist)<br>
 - [Dan Flynn](http://design.byform.co/) (Designer)<br>
-- [Timur Fattahov](https://timur.red/) (Designer)<br>
 - [Mirelle Borra](https://mirelleborra.com/) (Artist)<br>
 - [Kostas Murkudis](http://kostasmurkudis.net/) (Designer)<br>
 - [Matteo Masette](https://www.masette.com/) (Designer)<br>
