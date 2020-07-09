@@ -261,13 +261,10 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Bi Scriptual](http://bi-scriptual.com/) (Book)<br>
 - [Middleplane](https://middleplane.com/) (Book)<br>
 - [Alien magazine](http://www.alien-magazine.com/) (Magazine)<br>
-- [Rosemilk](https://www.rosemi.lk/) (Ceramics)<br>
 - [Found color](https://foundcolor.co/) (Color scheme)<br>
 - [Timetable](https://timetablerecords.com/) (Music label)<br>
 - [Demo Festival](https://demofestival.com/) (Design festival)<br>
 - [Weltformat Festival](https://weltformat-festival.ch/) (Design festival)<br>
-- [Whole Festival](https://wholefestival.com/) (Music festival)<br>
-- [Dice](http://dice.berlin/) (Music festival)<br>
 - [Ricky Michiels](https://www.rickymichiels.com/) (Artist management)<br>
 - [WM Artist Studio](http://www.wmartistmanagement.com/) (Artist management)<br>
 - [A-okay](http://a-okay.one/) (Translators)<br>
@@ -291,7 +288,6 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [I will Seoul you](http://iwillseoulyou.kr/) `DOWN 👷‍` (Blog)<br>
 - [Dateagle Art](https://dateagle.art/) (Art journal)<br>
 - [All your days](https://www.allyourdays.com/) (Band tour)<br>
-- [Syrena Art Museum](http://syrena.artmuseum.pl/) (Art museum)<br>
 - [The Physics Room](http://physicsroom.org.nz/) (Art gallery)<br>
 - [Edouard Malingue](https://edouardmalingue.com/) (Art gallery)<br>
 - [A plus A](http://aplusa.it/) (Art gallery)<br>
@@ -301,7 +297,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Dapp Boi](https://dappboi.com/) (Blockchain)<br>
 - [Temper](https://temper.jonaspelzer.com/) (Onepage builder)<br>
 - [Guggenheim](http://exhibitions.guggenheim.org/storylines/) (Art museum)<br>
-- [Sifang Art Museum](http://www.sifangartmuseum.org/) (Art museum)<br>
+- [Sifang Art Museum](http://www.sifangartmuseum.org/) `DOWN 👷‍` (Art museum)<br>
 - [SeMA](http://sema.seoul.go.kr/) (Art museum)<br>
 - [V-A-C Sreda](https://sreda.v-a-c.org/) (Podcast)<br>
 - [La modernité viennoise](https://modernism.vienna.info/fr/) (Culture)<br>
@@ -310,10 +306,9 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [RISD GD Triennial](http://risdgdtriennial2018.risd.gd/) (Exhibition)<br>
 - [Coral Agency](https://coral.ag/) (Musician Agency)<br>
 - [Modeselecktor](https://www.modeselektor.com/) (Band)<br>
-- [First Crimes](https://www.firstcrimes.com/) `TR 🚩` (Band)<br>
 - [!!! (Chk Chk Chk)](http://chkchkchk.net/) (Band)<br>
 - [Bergen Assembly](http://bergenassembly.no/) (Contemporary art event)<br>
-- [Antwerp Art Weekend](https://antwerpartweekend.be/) (Contemporary art event)<br>
+- `★` [Antwerp Art Weekend](https://antwerpartweekend.be/) (Contemporary art event)<br>
 - [Antwerp Art](https://antwerpart.be/) (Contemporary art plateform)<br>
 - [Paid Interns](http://payinterns.nyc/) (Company list)<br>
 - [Illuminating Radioactivity](https://illuminating-radioactivity.com/) (Educational)<br>
@@ -356,7 +351,6 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Stormwender](https://stromwender.nl/) `(?)`<br>
 - [SILO](https://s-i-l-o.fr/) `(?)`<br>
 - [Ecosistema del Diseño Español](https://ecosistemadeldiseño.es/) `(?)`<br>
-- [The Recreationalist](https://www.therecreationalist.com/) `(?)`<br>
 - [Dreamlaser](http://dreamlaser.ru/) `(?)`<br>
 - [Tanzkongress 2019](http://tanzkongress2019.de/) `(?)`<br>
 - [Lubalin 100](http://www.lubalin100.com/) `(?)`<br>
@@ -366,14 +360,13 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Masters 2018](http://www.antwerpmasters.be/) `(?)`<br>
 - [Take a walk on the wild side](http://takeawalkonthewildside.rietveldacademie.nl/) `(?)`<br>
 - [TIGHT Top 2018](https://en-2018.tight.media/) `(?)`<br>
-- [ILYSM](https://ilysm.com/) `(?)`<br>
 - [Latitude](https://explorelatitude.com/) `(?)` <br>
 
 ## Contributing
 
 You can contribute to this non-exhaustive list by :
 - Adding a website which seems to match with our criteres
-- Removing/indicate a dead website `DOWN 👷‍` or one which don't match with our criteres `TR 🚩`
+- Removing/indicate a dead website `DOWN 👷‍`
 - Improving websites list organisation (categories, etc.)
 - Editing informations for unknown `(?)` website sub categories or correcting wrong informations
 - Taking a full-width 16:9 website screenshot, to be used in the future as thumbnail
@@ -390,7 +383,6 @@ Adding a label
 | | Description |
 |---|---|
 | `DOWN 👷‍` | Dead or unworking website |
-| `TR 🚩` | Website to review again (because of design changes or else) |
 | `(?)` | Unknown sub category |
 
 ### Start hunting
