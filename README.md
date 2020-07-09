@@ -9,7 +9,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 
 ## Website collection
 
-> Over 350 websites, daily updated.
+> Over 300 websites, daily updated.
 
 `★ Editor's pick`
 
