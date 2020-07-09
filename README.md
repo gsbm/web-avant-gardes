@@ -119,7 +119,6 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Matteo Campostrini](http://www.matteocampostrini.com/) (Designer)<br>
 - [Nelson Heinemann](https://nelsonheinemann.com/) (Stylist)<br>
 - `★` [Nam Huynh](https://www.namhuynh.de/) (Designer)<br>
-- `★` [Gio Pandone](https://www.giopandone.com/) (Designer)<br>
 - [Frederico Cavalieri](http://effecava.xyz/) (Designer)<br>
 - [Mun Jiwoo](https://www.munjiwoo.com/) (Artist)<br>
 - [Adam Clarke](http://adamclarkecolour.com/) (Colourist)<br>
