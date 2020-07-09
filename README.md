@@ -34,7 +34,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Max Siedentopf](http://maxsiedentopf.com/) (Visual artist)<br>
 - [Mariana Lobão](http://marianalobao.com/) (Designer)<br>
 - [Floris Schrama](http://www.florisschrama.nl/) (Designer)<br>
-- [Pedro Cardoso](https://pedr0.com/) (Designer)<br>
+- [Pedro Cardoso](https://pedrocardoso.fr/) (Designer)<br>
 - [Sara Maia](http://www.saramaia.net/) (Stylist)<br>
 - [Rui da Paz](https://rui.cool/) (Designer)<br>
 - [Xevi Fernandez](https://xevifernandez.com/) (Stylist)<br>
