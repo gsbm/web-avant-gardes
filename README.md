@@ -68,7 +68,6 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Mariya Pepelanova](https://pepecph.com/) (Photographer)<br>
 - [Floris Schrama](http://www.florisschrama.nl/) (Designer)<br>
 - [Nelson Heinemann](https://nelsonheinemann.com/) (Stylist)<br>
-- [Karina Zavidova](http://zavidova.com/) (Designer)<br>
 - [Dan Flynn](http://design.byform.co/) (Designer)<br>
 - [Timur Fattahov](https://timur.red/) (Designer)<br>
 - [Mirelle Borra](https://mirelleborra.com/) (Artist)<br>
