@@ -358,7 +358,6 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [SILO](https://s-i-l-o.fr/) `(?)`<br>
 - [Ecosistema del Diseño Español](https://ecosistemadeldiseño.es/) `(?)`<br>
 - [The Recreationalist](https://www.therecreationalist.com/) `(?)`<br>
-- [Participant Inc](http://participantinc.org/) `(?)`<br>
 - [Dreamlaser](http://dreamlaser.ru/) `(?)`<br>
 - [Tanzkongress 2019](http://tanzkongress2019.de/) `(?)`<br>
 - [Lubalin 100](http://www.lubalin100.com/) `(?)`<br>
