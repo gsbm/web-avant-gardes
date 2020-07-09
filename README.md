@@ -78,7 +78,6 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Nicolas C. Eckhardt](https://nicholasceckhardt.com/) (Photographer)<br>
 - [Sammlung Walter](https://sammlungwalter.de/) (Designer)<br>
 - [Sasha Ng](http://sasha-ng.com/) (Designer)<br>
-- [Manu Rosaleny](https://manurosaleny.es/) (Photographer)<br>
 - [Kristin Rosch](https://kristinrosch.com/) (Designer)<br>
 - [Oscar Gómez](http://scrgb.co/) (Designer)<br>
 - [Jon Gacnik](https://jongacnik.com/) (Designer)<br>
