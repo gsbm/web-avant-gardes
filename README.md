@@ -250,6 +250,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Futur Neue](http://www.futurneue.cc/) (Design studio)<br>
 - [Compagnie 7273](https://cie7273.com/) (Choreographers)<br>
 - [DIA](https://dia.tv/) (Design studio)<br>
+- [Republish](https://republi.sh/) (Type foundry)<br>
 
 ### Miscellaneous
 - [Untitled Sans](http://untitledsans.com/) (Typeface)<br>
