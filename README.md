@@ -77,7 +77,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Grace Hoffman](http://gracehoffman.com/) (Designer)<br>
 - [Gaëtan Thirion](http://gaetan-thirion.com/) (Designer)<br>
 - [Anthony Scime](https://art-ams.com/) (Designer)<br>
-- [Pleun Verhoofstad](https://pleunverhoofstad.com/OVER-PLEUN) (Designer)<br>
+- [Pleun Verhoofstad](https://pleunverhoofstad.com/) (Designer)<br>
 - [Jeremie Dussault-Lefebvre](https://jeremie.xyz/) (Designer)<br>
 - [Esther Hovers](https://estherhovers.com/About-Contact) (Photographer)<br>
 - [Nicolas C. Eckhardt](https://nicholasceckhardt.com/) (Photographer)<br>
