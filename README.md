@@ -33,7 +33,6 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Juraj Molnár](https://jurajmolnar.com/) (Designer)<br>
 - [Max Siedentopf](http://maxsiedentopf.com/) (Visual artist)<br>
 - [Mariana Lobão](http://marianalobao.com/) (Designer)<br>
-- [Floris Schrama](http://www.florisschrama.nl/) (Designer)<br>
 - [Pedro Cardoso](https://pedrocardoso.fr/) (Designer)<br>
 - [Sara Maia](http://www.saramaia.net/) (Stylist)<br>
 - [Rui da Paz](https://rui.cool/) (Designer)<br>
