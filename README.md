@@ -19,7 +19,6 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Charlotte Debauge-Cahen](https://charlottedebauge.fr/) (Designer)<br>
 - [Pavel Kedzich](https://kedzich.com/) (Designer)<br>
 - [Nick Losacco](https://www.nicklosacco.com/) (Designer)<br>
-- [Jonty Davies](http://jontydavies.com/) (Photographer)<br>
 - [Pierre Choiniere](https://pierrechoiniere.com/) (Photographer)<br>
 - [Agnes Lloyd-Platt](https://agneslloydplatt.com/) (Photographer)<br>
 - [Sara Marandi](http://www.saramarandi.com/) (Photographer)<br>
