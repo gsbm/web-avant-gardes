@@ -42,7 +42,6 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Sonia Rentsch](http://www.soniarentsch.com/about) (Art director)<br>
 - [Mara Züst](https://marazuest.net/) (Artist)<br>
 - [Christopher Paul Sharpe](http://christopherpaulsharpe.com/) (Photographer)<br>
-- [Julia Sellmann](http://juliasellmann.com/) (Photographer)<br>
 - [Alexander Coggin](http://alexandercoggin.com/) (Photographer)<br>
 - [Dan Holdsworth](http://www.danholdsworth.com/) (Photographer)<br>
 - [Sacha Maric](https://www.sachamaric.com/) (Photographer)<br>
