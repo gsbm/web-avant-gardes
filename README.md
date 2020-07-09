@@ -159,7 +159,6 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [UsVersus](https://usvs.co/) (Design studio)<br>
 - [Zero](https://zero.nyc/) (Design studio)<br>
 - [Zero Turns Two](https://two.zero.nyc/) (Design studio)<br>
-- [Collins](https://www.wearecollins.com) (Design studio)<br>
 - [Bureau Mirko Borsche](https://bureauborsche.com) (Design studio)<br>
 - [High5](http://www.highfivebro.com/) (Design studio)<br>
 - [GDW](https://gdw.kr/) (Design studio)<br>
