@@ -130,6 +130,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Jeff Staple](https://jeffstaple.tv/) (Designer)<br>
 - [Niklas Rosén](https://niklasrosen.se/) (Designer)<br>
 - [Laurel Halo](http://www.laurelhalo.com/) (Musician)<br>
+- [Daniel Martins](https://www.daniel-martins.com/) (Designer)<br>
 
 ### Studios, agencies
 - [Bretagne](http://www.bretagnebretagne.fr/) (Type foundry)<br>
