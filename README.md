@@ -70,7 +70,6 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Nelson Heinemann](https://nelsonheinemann.com/) (Stylist)<br>
 - [Dan Flynn](http://design.byform.co/) (Designer)<br>
 - [Kostas Murkudis](http://kostasmurkudis.net/) (Designer)<br>
-- [Matteo Masette](https://www.masette.com/) (Designer)<br>
 - [Gaëtan Thirion](http://gaetan-thirion.com/) (Designer)<br>
 - [Anthony Scime](https://art-ams.com/) (Designer)<br>
 - [Pleun Verhoofstad](https://pleunverhoofstad.com/) (Designer)<br>
