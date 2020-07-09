@@ -67,7 +67,6 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Svyat Vishnyakov](https://vishvish.design/) (Designer)<br>
 - [Mariya Pepelanova](https://pepecph.com/) (Photographer)<br>
 - [Floris Schrama](http://www.florisschrama.nl/) (Designer)<br>
-- [Nelson Heinemann](https://nelsonheinemann.com/) (Stylist)<br>
 - [Dan Flynn](http://design.byform.co/) (Designer)<br>
 - [Kostas Murkudis](http://kostasmurkudis.net/) (Designer)<br>
 - [Gaëtan Thirion](http://gaetan-thirion.com/) (Designer)<br>
