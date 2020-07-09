@@ -58,9 +58,9 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Naho Kubota](https://nahokubota.com/) (Photographer)<br>
 - [Yoshihiko Ueda](http://www.yoshihikoueda.com/) (Photographer)<br>
 - [Ilari Laamanen](http://ilarilaamanen.com/) (Curator)<br>
-- [Lindsay Howard](http://lindsayhoward.net/) (Curator)<br>
+- [Lindsay Howard](http://lindsayhoward.net/) `DOWN 👷‍` (Curator)<br>
 - [Sven Stuckenschmidt](https://www.svenstuckenschmidt.de/) (Artist)<br>
-- [Erwan Sene](http://www.erwansene.pro/) (Artist)<br>
+- [Erwan Sene](http://www.erwansene.pro/) `DOWN 👷‍` (Artist)<br>
 - [Eric Price](https://ericprice.cc/) (Designer)<br>
 - [Martin Wecke](https://martinwecke.de/) (Designer)<br>
 - [Samuel Coronado](https://samucoronado.com/) (Designer)<br>
