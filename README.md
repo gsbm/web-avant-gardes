@@ -182,7 +182,6 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Random Ltd](https://ransomltd.com/) (Photography studio)<br>
 - [Climate](http://thisisclimate.com/) (Design studio)<br>
 - [Apelido & Apelido](https://apelido-apelido.com/) (Design studio)<br>
-- [YO YO YO](https://yoyoyo.photos/) (Design studio)<br>
 - [From A to B](http://studio-fromatob.com/) (Design studio)<br>
 - [Math Practise](http://math-practice.org/) (Design studio)<br>
 - [Crevv](https://crevv.com/) (Design studio)<br>
@@ -197,8 +196,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Studio Push](https://studio-push.com/) (Design studio)<br>
 - [Visual Adaptater](https://visualadapter.com/) (Design studio)<br>
 - [Wedge](https://www.wedge.work/) (Design studio)<br>
-- [White Russian](https://whiterussian.studio/) (Design studio)<br>
-- [Sometimes Always](https://sometimes-always.com/) (Design studio)<br>
+- `★` [Sometimes Always](https://sometimes-always.com/) (Design studio)<br>
 - [The new company](http://www.new.company/) (Design studio)<br>
 - [Bureau 205](https://www.bureau205.fr/) (Graphic design agency)<br>
 - [VVorkroom](http://vvorkroom.com/) (Graphic design agency)<br>
@@ -206,11 +204,10 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [CUSP](https://heycusp.com/) (Creative collective)<br>
 - [LM Chabot](https://lmchabot.com/) (Photography studio)<br>
 - [OMA](https://oma.eu/) (Architecture studio)<br>
-- [Contemple](https://ccccontemple.com/studio) (Design studio)<br>
-- [syndicat](https://s-y-n-d-i-c-a-t.eu/infos/) (Design studio)<br>
+- [Contemple](https://ccccontemple.com/) (Design studio)<br>
+- [syndicat](https://s-y-n-d-i-c-a-t.eu/) (Design studio)<br>
 - [97cm](https://www.97cm.de) (Atelier)<br>
 - [Studio Andrea Guccini](http://andreaguccini.com/) (Graphic design agency)<br>
-- [Studio Gameiro](https://www.studiogameiro.com/) (Architecture studio)<br>
 - [Patchwork Architecture](https://patchworkarchitecture.co.nz/) (Architecture studio)<br>
 - [6th Finger](https://6thfinger.studio/) (Creative collective)<br>
 - [Spin](https://spin.co.uk/) (Design studio)<br>
@@ -234,7 +231,6 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [NewTab studio](https://www.newtab-studio.com/) (Design studio)<br>
 - [Studio Mærtens](https://studiomaertens.com/) (Industrial design studio)<br>
 - [Studio MUT](http://studiomut.com/) (Design studio)<br>
-- [Open Foundry](https://open-foundry.com/) (Type foundry)<br>
 - [Future Simple Studio](http://futuresimple.studio/) (Architecture studio)<br>
 - `★` [Studio Almond](https://www.almond.studio/) (Design studio)<br>
 - [Other Office](http://otheroffice.net/) (Design studio)<br>
