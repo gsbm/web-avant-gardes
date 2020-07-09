@@ -49,7 +49,6 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Caroline Dussuel](https://carolinedussuel.com/) (Photographer)<br>
 - [Bharat Sikka](http://www.bharatsikka.com/) (Artist)<br>
 - [Mary Gaudin](https://marygaudin.com/) (Photographer)<br>
-- [Stefan Heinrichs](http://www.stefanheinrichs.com/) (Photographer)<br>
 - [Kristina Bartosova](http://kristinabartosova.com/) (Designer)<br>
 - [Sophia Goedecke](http://sophiagoedecke.de/) (Designer)<br>
 - [Yan Tomaszewski](http://yantomaszewski.com/) (Artist)<br>
