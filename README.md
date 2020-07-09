@@ -253,6 +253,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [205TF](https://www.205.tf/) (Type foundry)<br>
 - [Futur Neue](http://www.futurneue.cc/) (Design studio)<br>
 - [Compagnie 7273](https://cie7273.com/) (Choreographers)<br>
+- [DIA](https://dia.tv/) (Design studio)<br>
 
 ### Miscellaneous
 - [Untitled Sans](http://untitledsans.com/) (Typeface)<br>
@@ -353,7 +354,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Very Good Films](https://verygoodfilms.co/) (Movies catalog)<br>
 - `★` [Live Talk From](https://livetalkfrom.com) (Live talk)<br>
 - `★` [Oto Nove Swiss](https://www.otonoveswiss.com/) (Contemporary music festival)<br>
-- [Designing women](https://designingwomen.readymag.com/) (Art history)<br><br>
+- `★` [Designing women](https://designingwomen.readymag.com/) (Art history)<br><br>
 - [Participant Inc](http://participantinc.org/) `(?)`<br>
 - [Postcards from Isolation](https://isolation.is/) `(?)`<br>
 - [Stormwender](https://stromwender.nl/) `(?)`<br>
