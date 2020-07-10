@@ -132,6 +132,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Laurel Halo](http://www.laurelhalo.com/) (Musician)<br>
 - [Daniel Martins](https://www.daniel-martins.com/) (Designer)<br>
 - [Michell Dipp](http://www.michelledipp.com/) (Designer)<br>
+- [Philip Heckhausen](http://www.philipheckhausen.com/) (Photographer)<br>
 
 ### Studios, agencies
 - [Bretagne](http://www.bretagnebretagne.fr/) (Type foundry)<br>
