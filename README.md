@@ -357,6 +357,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - `★` [Designing women](https://designingwomen.readymag.com/) (Art history)
 - [Atlas of Places](https://www.atlasofplaces.com/) (Educational collection)<br>
 - [IOTA Editions](https://iota-editions.com/) (Publisher)<br>
+- [Longform Edition](http://www.longformeditions.com/) (Listening collection)<br><br>
 - [Participant Inc](http://participantinc.org/) `(?)`<br>
 - [Postcards from Isolation](https://isolation.is/) `(?)`<br>
 - [Stormwender](https://stromwender.nl/) `(?)`<br>
