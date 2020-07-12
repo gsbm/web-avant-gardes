@@ -134,6 +134,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Michell Dipp](http://www.michelledipp.com/) (Designer)<br>
 - [Philip Heckhausen](http://www.philipheckhausen.com/) (Photographer)<br>
 - [Fried Rosenstock](http://www.friedrosenstock.com/) (Artist)<br>
+- [Tanya Ermolaeva](https://ermolaeva.co/) (Designer)<br>
 
 ### Studios, agencies
 - [Bretagne](http://www.bretagnebretagne.fr/) (Type foundry)<br>
