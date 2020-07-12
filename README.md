@@ -358,7 +358,8 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Atlas of Places](https://www.atlasofplaces.com/) (Educational collection)<br>
 - [IOTA Editions](https://iota-editions.com/) (Publisher)<br>
 - [Longform Edition](http://www.longformeditions.com/) (Listening collection)<br>
-- [Design Systems International](https://designsystems.international/) (Experimental)<br><br>
+- [Design Systems International](https://designsystems.international/) (Experimental)<br>
+- [Where We Stand](http://wherewestand.co.uk/) (Design challenge)<br><br>
 - [Museum At Large](https://museumatlarge.com/) `(?)`<br>
 - [Participant Inc](http://participantinc.org/) `(?)`<br>
 - [Postcards from Isolation](https://isolation.is/) `(?)`<br>
