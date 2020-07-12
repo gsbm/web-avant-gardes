@@ -255,6 +255,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [DIA](https://dia.tv/) (Design studio)<br>
 - [Republish](https://republi.sh/) (Type foundry)<br>
 - [Studio Monozygote](http://studiomonozygote.com/) (Design studio)<br>
+- [Geckeler Michels](https://www.geckelermichels.com/) (Product design studio)<br>
 
 ### Miscellaneous
 - [Untitled Sans](http://untitledsans.com/) (Typeface)<br>
