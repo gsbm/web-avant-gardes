@@ -258,6 +258,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Studio Monozygote](http://studiomonozygote.com/) (Design studio)<br>
 - [Geckeler Michels](https://www.geckelermichels.com/) (Product design studio)<br>
 - [MMAATTCCHH](https://mmaattcchh.de/) (Filmmaking studio)<br>
+- [Michael McManus Architects](https://michaelmcmanus.com.au/) (Architecture studio)<br>
 
 ### Miscellaneous
 - [Untitled Sans](http://untitledsans.com/) (Typeface)<br>
