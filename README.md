@@ -406,10 +406,11 @@ Adding a label
 You can find some unexpected website by exploring showcase websites like :
 - [Awwwards](https://www.awwwards.com/)
 - [siteInspire](https://www.siteinspire.com/)
-- [Webflow](https://webflow.com/discover/)
 - [Brutalist Websites](https://brutalistwebsites.com/)
 - [Klikkenthéke](https://klikkentheke.com/)
 - [Hoverstates](https://www.hoverstat.es/)
+- [Maxi best of](https://maxibestof.one/)
+- [Minimal Gallery](https://minimal.gallery/)
 
 <br>
 
