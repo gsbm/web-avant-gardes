@@ -137,6 +137,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Tanya Ermolaeva](https://ermolaeva.co/) (Designer)<br>
 - [Amos Abel Yong](https://www.ahmoo.se/) (Photographer)<br>
 - [Lucas Hesse](https://www.lucas-hesse.de/) (Designer)<br>
+- [Fabian Dornhecker](http://fabiandornhecker.de/) (Designer)<br>
 
 ### Studios, agencies
 - [Bretagne](http://www.bretagnebretagne.fr/) (Type foundry)<br>
