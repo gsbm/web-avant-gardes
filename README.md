@@ -142,6 +142,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Talia Cotton](https://taliacotton.com/) (Designer)<br>
 - [Melike Turgut](https://www.meliketurgut.com/) (Designer)<br>
 - [Gian Visi](https://giancreatives.it/) (Designer)<br>
+- [JT Grauke](https://jtgrauke.com/) (Designer)<br>
 
 ### Studios, agencies
 - [Bretagne](http://www.bretagnebretagne.fr/) (Type foundry)<br>
