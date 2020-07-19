@@ -373,6 +373,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Where We Stand](http://wherewestand.co.uk/) (Design challenge)<br>
 - [Black Artist Fund](https://www.blackartistfund.org/) (Funding initiative)<br>
 - `★` [Index Art Book Fair](http://www.indexartbookfair.com/) (Art program)<br><br>
+- `★` [PAL](https://pal-catalogue.com/) (Furniture catalogue)<br>
 - [Museum At Large](https://museumatlarge.com/) `(?)`<br>
 - [Participant Inc](http://participantinc.org/) `(?)`<br>
 - [Postcards from Isolation](https://isolation.is/) `(?)`<br>
