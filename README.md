@@ -266,6 +266,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [MMAATTCCHH](https://mmaattcchh.de/) (Filmmaking studio)<br>
 - [Michael McManus Architects](https://michaelmcmanus.com.au/) (Architecture studio)<br>
 - [Better Half](https://bttrhlf.com/) (Creative studio)<br>
+- [OTK Studio](https://otk.studio/) (Design studio)<br>
 
 ### Miscellaneous
 - [Untitled Sans](http://untitledsans.com/) (Typeface)<br>
