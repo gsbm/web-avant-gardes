@@ -140,6 +140,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Fabian Dornhecker](http://fabiandornhecker.de/) (Designer)<br>
 - [Karin Sander](https://sander.arch.ethz.ch/) (Designer)<br>
 - [Talia Cotton](https://taliacotton.com/) (Designer)<br>
+- [Melike Turgut](https://www.meliketurgut.com/) (Designer)<br>
 
 ### Studios, agencies
 - [Bretagne](http://www.bretagnebretagne.fr/) (Type foundry)<br>
