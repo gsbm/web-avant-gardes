@@ -293,6 +293,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [PC Graphic Design Dpt.](http://www.purchase.design/) `DOWN 👷‍` (Educational program)<br>
 - [Future London Academy](https://bauhaus.futurelondonacademy.com/) (Educational program)<br>
 - [Man-made disaster](https://manmadedisaster.art/) (Art exhibition)<br>
+ `★` [TeTuhi](https://tetuhi.art/) (Art exhibition)<br>
 - [Spinny Nights](https://www.spinnynights.com/) (Showcase platform)<br>
 - [Entireworld](https://theentireworld.com/) (Clothes shop)<br>
 - [Studio Kaze](https://studiokaze.online/) (Clothes shop)<br>
