@@ -400,6 +400,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Take a walk on the wild side](http://takeawalkonthewildside.rietveldacademie.nl/) `(?)`<br>
 - [TIGHT Top 2018](https://en-2018.tight.media/) `(?)`<br>
 - [Latitude](https://explorelatitude.com/) `(?)` <br>
+- [Embassy of Internet](http://www.embassyofinternet.org/) `(?)` <br>
 
 ## Contributing
 
