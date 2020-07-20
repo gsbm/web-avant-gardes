@@ -381,7 +381,8 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Black Artist Fund](https://www.blackartistfund.org/) (Funding initiative)<br>
 - `★` [Index Art Book Fair](http://www.indexartbookfair.com/) (Art program)<br>
 - `★` [PAL](https://pal-catalogue.com/) (Furniture catalogue)<br>
-- [Advance-Copy](https://advance-copy.com/) (Fashion)<br><br>
+- [Advance-Copy](https://advance-copy.com/) (Fashion)<br>
+- [LATERAL](http://escolalateral.com/) (Design school)<br><br>
 - [Museum At Large](https://museumatlarge.com/) `(?)`<br>
 - [Participant Inc](http://participantinc.org/) `(?)`<br>
 - [Postcards from Isolation](https://isolation.is/) `(?)`<br>
