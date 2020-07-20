@@ -272,6 +272,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [OTK Studio](https://otk.studio/) (Design studio)<br>
 - [Bleed](https://bleed.com/) (Design studio)<br>
 - [Oak Park Studio](https://oakpark.co/) (Design studio)<br>
+- [Studio Otto](https://studio-otto.com/) (Design studio)<br>
 
 ### Miscellaneous
 - [Untitled Sans](http://untitledsans.com/) (Typeface)<br>
