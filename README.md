@@ -145,6 +145,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [JT Grauke](https://jtgrauke.com/) (Designer)<br>
 - [Kai Udema](http://kaiudema.com/) (Designer)<br>
 - [Stefanie Tam](http://stefanietam.com/) (Designer)<br>
+- [Andrew Tyson](http://andrewtyson.com/) (Filmmaker)<br>
 
 ### Studios, agencies
 - [Bretagne](http://www.bretagnebretagne.fr/) (Type foundry)<br>
