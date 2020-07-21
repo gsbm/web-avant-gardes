@@ -385,7 +385,8 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Advance-Copy](https://advance-copy.com/) (Fashion)<br>
 - [LATERAL](http://escolalateral.com/) (Design school)<br>
 - [Trambisera Marmi](https://trambiseramarmi.it/) (Construction materials)<br>
-- [MSG](http://madewithmsg.com/) (Apparel)<br><br>
+- [MSG](http://madewithmsg.com/) (Apparel)<br>
+- [Digital Underground](https://digitalundergroundbook.store/) (Book)<br><br>
 - [Museum At Large](https://museumatlarge.com/) `(?)`<br>
 - [Participant Inc](http://participantinc.org/) `(?)`<br>
 - [Postcards from Isolation](https://isolation.is/) `(?)`<br>
