@@ -276,6 +276,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Oak Park Studio](https://oakpark.co/) (Design studio)<br>
 - [Studio Otto](https://studio-otto.com/) (Design studio)<br>
 - [Porter Packaging](https://porterpackaging.com/) (Production studio)<br>
+- [The Royal Studio](https://theroyalstudio.com/) (Design studio)<br>
 
 ### Miscellaneous
 - [Untitled Sans](http://untitledsans.com/) (Typeface)<br>
