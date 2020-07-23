@@ -284,6 +284,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - `★` [The Royal Studio](https://theroyalstudio.com/) (Design studio)<br>
 - [Non-verbal Club](https://nonverbalclub.pt/) (Design studio)<br>
 - `★` [WAKA-WAKA](https://wakawaka.world/) (Furniture design studio)<br>
+- [Ruttens-Wille](https://ruttens-wille.com/) (Design studio)<br>
 
 ### Miscellaneous
 - [Untitled Sans](http://untitledsans.com/) (Typeface)<br>
