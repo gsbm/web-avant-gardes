@@ -148,6 +148,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Andrew Tyson](http://andrewtyson.com/) (Filmmaker)<br>
 - [Beverly Semmes](https://beverlysemmesstudio.com/) (Artist)<br>
 - [Nathan Young](https://nathanyoung.org/) (Designer)<br>
+- [Sam Velenne Reith](https://samreith.com/) (Designer)<br>
 
 ### Studios, agencies
 - [Bretagne](http://www.bretagnebretagne.fr/) (Type foundry)<br>
