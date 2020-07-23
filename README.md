@@ -279,6 +279,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Porter Packaging](https://porterpackaging.com/) (Production studio)<br>
 - `★` [The Royal Studio](https://theroyalstudio.com/) (Design studio)<br>
 - [Non-verbal Club](https://nonverbalclub.pt/) (Design studio)<br>
+- [WAKA-WAKA](https://wakawaka.world/) (Furniture design studio)<br>
 
 ### Miscellaneous
 - [Untitled Sans](http://untitledsans.com/) (Typeface)<br>
@@ -355,7 +356,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - `★` [Inonica](https://inonica.com/) (Art magazine)<br>
 - [Bonde](http://www.bonde.nyc/) (Design event)<br>
 - [B'Est Movie 2019](http://rassegnabestmovie.it/) (Movie)<br>
-- [Waka Waka, Collection N.02](https://2.collection-wakawaka.world/) (Object design collection)<br>
+- [Waka Waka, Collection N.02](https://2.collection-wakawaka.world/) (Furniture design collection)<br>
 - [Landscapes of Fulfillment](https://landscapes-of-fulfillment.org/) (Architecture seminar)<br>
 - [Officesss](https://www.officesss.online/) (Zoom backgrounds)<br>
 - [Richard Rogers Fellowship](http://www.richardrogersfellowship.org/) (Design program)<br>
