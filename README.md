@@ -149,6 +149,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Beverly Semmes](https://beverlysemmesstudio.com/) (Artist)<br>
 - [Nathan Young](https://nathanyoung.org/) (Designer)<br>
 - [Sam Velenne Reith](https://samreith.com/) (Designer)<br>
+- [Jisu Kim](https://jisukim.info/) (Designer)<br>
 
 ### Studios, agencies
 - [Bretagne](http://www.bretagnebretagne.fr/) (Type foundry)<br>
@@ -281,7 +282,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Porter Packaging](https://porterpackaging.com/) (Production studio)<br>
 - `★` [The Royal Studio](https://theroyalstudio.com/) (Design studio)<br>
 - [Non-verbal Club](https://nonverbalclub.pt/) (Design studio)<br>
-- [WAKA-WAKA](https://wakawaka.world/) (Furniture design studio)<br>
+- `★` [WAKA-WAKA](https://wakawaka.world/) (Furniture design studio)<br>
 
 ### Miscellaneous
 - [Untitled Sans](http://untitledsans.com/) (Typeface)<br>
