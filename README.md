@@ -151,6 +151,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Sam Velenne Reith](https://samreith.com/) (Designer)<br>
 - [Jisu Kim](https://jisukim.info/) (Designer)<br>
 - [Alexandra Margetic](https://aa-m.co/) (Designer)<br>
+- [Faris Kassim](https://www.fariskassim.com/) (Designer)<br>
 
 ### Studios, agencies
 - [Bretagne](http://www.bretagnebretagne.fr/) (Type foundry)<br>
