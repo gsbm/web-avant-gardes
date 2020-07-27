@@ -286,6 +286,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - `★` [WAKA-WAKA](https://wakawaka.world/) (Furniture design studio)<br>
 - [Ruttens-Wille](https://ruttens-wille.com/) (Design studio)<br>
 - [3 & 7](https://www.3and7.com/) (Filmmaking studio)<br>
+- [Folder Studio](https://folder.studio/) (Design studio)<br>
 
 ### Miscellaneous
 - [Untitled Sans](http://untitledsans.com/) (Typeface)<br>
