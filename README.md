@@ -401,7 +401,8 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Trambisera Marmi](https://trambiseramarmi.it/) (Construction materials)<br>
 - [MSG](http://madewithmsg.com/) (Apparel)<br>
 - [Digital Underground](https://digitalundergroundbook.store/) (Book)<br>
-- [Modern Matter](http://amodernmatter.com/) (Magazine)<br><br>
+- [Modern Matter](http://amodernmatter.com/) (Magazine)<br>
+- [Taipei Art Book Fair](https://taipeiartbookfair.com/) (Book fair)<br><br>
 - [Museum At Large](https://museumatlarge.com/) `(?)`<br>
 - [Participant Inc](http://participantinc.org/) `(?)`<br>
 - [Postcards from Isolation](https://isolation.is/) `(?)`<br>
