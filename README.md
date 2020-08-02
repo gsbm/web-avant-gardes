@@ -409,7 +409,8 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Modern Matter](http://amodernmatter.com/) (Magazine)<br>
 - [Taipei Art Book Fair](https://taipeiartbookfair.com/) (Book fair)<br>
 - [Mucem](https://www.mucem.org/) (Museum)<br>
-- [The Global Studio](https://www.globalstudio2020.utsphotography.com/) (Study program)<br>
+- [Stay Sane/Stay Safe](https://www.stay-sane-stay-safe.com/) (Poster collection)<br>
+- [The Global Studio](https://www.globalstudio2020.utsphotography.com/) (Study program)<br><br>
 - [Museum At Large](https://museumatlarge.com/) `(?)`<br>
 - [Participant Inc](http://participantinc.org/) `(?)`<br>
 - [Postcards from Isolation](https://isolation.is/) `(?)`<br>
