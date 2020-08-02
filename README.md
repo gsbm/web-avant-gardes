@@ -291,6 +291,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Folder Studio](https://folder.studio/) (Design studio)<br>
 - [FP01](https://fp01.eu/) (Architecture studio)<br>
 - [Spassky Fischer](http://spassky-fischer.fr/) (Design studio)<br>
+- [Metis Foundry](https://metis-foundry.com/) (Type foundry)<br>
 
 ### Miscellaneous
 - [Untitled Sans](http://untitledsans.com/) (Typeface)<br>
