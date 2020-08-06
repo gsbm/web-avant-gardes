@@ -156,6 +156,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Florentijn Deboer](https://www.florentijndeboer.nl/) (Artist)<br>
 - [Jason Miller](http://jasonmiller.tv/) (Art director)<br>
 - [Nicholas C. Eckhardt](https://nicholasceckhardt.com/) (Photographer)<br>
+- [Ben Sifel](https://bensifel.com/) (Designer)<br>
 
 ### Studios, agencies
 - [Bretagne](http://www.bretagnebretagne.fr/) (Type foundry)<br>
