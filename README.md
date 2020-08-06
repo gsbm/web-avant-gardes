@@ -155,6 +155,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Barbara Dragan](https://dragan.cool/) (Orchestra Conductor)<br>
 - [Florentijn Deboer](https://www.florentijndeboer.nl/) (Artist)<br>
 - [Jason Miller](http://jasonmiller.tv/) (Art director)<br>
+- [Nicholas C. Eckhardt](https://nicholasceckhardt.com/) (Photographer)<br>
 
 ### Studios, agencies
 - [Bretagne](http://www.bretagnebretagne.fr/) (Type foundry)<br>
