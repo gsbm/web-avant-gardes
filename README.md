@@ -300,6 +300,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Made in Buro](https://madeinburo.com/) (Creative agency)<br>
 - [Bureau Bordeaux](https://www.bureaubordeaux.com/) (Design studio)<br>
 - [ANTI](https://anti.as/) (Design studio)<br>
+- [TMPM](https://tmpl.studio/) (Industrial design studio)<br>
 
 ### Miscellaneous
 - [Untitled Sans](http://untitledsans.com/) (Typeface)<br>
