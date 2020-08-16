@@ -436,6 +436,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [TIGHT Top 2018](https://en-2018.tight.media/) `(?)`<br>
 - [Latitude](https://explorelatitude.com/) `(?)` <br>
 - [Embassy of Internet](http://www.embassyofinternet.org/) `(?)` <br>
+- [Jasuteren](https://jasuteren.cz/) `(?)` <br>
 
 ## Contributing
 
