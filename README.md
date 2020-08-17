@@ -304,6 +304,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [TMPM](https://tmpl.studio/) (Industrial design studio)<br>
 - [Kruger Buro](https://www.krugerburo.com/) (Design studio)<br>
 - [Crown & Owls](https://www.crownsandowls.com/) (Creative direction studio)<br>
+- [Pizza Pizza](https://pizzapizza.io/) (Digital product studio)<br>
 
 ### Miscellaneous
 - [Untitled Sans](http://untitledsans.com/) (Typeface)<br>
