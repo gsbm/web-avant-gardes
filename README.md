@@ -322,6 +322,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Ricky Michiels](https://www.rickymichiels.com/) (Artist management)<br>
 - [WM Artist Studio](http://www.wmartistmanagement.com/) (Artist management)<br>
 - [Andmarq](http://andmarq.com/) (Artist management)<br>
+- [Route](https://route.onl/) (Artist management)<br>
 - [A-okay](http://a-okay.one/) (Translators)<br>
 - [SSHH](https://sshh.nyc/) (Open space)<br>
 - [A big mood](http://hexagon-ux.superhi.com/) (Blog)<br>
