@@ -157,6 +157,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Jason Miller](http://jasonmiller.tv/) (Art director)<br>
 - [Nicholas C. Eckhardt](https://nicholasceckhardt.com/) (Photographer)<br>
 - [Ben Sifel](https://bensifel.com/) (Designer)<br>
+- [Fiona Jane Burgess](https://www.fionajaneburgess.com/) (Film director)<br>
 
 ### Studios, agencies
 - [Bretagne](http://www.bretagnebretagne.fr/) (Type foundry)<br>
