@@ -303,6 +303,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [ANTI](https://anti.as/) (Design studio)<br>
 - [TMPM](https://tmpl.studio/) (Industrial design studio)<br>
 - [Kruger Buro](https://www.krugerburo.com/) (Design studio)<br>
+- [Crown & Owls](https://www.crownsandowls.com/) (Creative direction studio)<br>
 
 ### Miscellaneous
 - [Untitled Sans](http://untitledsans.com/) (Typeface)<br>
