@@ -14,435 +14,435 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 `★ Editor's pick`
 
 ### Personal pages, portfolios
-- [Lucas Le Bihan](http://lucaslebihan.fr/) (Designer)<br>
-- `★` [Julie Cristobal](http://juliecristobal.com/) (Stylist)<br>
-- [Charlotte Debauge-Cahen](https://charlottedebauge.fr/) (Designer)<br>
-- [Pavel Kedzich](https://kedzich.com/) (Designer)<br>
-- [Nick Losacco](https://www.nicklosacco.com/) (Designer)<br>
-- [Pierre Choiniere](https://pierrechoiniere.com/) (Photographer)<br>
-- [Agnes Lloyd-Platt](https://agneslloydplatt.com/) (Photographer)<br>
-- [Sara Marandi](http://www.saramarandi.com/) (Photographer)<br>
-- [Sandra Autukaite](https://www.sandraautukaite.com/) (Designer)<br>
-- [Kristen Cabrera](https://kristencabrera.com/) (Designer)<br>
-- [Aristide Benoist](https://www.aristidebenoist.com/) (Designer)<br>
-- [Vincent Tavano](https://www.tavanovincent.com/) (Designer)<br>
-- [Chrissie Abbott](https://chrissieabbott.com/) (Designer)<br>
-- [Adam Ho](https://www.adamho.com/) (Designer)<br>
-- [Florian Monfrini](https://florianmonfrini.com/) (Artist)<br>
-- [Candy Chiu](http://candychiu.com/) (Designer)<br>
-- [Juraj Molnár](https://jurajmolnar.com/) (Designer)<br>
-- [Max Siedentopf](http://maxsiedentopf.com/) (Visual artist)<br>
-- [Mariana Lobão](http://marianalobao.com/) (Designer)<br>
-- [Pedro Cardoso](https://pedrocardoso.fr/) (Designer)<br>
-- [Sara Maia](http://www.saramaia.net/) (Stylist)<br>
-- [Rui da Paz](https://rui.cool/) (Designer)<br>
-- [Xevi Fernandez](https://xevifernandez.com/) (Stylist)<br>
-- [Athena Tian](https://yuenye.com/) (Designer)<br>
-- [Sonia Rentsch](http://www.soniarentsch.com/about) (Art director)<br>
-- [Mara Züst](https://marazuest.net/) (Artist)<br>
-- [Christopher Paul Sharpe](http://christopherpaulsharpe.com/) (Photographer)<br>
-- [Alexander Coggin](http://alexandercoggin.com/) (Photographer)<br>
-- [Dan Holdsworth](http://www.danholdsworth.com/) (Photographer)<br>
-- [Sacha Maric](https://www.sachamaric.com/) (Photographer)<br>
-- [Rachel de Joode](https://racheldejoode.com/) (Artist)<br>
-- [Caroline Dussuel](https://carolinedussuel.com/) (Photographer)<br>
-- [Bharat Sikka](http://www.bharatsikka.com/) (Artist)<br>
-- [Mary Gaudin](https://marygaudin.com/) (Photographer)<br>
-- [Kristina Bartosova](http://kristinabartosova.com/) (Designer)<br>
-- [Sophia Goedecke](http://sophiagoedecke.de/) (Designer)<br>
-- [Yan Tomaszewski](http://yantomaszewski.com/) (Artist)<br>
-- [Geordie Wood](http://geordiewood.com/) (Photographer)<br>
-- [Jenny Nordberg](http://jenny-nordberg.com/) (Artist)<br>
-- [Diane Martel](https://diane-martel.com/) (Visual artist)<br>
-- [Nicolas Delaroche](https://nicolasdelaroche.com/) (Artist)<br>
-- [Naho Kubota](https://nahokubota.com/) (Photographer)<br>
-- [Yoshihiko Ueda](http://www.yoshihikoueda.com/) (Photographer)<br>
-- [Ilari Laamanen](http://ilarilaamanen.com/) (Curator)<br>
-- [Lindsay Howard](http://lindsayhoward.net/) `DOWN 👷‍` (Curator)<br>
-- [Sven Stuckenschmidt](https://www.svenstuckenschmidt.de/) (Artist)<br>
-- [Erwan Sene](http://www.erwansene.pro/) `DOWN 👷‍` (Artist)<br>
-- [Eric Price](https://ericprice.cc/) (Designer)<br>
-- [Martin Wecke](https://martinwecke.de/) (Designer)<br>
-- [Samuel Coronado](https://samucoronado.com/) (Designer)<br>
-- [Svyat Vishnyakov](https://vishvish.design/) (Designer)<br>
-- [Mariya Pepelanova](https://pepecph.com/) (Photographer)<br>
-- [Floris Schrama](http://www.florisschrama.nl/) (Designer)<br>
-- [Dan Flynn](http://design.byform.co/) (Designer)<br>
-- [Kostas Murkudis](http://kostasmurkudis.net/) (Designer)<br>
-- [Gaëtan Thirion](http://gaetan-thirion.com/) (Designer)<br>
-- [Anthony Scime](https://art-ams.com/) (Designer)<br>
-- [Pleun Verhoofstad](https://pleunverhoofstad.com/) (Designer)<br>
-- [Jeremie Dussault-Lefebvre](https://jeremie.xyz/) (Designer)<br>
-- [Esther Hovers](https://estherhovers.com/About-Contact) (Photographer)<br>
-- [Nicolas C. Eckhardt](https://nicholasceckhardt.com/) (Photographer)<br>
-- [Sammlung Walter](https://sammlungwalter.de/) (Designer)<br>
-- [Sasha Ng](http://sasha-ng.com/) (Designer)<br>
-- [Kristin Rosch](https://kristinrosch.com/) (Designer)<br>
-- [Oscar Gómez](http://scrgb.co/) (Designer)<br>
-- [Jon Gacnik](https://jongacnik.com/) (Designer)<br>
-- [Yannis Karpouzis](https://www.yanniskarpouzis.com/) (Artist)<br>
-- [Alex Kryritsis](https://www.alexkyritsis.com/) (Designer)<br>
-- [Javi Medialdea](https://www.javimedialdea.es/) (Designer)<br>
-- [Gianfranco Panza](http://www.gianfrancopanza.com/) (Architect)<br>
-- [Esther Hovers](https://estherhovers.com/) (Artist)<br>
-- [Bruno Tomé](https://brunotome.dev/) (Designer)<br>
-- `★` [Kostas Murkudis](https://kostasmurkudis.org/) (Designer)<br>
-- [Armin Unruh](https://arminunruh.com/) (Developer)<br>
-- [Jacobs Slum](http://jacobsslum.dk/) (Historian)<br>
-- [Thomas van Ryzewyk](http://vanryzewyk.com/) (Designer)<br>
-- [Johannes Schnatmann](http://jotundes.com/) (Artist)<br>
-- [Oscar Gómez](http://scrgb.co/) (Designer)<br>
-- `★` [Julian Galay](http://juliangalay.com/) (Compositor)<br>
-- [Veronica Calfat](http://veronicacalfat.com/) (Artist)<br>
-- [Stephanie Jeong](https://jeongsteph.design/) (Designer)<br>
-- [Scott Reinhard](https://scottreinhard.com/) (Designer)<br>
-- [Andrew Walsh-Lister](https://andrew-lister.info/) (Designer)<br>
-- `★` [Chad Miller](https://chdmlr.com/) (Designer)<br>
-- [Hrvoje Živčić](https://hrvojezivcic.com/) (Designer)<br>
-- [Victor Clemente](https://victorclemente.me/) (Designer)<br>
-- [Élise Rigollet](https://eliserigollet.com/) (Designer)<br>
-- [Danny Gray](https://dannygray.info/) (Designer)<br>
-- [Juliette Lepineau](https://juliettelepineau.net/) (Artist)<br>
-- [Alvaro Canovas Puigmarti](https://a-canovas.com/) (Designer)<br>
-- [Oliviero Fiorenzi](https://olivierofiorenzi.com/) (Artist)<br>
-- [Melvin Ghandour](https://melvinghandour.com/) (Designer)<br>
-- [Olivier Charland](https://olicharland.com/) (Designer)<br>
-- [Manu Rosaleny](https://manurosaleny.es/) (Photographer)<br>
-- `★` [Gio Pandone](https://www.giopandone.com/) (Designer)<br>
-- [Thomas Hervé](http://www.hervethomas.com/) (Designer)<br>
-- [Samy Rio](https://www.samyrio.fr/) (Designer)<br>
-- [Gwennina Moigne](http://www.gwenninamoigne.com/) (Designer)<br>
-- [Tatitana Egoshina](https://tatianae.com/) (Designer)<br>
-- [Davided Mascioli](https://www.dmascioli.com/) (Designer)<br>
-- [Matteo Campostrini](http://www.matteocampostrini.com/) (Designer)<br>
-- [Nelson Heinemann](https://nelsonheinemann.com/) (Stylist)<br>
-- `★` [Nam Huynh](https://www.namhuynh.de/) (Designer)<br>
-- [Frederico Cavalieri](http://effecava.xyz/) (Designer)<br>
-- [Mun Jiwoo](https://www.munjiwoo.com/) (Artist)<br>
 - [Adam Clarke](http://adamclarkecolour.com/) (Colourist)<br>
-- [Jihee Lee](https://jihee-lee.com/) (Designer)<br>
-- [Elias Derboven](http://eliasderboven.com/) (Photographer)<br>
-- [Khoa Lê](https://lekhoa.com/) (Filmmaker)<br>
-- [Ricardo Ferrol](https://ricardoferrol.com/) (Art director)<br>
-- [Ayaka B. Ito](https://ayakaito.com/) (Designer)<br>
-- [Mark Hurrell](https://mhurrell.co.uk/) (Designer)<br>
-- [Kellen Renstrom](https://kellenrenstrom.com/) (Designer)<br>
-- [Jeff Staple](https://jeffstaple.tv/) (Designer)<br>
-- [Niklas Rosén](https://niklasrosen.se/) (Designer)<br>
-- [Laurel Halo](http://www.laurelhalo.com/) (Musician)<br>
-- [Daniel Martins](https://www.daniel-martins.com/) (Designer)<br>
-- [Michell Dipp](http://www.michelledipp.com/) (Designer)<br>
-- [Philip Heckhausen](http://www.philipheckhausen.com/) (Photographer)<br>
-- [Fried Rosenstock](http://www.friedrosenstock.com/) (Artist)<br>
-- [Tanya Ermolaeva](https://ermolaeva.co/) (Designer)<br>
-- [Amos Abel Yong](https://www.ahmoo.se/) (Photographer)<br>
-- [Lucas Hesse](https://www.lucas-hesse.de/) (Designer)<br>
-- [Fabian Dornhecker](http://fabiandornhecker.de/) (Designer)<br>
-- [Karin Sander](https://sander.arch.ethz.ch/) (Designer)<br>
-- [Talia Cotton](https://taliacotton.com/) (Designer)<br>
-- [Melike Turgut](https://www.meliketurgut.com/) (Designer)<br>
-- [Gian Visi](https://giancreatives.it/) (Designer)<br>
-- [JT Grauke](https://jtgrauke.com/) (Designer)<br>
-- [Kai Udema](http://kaiudema.com/) (Designer)<br>
-- [Stefanie Tam](http://stefanietam.com/) (Designer)<br>
-- [Andrew Tyson](http://andrewtyson.com/) (Filmmaker)<br>
-- [Beverly Semmes](https://beverlysemmesstudio.com/) (Artist)<br>
-- [Nathan Young](https://nathanyoung.org/) (Designer)<br>
-- [Sam Velenne Reith](https://samreith.com/) (Designer)<br>
-- [Jisu Kim](https://jisukim.info/) (Designer)<br>
+- [Adam Ho](https://www.adamho.com/) (Designer)<br>
+- [Agnes Lloyd-Platt](https://agneslloydplatt.com/) (Photographer)<br>
+- [Alex Kryritsis](https://www.alexkyritsis.com/) (Designer)<br>
+- [Alexander Coggin](http://alexandercoggin.com/) (Photographer)<br>
 - [Alexandra Margetic](https://aa-m.co/) (Designer)<br>
-- [Faris Kassim](https://www.fariskassim.com/) (Designer)<br>
+- [Alvaro Canovas Puigmarti](https://a-canovas.com/) (Designer)<br>
+- [Amos Abel Yong](https://www.ahmoo.se/) (Photographer)<br>
+- [Andrew Tyson](http://andrewtyson.com/) (Filmmaker)<br>
+- [Andrew Walsh-Lister](https://andrew-lister.info/) (Designer)<br>
+- [Anthony Scime](https://art-ams.com/) (Designer)<br>
+- [Aristide Benoist](https://www.aristidebenoist.com/) (Designer)<br>
+- [Armin Unruh](https://arminunruh.com/) (Developer)<br>
+- [Athena Tian](https://yuenye.com/) (Designer)<br>
+- [Ayaka B. Ito](https://ayakaito.com/) (Designer)<br>
 - [Barbara Dragan](https://dragan.cool/) (Orchestra Conductor)<br>
-- [Florentijn Deboer](https://www.florentijndeboer.nl/) (Artist)<br>
-- [Jason Miller](http://jasonmiller.tv/) (Art director)<br>
-- [Nicholas C. Eckhardt](https://nicholasceckhardt.com/) (Photographer)<br>
 - [Ben Sifel](https://bensifel.com/) (Designer)<br>
+- [Beverly Semmes](https://beverlysemmesstudio.com/) (Artist)<br>
+- [Bharat Sikka](http://www.bharatsikka.com/) (Artist)<br>
+- [Bruno Tomé](https://brunotome.dev/) (Designer)<br>
+- [Candy Chiu](http://candychiu.com/) (Designer)<br>
+- [Caroline Dussuel](https://carolinedussuel.com/) (Photographer)<br>
+- `★` [Chad Miller](https://chdmlr.com/) (Designer)<br>
+- [Charlotte Debauge-Cahen](https://charlottedebauge.fr/) (Designer)<br>
+- [Chrissie Abbott](https://chrissieabbott.com/) (Designer)<br>
+- [Christopher Paul Sharpe](http://christopherpaulsharpe.com/) (Photographer)<br>
+- [Dan Flynn](http://design.byform.co/) (Designer)<br>
+- [Dan Holdsworth](http://www.danholdsworth.com/) (Photographer)<br>
+- [Daniel Martins](https://www.daniel-martins.com/) (Designer)<br>
+- [Danny Gray](https://dannygray.info/) (Designer)<br>
+- [Davided Mascioli](https://www.dmascioli.com/) (Designer)<br>
+- [Diane Martel](https://diane-martel.com/) (Visual artist)<br>
+- [Elias Derboven](http://eliasderboven.com/) (Photographer)<br>
+- [Élise Rigollet](https://eliserigollet.com/) (Designer)<br>
+- [Eric Price](https://ericprice.cc/) (Designer)<br>
+- [Erwan Sene](http://www.erwansene.pro/) `DOWN 👷‍` (Artist)<br>
+- [Esther Hovers](https://estherhovers.com/) (Artist)<br>
+- [Esther Hovers](https://estherhovers.com/About-Contact) (Photographer)<br>
+- [Fabian Dornhecker](http://fabiandornhecker.de/) (Designer)<br>
+- [Faris Kassim](https://www.fariskassim.com/) (Designer)<br>
 - [Fiona Jane Burgess](https://www.fionajaneburgess.com/) (Film director)<br>
+- [Florentijn Deboer](https://www.florentijndeboer.nl/) (Artist)<br>
+- [Florian Monfrini](https://florianmonfrini.com/) (Artist)<br>
+- [Floris Schrama](http://www.florisschrama.nl/) (Designer)<br>
+- [Frederico Cavalieri](http://effecava.xyz/) (Designer)<br>
+- [Fried Rosenstock](http://www.friedrosenstock.com/) (Artist)<br>
+- [Gaëtan Thirion](http://gaetan-thirion.com/) (Designer)<br>
+- [Geordie Wood](http://geordiewood.com/) (Photographer)<br>
+- [Gian Visi](https://giancreatives.it/) (Designer)<br>
+- [Gianfranco Panza](http://www.gianfrancopanza.com/) (Architect)<br>
+- `★` [Gio Pandone](https://www.giopandone.com/) (Designer)<br>
+- [Gwennina Moigne](http://www.gwenninamoigne.com/) (Designer)<br>
+- [Hrvoje Živčić](https://hrvojezivcic.com/) (Designer)<br>
+- [Ilari Laamanen](http://ilarilaamanen.com/) (Curator)<br>
+- [JT Grauke](https://jtgrauke.com/) (Designer)<br>
+- [Jacobs Slum](http://jacobsslum.dk/) (Historian)<br>
+- [Jason Miller](http://jasonmiller.tv/) (Art director)<br>
+- [Javi Medialdea](https://www.javimedialdea.es/) (Designer)<br>
+- [Jeff Staple](https://jeffstaple.tv/) (Designer)<br>
+- [Jenny Nordberg](http://jenny-nordberg.com/) (Artist)<br>
+- [Jeremie Dussault-Lefebvre](https://jeremie.xyz/) (Designer)<br>
+- [Jihee Lee](https://jihee-lee.com/) (Designer)<br>
+- [Jisu Kim](https://jisukim.info/) (Designer)<br>
+- [Johannes Schnatmann](http://jotundes.com/) (Artist)<br>
+- [Jon Gacnik](https://jongacnik.com/) (Designer)<br>
+- `★` [Julian Galay](http://juliangalay.com/) (Compositor)<br>
+- `★` [Julie Cristobal](http://juliecristobal.com/) (Stylist)<br>
+- [Juliette Lepineau](https://juliettelepineau.net/) (Artist)<br>
+- [Juraj Molnár](https://jurajmolnar.com/) (Designer)<br>
+- [Kai Udema](http://kaiudema.com/) (Designer)<br>
+- [Karin Sander](https://sander.arch.ethz.ch/) (Designer)<br>
+- [Kellen Renstrom](https://kellenrenstrom.com/) (Designer)<br>
+- [Khoa Lê](https://lekhoa.com/) (Filmmaker)<br>
+- `★` [Kostas Murkudis](https://kostasmurkudis.org/) (Designer)<br>
+- [Kristen Cabrera](https://kristencabrera.com/) (Designer)<br>
+- [Kristin Rosch](https://kristinrosch.com/) (Designer)<br>
+- [Kristina Bartosova](http://kristinabartosova.com/) (Designer)<br>
+- [Laurel Halo](http://www.laurelhalo.com/) (Musician)<br>
+- [Lindsay Howard](http://lindsayhoward.net/) `DOWN 👷‍` (Curator)<br>
+- [Lucas Hesse](https://www.lucas-hesse.de/) (Designer)<br>
+- [Lucas Le Bihan](http://lucaslebihan.fr/) (Designer)<br>
+- [Manu Rosaleny](https://manurosaleny.es/) (Photographer)<br>
+- [Mara Züst](https://marazuest.net/) (Artist)<br>
+- [Mariana Lobão](http://marianalobao.com/) (Designer)<br>
+- [Mariya Pepelanova](https://pepecph.com/) (Photographer)<br>
+- [Mark Hurrell](https://mhurrell.co.uk/) (Designer)<br>
+- [Martin Wecke](https://martinwecke.de/) (Designer)<br>
+- [Mary Gaudin](https://marygaudin.com/) (Photographer)<br>
+- [Matteo Campostrini](http://www.matteocampostrini.com/) (Designer)<br>
+- [Max Siedentopf](http://maxsiedentopf.com/) (Visual artist)<br>
+- [Melike Turgut](https://www.meliketurgut.com/) (Designer)<br>
+- [Melvin Ghandour](https://melvinghandour.com/) (Designer)<br>
+- [Michell Dipp](http://www.michelledipp.com/) (Designer)<br>
+- [Mun Jiwoo](https://www.munjiwoo.com/) (Artist)<br>
+- [Naho Kubota](https://nahokubota.com/) (Photographer)<br>
+- `★` [Nam Huynh](https://www.namhuynh.de/) (Designer)<br>
+- [Nathan Young](https://nathanyoung.org/) (Designer)<br>
+- [Nelson Heinemann](https://nelsonheinemann.com/) (Stylist)<br>
+- [Nicholas C. Eckhardt](https://nicholasceckhardt.com/) (Photographer)<br>
+- [Nick Losacco](https://www.nicklosacco.com/) (Designer)<br>
+- [Nicolas C. Eckhardt](https://nicholasceckhardt.com/) (Photographer)<br>
+- [Nicolas Delaroche](https://nicolasdelaroche.com/) (Artist)<br>
+- [Niklas Rosén](https://niklasrosen.se/) (Designer)<br>
+- [Olivier Charland](https://olicharland.com/) (Designer)<br>
+- [Oliviero Fiorenzi](https://olivierofiorenzi.com/) (Artist)<br>
+- [Oscar Gómez](http://scrgb.co/) (Designer)<br>
+- [Oscar Gómez](http://scrgb.co/) (Designer)<br>
+- [Pavel Kedzich](https://kedzich.com/) (Designer)<br>
+- [Pedro Cardoso](https://pedrocardoso.fr/) (Designer)<br>
+- [Philip Heckhausen](http://www.philipheckhausen.com/) (Photographer)<br>
+- [Pierre Choiniere](https://pierrechoiniere.com/) (Photographer)<br>
+- [Pleun Verhoofstad](https://pleunverhoofstad.com/) (Designer)<br>
+- [Rachel de Joode](https://racheldejoode.com/) (Artist)<br>
+- [Ricardo Ferrol](https://ricardoferrol.com/) (Art director)<br>
+- [Rui da Paz](https://rui.cool/) (Designer)<br>
+- [Sacha Maric](https://www.sachamaric.com/) (Photographer)<br>
+- [Sam Velenne Reith](https://samreith.com/) (Designer)<br>
+- [Sammlung Walter](https://sammlungwalter.de/) (Designer)<br>
+- [Samuel Coronado](https://samucoronado.com/) (Designer)<br>
+- [Samy Rio](https://www.samyrio.fr/) (Designer)<br>
+- [Sandra Autukaite](https://www.sandraautukaite.com/) (Designer)<br>
+- [Sara Maia](http://www.saramaia.net/) (Stylist)<br>
+- [Sara Marandi](http://www.saramarandi.com/) (Photographer)<br>
+- [Sasha Ng](http://sasha-ng.com/) (Designer)<br>
+- [Scott Reinhard](https://scottreinhard.com/) (Designer)<br>
+- [Sonia Rentsch](http://www.soniarentsch.com/about) (Art director)<br>
+- [Sophia Goedecke](http://sophiagoedecke.de/) (Designer)<br>
+- [Stefanie Tam](http://stefanietam.com/) (Designer)<br>
+- [Stephanie Jeong](https://jeongsteph.design/) (Designer)<br>
+- [Sven Stuckenschmidt](https://www.svenstuckenschmidt.de/) (Artist)<br>
+- [Svyat Vishnyakov](https://vishvish.design/) (Designer)<br>
+- [Talia Cotton](https://taliacotton.com/) (Designer)<br>
+- [Tanya Ermolaeva](https://ermolaeva.co/) (Designer)<br>
+- [Tatitana Egoshina](https://tatianae.com/) (Designer)<br>
+- [Thomas Hervé](http://www.hervethomas.com/) (Designer)<br>
+- [Thomas van Ryzewyk](http://vanryzewyk.com/) (Designer)<br>
+- [Veronica Calfat](http://veronicacalfat.com/) (Artist)<br>
+- [Victor Clemente](https://victorclemente.me/) (Designer)<br>
+- [Vincent Tavano](https://www.tavanovincent.com/) (Designer)<br>
+- [Xevi Fernandez](https://xevifernandez.com/) (Stylist)<br>
+- [Yan Tomaszewski](http://yantomaszewski.com/) (Artist)<br>
+- [Yannis Karpouzis](https://www.yanniskarpouzis.com/) (Artist)<br>
+- [Yoshihiko Ueda](http://www.yoshihikoueda.com/) (Photographer)<br>
 
 ### Studios, agencies
-- [Bretagne](http://www.bretagnebretagne.fr/) (Type foundry)<br>
-- [Dreams Office](http://www.dreamsoffice.fr/) (Design studio)<br>
-- [Studio Lin](https://studiolin.org/) (Design studio)<br>
-- [Wade and Leta](https://wadeandleta.com/) (Design studio)<br>
-- [HalloBasis](https://hallobasis.com/) (Design studio)<br>
-- [Orior](https://www.oriorfurniture.com/) (Furniture design studio)<br>
-- [Nike Circular Design](https://www.nikecirculardesign.com/) (Design studio)<br>
-- [Translation](https://translationllc.com/) (Design studio)<br>
-- [Special-Offer](https://special-offer.studio/) (Design studio)<br>
-- [Brill Brill Studio](https://brillbrillstudio.com/) (Photography studio)<br>
-- [Azab](https://www.azab.es/) (Architecture studio)<br>
-- [RTA Studio](http://rtastudio.co.nz/) (Architecture studio)<br>
-- [Scholz and Associates](https://scholzand.com/) (Agency)<br>
-- [Gallery by Toko](https://designbytoko.com/) (Design studio)<br>
 - [101](http://101.at/) (Design studio)<br>
-- [Nord+](https://www.nord.plus/) (Design studio)<br>
-- [Belen Tenorio](http://www.belentenorio.com/) (Design studio)<br>
-- [Two much](http://twomuch.studio/) (Design studio)<br>
-- [HAWRAF](https://www.hawraf.com/) (Design studio)<br>
-- [Jaapsmit](https://jaapsmit.nl/) (Design studio)<br>
-- [Farbe Designbüro](https://buero-farbe.de/) (Design studio)<br>
-- [Auwää](https://auwaa.ch/) (Design studio)<br>
-- [Twenty Nine](https://www.xxix.co/) (Design studio)<br>
-- [Heller](https://heller.tv) (Space architecture studio)<br>
-- [UsVersus](https://usvs.co/) (Design studio)<br>
-- [Zero](https://zero.nyc/) (Design studio)<br>
-- [Zero Turns Two](https://two.zero.nyc/) (Design studio)<br>
-- [Bureau Mirko Borsche](https://bureauborsche.com) (Design studio)<br>
-- [High5](http://www.highfivebro.com/) (Design studio)<br>
-- [GDW](https://gdw.kr/) (Design studio)<br>
-- [Stuuudio](https://stuuudio.co/) (Design studio)<br>
-- [Osk](http://osk.co/) (Design studio)<br>
-- [Maud](https://www.maud.com.au/) (Design studio)<br>
-- [Dunne & Raby](http://dunneandraby.co.uk/) (Design studio)<br>
-- [Atelier Dreibholz](http://dreibholz.com/) (Design studio)<br>
-- [Pol Solsona Studio](http://polsolsona.com/) (Design studio)<br>
-- [No plans](https://noplans.show/) (Design studio)<br>
-- [Unu o unu](http://www.unuounu.org/) (Artist association)<br>
-- [CCKW](https://www.cckw.us/shop) (Design studio)<br>
-- [Inventory Studio](http://inventorystudio.co.uk/) (Design studio)<br>
-- `★` [Another Studio](http://anotherstudio.it/) (Design studio)<br>
-- [Studio Vedet](https://studiovedet.com/) (Design studio)<br>
-- [Counterpoint](http://counterpoint-association.com/) (Artist association)<br>
-- [Studio Rejane Dal Bello](http://rejanedalbello.com/) (Design studio)<br>
-- [Atelier Florian Markl](https://florianmarkl.com/) (Design studio)<br>
-- [Switch](https://switch.co.nz/) (Design studio)<br>
-- [Random Ltd](https://ransomltd.com/) (Photography studio)<br>
-- [Climate](http://thisisclimate.com/) (Design studio)<br>
-- [Apelido & Apelido](https://apelido-apelido.com/) (Design studio)<br>
-- [From A to B](http://studio-fromatob.com/) (Design studio)<br>
-- [Math Practise](http://math-practice.org/) (Design studio)<br>
-- [Crevv](https://crevv.com/) (Design studio)<br>
-- [Purho](http://www.purho.it/en/) (Design studio)<br>
-- [56](https://56.digital/) (Design studio)<br>
-- [Namespace](https://namespace.studio/) (Design studio)<br>
-- [Mint Art Haus](https://mintarthaus.com/) (Design studio)<br>
-- [Blaze Type](https://blazetype.eu/) (Type foundry)<br>
-- [Writing Man](https://www.writingman.co.uk/) (Copywriting)<br>
-- [HelloMe](https://hellome.studio/) (Design studio)<br>
-- [Temporary State](http://typefaces.temporarystate.net/) (Type foundry)<br>
-- [Studio Push](https://studio-push.com/) (Design studio)<br>
-- [Visual Adaptater](https://visualadapter.com/) (Design studio)<br>
-- [Wedge](https://www.wedge.work/) (Design studio)<br>
-- `★` [Sometimes Always](https://sometimes-always.com/) (Design studio)<br>
-- [The new company](http://www.new.company/) (Design studio)<br>
-- [Bureau 205](https://www.bureau205.fr/) (Graphic design agency)<br>
-- [VVorkroom](http://vvorkroom.com/) (Graphic design agency)<br>
-- [PATAWA](https://ptw.wtf/) (Artistic direction)<br>
-- [CUSP](https://heycusp.com/) (Creative collective)<br>
-- [LM Chabot](https://lmchabot.com/) (Photography studio)<br>
-- [OMA](https://oma.eu/) (Architecture studio)<br>
-- [Contemple](https://ccccontemple.com/) (Design studio)<br>
-- [syndicat](https://s-y-n-d-i-c-a-t.eu/) (Design studio)<br>
-- [97cm](https://www.97cm.de) (Atelier)<br>
-- [Studio Andrea Guccini](http://andreaguccini.com/) (Graphic design agency)<br>
-- [Patchwork Architecture](https://patchworkarchitecture.co.nz/) (Architecture studio)<br>
-- [6th Finger](https://6thfinger.studio/) (Creative collective)<br>
-- [Spin](https://spin.co.uk/) (Design studio)<br>
-- [Air Studio](https://www.airstudios.com/) (Recording studio)<br>
-- [cortese/mazza](https://cortesemazza.com/) (Architecture studio)<br>
-- [Studio Nanneke Boomgaard](https://nannekeboomgaard.nl/) (Furniture design studio)<br>
-- [Funeral Studio](https://funeral.studio/) (Design studio)<br>
-- [Collins](https://www.wearecollins.com/) (Design studio)<br>
-- [Tableau](https://tableau-cph.com/) (Design studio)<br>
-- [Demande Spéciale](http://demandespeciale.ca/) (Design studio)<br>
-- [Barkas](https://thebarkas.com/) (Design studio)<br>
-- [PLAYLAB, INC.](https://www.playlab.org/) (Design studio)<br>
-- [July](http://studiojuly.co/) (Design studio)<br>
-- [Porto Rocha](https://portorocha.com/) (Design studio)<br>
-- [International Magic](https://intmagic.com/) (Design studio)<br>
-- [Superimpose](https://superimpose.global/) (Creative agency)<br>
-- [Sabato studio](https://sabato.studio/) (Design studio)<br>
-- [Diplomats](https://diplomats.tv/) (Creative studio)<br>
-- [Cactus Club](https://www.cactusclub.biz/) (Production company)<br>
-- [House of Folk](https://houseoffolk.com/) (Design studio)<br>
-- [NewTab studio](https://www.newtab-studio.com/) (Design studio)<br>
-- [Studio Mærtens](https://studiomaertens.com/) (Industrial design studio)<br>
-- [Studio MUT](http://studiomut.com/) (Design studio)<br>
-- [Future Simple Studio](http://futuresimple.studio/) (Architecture studio)<br>
-- `★` [Studio Almond](https://www.almond.studio/) (Design studio)<br>
-- [Other Office](http://otheroffice.net/) (Design studio)<br>
-- [56](https://56.digital/) (Creative agency)<br>
-- [Typical Organization](https://typical-organization.com/) (Design studio)<br>
-- [Services Généraux](https://generaux.services/) (Creative agency)<br>
+- [205TF](https://www.205.tf/) (Type foundry)<br>
 - `★` [2SJ Architekturfotografie](https://2sjarchitekturfotografie.com/) (Photography studio)<br>
-- [Nonymous](https://nonymous.com/) (Communication agency)<br>
-- [The Grammar of Frames](https://www.thegrammarof.com/) (Brand experience studio)<br>
+- [3 & 7](https://www.3and7.com/) (Filmmaking studio)<br>
+- [56](https://56.digital/) (Creative agency)<br>
+- [56](https://56.digital/) (Design studio)<br>
+- [6th Finger](https://6thfinger.studio/) (Creative collective)<br>
+- [97cm](https://www.97cm.de) (Atelier)<br>
+- `★` [Another Studio](http://anotherstudio.it/) (Design studio)<br>
+- [ANTI](https://anti.as/) (Design studio)<br>
+- [Air Studio](https://www.airstudios.com/) (Recording studio)<br>
+- [Apelido & Apelido](https://apelido-apelido.com/) (Design studio)<br>
+- [Atelier Dreibholz](http://dreibholz.com/) (Design studio)<br>
+- [Atelier Florian Markl](https://florianmarkl.com/) (Design studio)<br>
+- [Auwää](https://auwaa.ch/) (Design studio)<br>
+- [Azab](https://www.azab.es/) (Architecture studio)<br>
+- [Barkas](https://thebarkas.com/) (Design studio)<br>
+- [Belen Tenorio](http://www.belentenorio.com/) (Design studio)<br>
+- [Better Half](https://bttrhlf.com/) (Creative studio)<br>
 - `★` [Blank Architects](http://blankarchitects.ru/) (Architecture studio)<br>
+- [Blaze Type](https://blazetype.eu/) (Type foundry)<br>
+- [Bleed](https://bleed.com/) (Design studio)<br>
+- [Bretagne](http://www.bretagnebretagne.fr/) (Type foundry)<br>
+- [Brill Brill Studio](https://brillbrillstudio.com/) (Photography studio)<br>
+- [Bureau 205](https://www.bureau205.fr/) (Graphic design agency)<br>
+- [Bureau Blamage](http://www.bblamage.net/) (Design studio)<br>
+- [Bureau Bordeaux](https://www.bureaubordeaux.com/) (Design studio)<br>
+- [Bureau Mirko Borsche](https://bureauborsche.com) (Design studio)<br>
+- [CCKW](https://www.cckw.us/shop) (Design studio)<br>
+- [CUSP](https://heycusp.com/) (Creative collective)<br>
+- [Cactus Club](https://www.cactusclub.biz/) (Production company)<br>
+- [Carr](https://www.carr.net.au/) (Architecture studio)<br>
+- [Climate](http://thisisclimate.com/) (Design studio)<br>
+- [Collins](https://www.wearecollins.com/) (Design studio)<br>
+- [Compagnie 7273](https://cie7273.com/) (Choreographers)<br>
+- [Contemple](https://ccccontemple.com/) (Design studio)<br>
+- [Cortese/Mazza](https://cortesemazza.com/) (Architecture studio)<br>
+- [Counterpoint](http://counterpoint-association.com/) (Artist association)<br>
+- [Crevv](https://crevv.com/) (Design studio)<br>
+- [Crown & Owls](https://www.crownsandowls.com/) (Creative direction studio)<br>
+- [DIA](https://dia.tv/) (Design studio)<br>
+- [Demande Spéciale](http://demandespeciale.ca/) (Design studio)<br>
+- [Diplomats](https://diplomats.tv/) (Creative studio)<br>
+- [Dreams Office](http://www.dreamsoffice.fr/) (Design studio)<br>
+- [Dunne & Raby](http://dunneandraby.co.uk/) (Design studio)<br>
 - `★` [ELF Pictures](https://elfpictures.hu/) (Filmmaking studio)<br>
 - `★` [Extraset](https://extraset.ch/) (Type foundry)<br>
-- [Carr](https://www.carr.net.au/) (Architecture studio)<br>
-- [Tennent Brown](http://tennentbrown.co.nz/) (Architecture studio)<br>
-- [Bureau Blamage](http://www.bblamage.net/) (Design studio)<br>
-- [205TF](https://www.205.tf/) (Type foundry)<br>
-- [Futur Neue](http://www.futurneue.cc/) (Design studio)<br>
-- [Compagnie 7273](https://cie7273.com/) (Choreographers)<br>
-- [DIA](https://dia.tv/) (Design studio)<br>
-- [Republish](https://republi.sh/) (Type foundry)<br>
-- [Studio Monozygote](http://studiomonozygote.com/) (Design studio)<br>
-- [Geckeler Michels](https://www.geckelermichels.com/) (Product design studio)<br>
-- [MMAATTCCHH](https://mmaattcchh.de/) (Filmmaking studio)<br>
-- [Michael McManus Architects](https://michaelmcmanus.com.au/) (Architecture studio)<br>
-- [Better Half](https://bttrhlf.com/) (Creative studio)<br>
-- [OTK Studio](https://otk.studio/) (Design studio)<br>
-- [Bleed](https://bleed.com/) (Design studio)<br>
-- [Oak Park Studio](https://oakpark.co/) (Design studio)<br>
-- [Studio Otto](https://studio-otto.com/) (Design studio)<br>
-- [Porter Packaging](https://porterpackaging.com/) (Production studio)<br>
-- `★` [The Royal Studio](https://theroyalstudio.com/) (Design studio)<br>
-- [Non-verbal Club](https://nonverbalclub.pt/) (Design studio)<br>
-- `★` [WAKA-WAKA](https://wakawaka.world/) (Furniture design studio)<br>
-- [Ruttens-Wille](https://ruttens-wille.com/) (Design studio)<br>
-- [3 & 7](https://www.3and7.com/) (Filmmaking studio)<br>
-- [Folder Studio](https://folder.studio/) (Design studio)<br>
 - [FP01](https://fp01.eu/) (Architecture studio)<br>
-- [Spassky Fischer](http://spassky-fischer.fr/) (Design studio)<br>
-- [Metis Foundry](https://metis-foundry.com/) (Type foundry)<br>
-- [Say](https://www.say.studio/) (Design studio)<br>
-- [Made in Buro](https://madeinburo.com/) (Creative agency)<br>
-- [Bureau Bordeaux](https://www.bureaubordeaux.com/) (Design studio)<br>
-- [ANTI](https://anti.as/) (Design studio)<br>
-- [TMPM](https://tmpl.studio/) (Industrial design studio)<br>
+- [Farbe Designbüro](https://buero-farbe.de/) (Design studio)<br>
+- [Folder Studio](https://folder.studio/) (Design studio)<br>
+- [From A to B](http://studio-fromatob.com/) (Design studio)<br>
+- [Funeral Studio](https://funeral.studio/) (Design studio)<br>
+- [Futur Neue](http://www.futurneue.cc/) (Design studio)<br>
+- [Future Simple Studio](http://futuresimple.studio/) (Architecture studio)<br>
+- [GDW](https://gdw.kr/) (Design studio)<br>
+- [Gallery by Toko](https://designbytoko.com/) (Design studio)<br>
+- [Geckeler Michels](https://www.geckelermichels.com/) (Product design studio)<br>
+- [HAWRAF](https://www.hawraf.com/) (Design studio)<br>
+- [HalloBasis](https://hallobasis.com/) (Design studio)<br>
+- [Heller](https://heller.tv) (Space architecture studio)<br>
+- [HelloMe](https://hellome.studio/) (Design studio)<br>
+- [High5](http://www.highfivebro.com/) (Design studio)<br>
+- [House of Folk](https://houseoffolk.com/) (Design studio)<br>
+- [International Magic](https://intmagic.com/) (Design studio)<br>
+- [Inventory Studio](http://inventorystudio.co.uk/) (Design studio)<br>
+- [Jaapsmit](https://jaapsmit.nl/) (Design studio)<br>
+- [July](http://studiojuly.co/) (Design studio)<br>
 - [Kruger Buro](https://www.krugerburo.com/) (Design studio)<br>
-- [Crown & Owls](https://www.crownsandowls.com/) (Creative direction studio)<br>
+- [LM Chabot](https://lmchabot.com/) (Photography studio)<br>
+- [MMAATTCCHH](https://mmaattcchh.de/) (Filmmaking studio)<br>
+- [Made in Buro](https://madeinburo.com/) (Creative agency)<br>
+- [Math Practise](http://math-practice.org/) (Design studio)<br>
+- [Maud](https://www.maud.com.au/) (Design studio)<br>
+- [Metis Foundry](https://metis-foundry.com/) (Type foundry)<br>
+- [Michael McManus Architects](https://michaelmcmanus.com.au/) (Architecture studio)<br>
+- [Mint Art Haus](https://mintarthaus.com/) (Design studio)<br>
+- [Namespace](https://namespace.studio/) (Design studio)<br>
+- [NewTab studio](https://www.newtab-studio.com/) (Design studio)<br>
+- [Nike Circular Design](https://www.nikecirculardesign.com/) (Design studio)<br>
+- [No plans](https://noplans.show/) (Design studio)<br>
+- [Non-verbal Club](https://nonverbalclub.pt/) (Design studio)<br>
+- [Nonymous](https://nonymous.com/) (Communication agency)<br>
+- [Nord+](https://www.nord.plus/) (Design studio)<br>
+- [OMA](https://oma.eu/) (Architecture studio)<br>
+- [OTK Studio](https://otk.studio/) (Design studio)<br>
+- [Oak Park Studio](https://oakpark.co/) (Design studio)<br>
+- [Orior](https://www.oriorfurniture.com/) (Furniture design studio)<br>
+- [Osk](http://osk.co/) (Design studio)<br>
+- [Other Office](http://otheroffice.net/) (Design studio)<br>
+- [PATAWA](https://ptw.wtf/) (Artistic direction)<br>
+- [PLAYLAB, INC.](https://www.playlab.org/) (Design studio)<br>
+- [Patchwork Architecture](https://patchworkarchitecture.co.nz/) (Architecture studio)<br>
 - [Pizza Pizza](https://pizzapizza.io/) (Digital product studio)<br>
+- [Pol Solsona Studio](http://polsolsona.com/) (Design studio)<br>
+- [Porter Packaging](https://porterpackaging.com/) (Production studio)<br>
+- [Porto Rocha](https://portorocha.com/) (Design studio)<br>
+- [Purho](http://www.purho.it/en/) (Design studio)<br>
+- [RTA Studio](http://rtastudio.co.nz/) (Architecture studio)<br>
+- [Random Ltd](https://ransomltd.com/) (Photography studio)<br>
+- [Republish](https://republi.sh/) (Type foundry)<br>
+- [Ruttens-Wille](https://ruttens-wille.com/) (Design studio)<br>
+- [Sabato studio](https://sabato.studio/) (Design studio)<br>
+- [Say](https://www.say.studio/) (Design studio)<br>
+- [Scholz and Associates](https://scholzand.com/) (Agency)<br>
+- [Services Généraux](https://generaux.services/) (Creative agency)<br>
+- `★` [Sometimes Always](https://sometimes-always.com/) (Design studio)<br>
+- [Spassky Fischer](http://spassky-fischer.fr/) (Design studio)<br>
+- [Special-Offer](https://special-offer.studio/) (Design studio)<br>
+- [Spin](https://spin.co.uk/) (Design studio)<br>
+- `★` [Studio Almond](https://www.almond.studio/) (Design studio)<br>
+- [Studio Andrea Guccini](http://andreaguccini.com/) (Graphic design agency)<br>
+- [Studio Lin](https://studiolin.org/) (Design studio)<br>
+- [Studio MUT](http://studiomut.com/) (Design studio)<br>
+- [Studio Monozygote](http://studiomonozygote.com/) (Design studio)<br>
+- [Studio Mærtens](https://studiomaertens.com/) (Industrial design studio)<br>
+- [Studio Nanneke Boomgaard](https://nannekeboomgaard.nl/) (Furniture design studio)<br>
+- [Studio Otto](https://studio-otto.com/) (Design studio)<br>
+- [Studio Push](https://studio-push.com/) (Design studio)<br>
+- [Studio Rejane Dal Bello](http://rejanedalbello.com/) (Design studio)<br>
+- [Studio Vedet](https://studiovedet.com/) (Design studio)<br>
+- [Stuuudio](https://stuuudio.co/) (Design studio)<br>
+- [Superimpose](https://superimpose.global/) (Creative agency)<br>
+- [Switch](https://switch.co.nz/) (Design studio)<br>
+- [Syndicat](https://s-y-n-d-i-c-a-t.eu/) (Design studio)<br>
+- [TMPM](https://tmpl.studio/) (Industrial design studio)<br>
+- [Tableau](https://tableau-cph.com/) (Design studio)<br>
+- [Temporary State](http://typefaces.temporarystate.net/) (Type foundry)<br>
+- [Tennent Brown](http://tennentbrown.co.nz/) (Architecture studio)<br>
+- [The Grammar of Frames](https://www.thegrammarof.com/) (Brand experience studio)<br>
+- [The new company](http://www.new.company/) (Design studio)<br>
+- `★` [The Royal Studio](https://theroyalstudio.com/) (Design studio)<br>
+- [Translation](https://translationllc.com/) (Design studio)<br>
+- [Twenty Nine](https://www.xxix.co/) (Design studio)<br>
+- [Two much](http://twomuch.studio/) (Design studio)<br>
+- [Typical Organization](https://typical-organization.com/) (Design studio)<br>
+- [Unu o unu](http://www.unuounu.org/) (Artist association)<br>
+- [UsVersus](https://usvs.co/) (Design studio)<br>
+- [VVorkroom](http://vvorkroom.com/) (Graphic design agency)<br>
+- [Visual Adaptater](https://visualadapter.com/) (Design studio)<br>
+- [Wade and Leta](https://wadeandleta.com/) (Design studio)<br>
+- `★` [WAKA-WAKA](https://wakawaka.world/) (Furniture design studio)<br>
+- [Wedge](https://www.wedge.work/) (Design studio)<br>
+- [Writing Man](https://www.writingman.co.uk/) (Copywriting)<br>
+- [Zero Turns Two](https://two.zero.nyc/) (Design studio)<br>
+- [Zero](https://zero.nyc/) (Design studio)<br>
+
 
 ### Miscellaneous
-- [Untitled Sans](http://untitledsans.com/) (Typeface)<br>
-- [Common Sans](http://www.commonsans.com/) (Typeface)<br>
-- [Good Glyphs](https://goodglyphs.com/) (Typeface)<br>
-- [ECAL Typefaces](https://ecal-typefaces.ch/) (Student foundry)<br>
-- [Art en grève](https://artengreve.com/) (Movement)<br>
-- [CPT](https://www.centerforphilosophicaltechnologies.org/) (Research center)<br>
-- `★` [Théâtre St-Gervais Genève](https://saintgervais.ch/) (Theater)<br>
-- [Bi Scriptual](http://bi-scriptual.com/) (Book)<br>
-- [Middleplane](https://middleplane.com/) (Book)<br>
-- [Alien magazine](http://www.alien-magazine.com/) (Magazine)<br>
-- [Found color](https://foundcolor.co/) (Color scheme)<br>
-- [Timetable](https://timetablerecords.com/) (Music label)<br>
-- [Demo Festival](https://demofestival.com/) (Design festival)<br>
-- [Weltformat Festival](https://weltformat-festival.ch/) (Design festival)<br>
-- [Ricky Michiels](https://www.rickymichiels.com/) (Artist management)<br>
-- [WM Artist Studio](http://www.wmartistmanagement.com/) (Artist management)<br>
-- [Andmarq](http://andmarq.com/) (Artist management)<br>
-- [Route](https://route.onl/) (Artist management)<br>
-- [A-okay](http://a-okay.one/) (Translators)<br>
-- [SSHH](https://sshh.nyc/) (Open space)<br>
-- [A big mood](http://hexagon-ux.superhi.com/) (Blog)<br>
-- [Mould Map 7](http://mouldmap.com/) (Experimentals comics)<br>
-- [Google Fonts + Korean](https://googlefonts.github.io/korean/) (Fonts directory)<br>
-- [PC Graphic Design Dpt.](http://www.purchase.design/) `DOWN 👷‍` (Educational program)<br>
-- [Future London Academy](https://bauhaus.futurelondonacademy.com/) (Educational program)<br>
-- [Man-made disaster](https://manmadedisaster.art/) (Art exhibition)<br>
- `★` [TeTuhi](https://tetuhi.art/) (Art exhibition)<br>
-- [Spinny Nights](https://www.spinnynights.com/) (Showcase platform)<br>
-- [Entireworld](https://theentireworld.com/) (Clothes shop)<br>
-- [Studio Kaze](https://studiokaze.online/) (Clothes shop)<br>
-- `★` [Han Kjøbenhavn](https://hankjobenhavn.com/) (Clothes shop)<br>
-- [Won Hundred](https://wonhundred.com/) (Clothes shop)<br>
-- [Balenciaga](https://www.balenciaga.com/nl/) (Clothes shop)<br>
-- [Stubio](https://stu-b-io.com/) (Clothes shop)<br>
-- [Temporary Mark](http://temporarymark.com/) (Clothes shop)<br>
-- [Visual Society](https://visualsociety.ch) (Fashion label)<br>
-- [Beakermag](https://breakermag.com/) (Magazine)<br>
-- [I will Seoul you](http://iwillseoulyou.kr/) `DOWN 👷‍` (Blog)<br>
-- [Dateagle Art](https://dateagle.art/) (Art journal)<br>
-- [All your days](https://www.allyourdays.com/) (Band tour)<br>
-- [The Physics Room](http://physicsroom.org.nz/) (Art gallery)<br>
-- [Edouard Malingue](https://edouardmalingue.com/) (Art gallery)<br>
-- [A plus A](http://aplusa.it/) (Art gallery)<br>
-- [Matter of Art](https://matterof.art/)(Art biennale)<br>
-- [Secret Friend](http://secret-friend.xyz/) (Experimental showcase)<br>
-- [Antenne Books](https://www.antennebooks.com/) (Books shop)<br>
-- [Dapp Boi](https://dappboi.com/) (Blockchain)<br>
-- [Temper](https://temper.jonaspelzer.com/) (Onepage builder)<br>
-- [Guggenheim](http://exhibitions.guggenheim.org/storylines/) (Art museum)<br>
-- [Sifang Art Museum](http://www.sifangartmuseum.org/) `DOWN 👷‍` (Art museum)<br>
-- [SeMA](http://sema.seoul.go.kr/) (Art museum)<br>
-- [V-A-C Sreda](https://sreda.v-a-c.org/) (Podcast)<br>
-- [La modernité viennoise](https://modernism.vienna.info/fr/) (Culture)<br>
-- [Marianne Brandt Award](https://marianne-brandt-wettbewerb.de/) (Awards)<br>
-- [Swiss Art Awards](https://swissartawards.ch/) (Awards)<br>
-- [RISD GD Triennial](http://risdgdtriennial2018.risd.gd/) (Exhibition)<br>
-- [Coral Agency](https://coral.ag/) (Musician Agency)<br>
-- [Modeselecktor](https://www.modeselektor.com/) (Band)<br>
 - [!!! (Chk Chk Chk)](http://chkchkchk.net/) (Band)<br>
-- [Bergen Assembly](http://bergenassembly.no/) (Contemporary art event)<br>
-- `★` [Antwerp Art Weekend](https://antwerpartweekend.be/) (Contemporary art event)<br>
-- [Antwerp Art](https://antwerpart.be/) (Contemporary art plateform)<br>
-- [Paid Interns](http://payinterns.nyc/) (Company list)<br>
-- [Illuminating Radioactivity](https://illuminating-radioactivity.com/) (Educational)<br>
-- [HyperText](https://hypertext.futurefonts.xyz/) (Experimental typefaces)<br>
-- [Film Truck](https://www.filmtruck.co/) (Movie)<br>
-- [Monkeybuzz](https://monkeybuzz.com.br/) (Music news)<br>
-- [Oikon Hospitality](https://www.oikonhospitality.com/) (Management)<br>
-- [revue faire](https://revue-faire.eu/) (Issues)<br>
-- [empire](https://www.e-m-p-i-r-e.eu/) (Publisher)<br>
-- [Harvard Design Magazine](http://www.harvarddesignmagazine.org/) (Magazine)<br>
-- [Revue Lagon](http://revuelagon.com/) (Magazine)<br>
 - [10011 Magazine](https://www.10011mag.co/) (Art magazine)<br>
-- `★` [Inonica](https://inonica.com/) (Art magazine)<br>
-- [Bonde](http://www.bonde.nyc/) (Design event)<br>
-- [B'Est Movie 2019](http://rassegnabestmovie.it/) (Movie)<br>
-- [Waka Waka, Collection N.02](https://2.collection-wakawaka.world/) (Furniture design collection)<br>
-- [Landscapes of Fulfillment](https://landscapes-of-fulfillment.org/) (Architecture seminar)<br>
-- [Officesss](https://www.officesss.online/) (Zoom backgrounds)<br>
-- [Richard Rogers Fellowship](http://www.richardrogersfellowship.org/) (Design program)<br>
-- [Stephanie Nelson Dancegroup](https://www.sndancegroup.org/) (Dance ensemble)<br>
-- [Swiss Design Awards Blog](https://swissdesignawardsblog.ch/) (Design blog)<br>
-- [Dutch Design Awards](https://www.dutchdesignawards.nl/) (Awards)<br>
-- [Novembre](https://novembre.global/about) (Inspiration plateform)<br>
-- `★` [Rekki](https://rekki.com/) (Application)<br>
-- [Middle Child](https://middlechildphilly.com/) (Sandwich shop)<br>
-- [Also Known As](https://veravandeseyp.com/aka/) (Gallery)<br>
-- [Julia Stoschek Collection](https://www.jsc.art/) (Art collection)<br>
-- [Bee Home](https://www.beehome.design/) (Diy blueprint)<br>
-- [Luz Mística](https://www.luz-mistica.com/) (Color therapy)<br>
-- [Mate Act Now](https://mateactnow.com/) (Activism)<br>
-- [Goodbye](https://www.goodbyebooks.org/) (Publisher)<br>
-- `★` [See In Black](https://seeinblack.com/) (Photography showcase)<br>
-- [Typographic Singularity 2020](https://www.typographicsingularity.com/) (Design event)<br>
-- [Very Good Films](https://verygoodfilms.co/) (Movies catalog)<br>
-- `★` [Live Talk From](https://livetalkfrom.com) (Live talk)<br>
-- `★` [Oto Nove Swiss](https://www.otonoveswiss.com/) (Contemporary music festival)<br>
-- [Club Collecte](https://clubcollecte.fr/) (Editorial archives)<br>
-- `★` [Designing women](https://designingwomen.readymag.com/) (Art history)
-- [Atlas of Places](https://www.atlasofplaces.com/) (Educational collection)<br>
-- [IOTA Editions](https://iota-editions.com/) (Publisher)<br>
-- [Longform Edition](http://www.longformeditions.com/) (Listening collection)<br>
-- [Design Systems International](https://designsystems.international/) (Experimental)<br>
-- [Where We Stand](http://wherewestand.co.uk/) (Design challenge)<br>
-- [Black Artist Fund](https://www.blackartistfund.org/) (Funding initiative)<br>
-- `★` [Index Art Book Fair](http://www.indexartbookfair.com/) (Art program)<br>
-- `★` [PAL](https://pal-catalogue.com/) (Furniture catalogue)<br>
+- [A big mood](http://hexagon-ux.superhi.com/) (Blog)<br>
+- [A plus A](http://aplusa.it/) (Art gallery)<br>
+- [A-okay](http://a-okay.one/) (Translators)<br>
 - [Advance-Copy](https://advance-copy.com/) (Fashion)<br>
-- [LATERAL](http://escolalateral.com/) (Design school)<br>
-- [Trambisera Marmi](https://trambiseramarmi.it/) (Construction materials)<br>
-- [MSG](http://madewithmsg.com/) (Apparel)<br>
+- [Alien magazine](http://www.alien-magazine.com/) (Magazine)<br>
+- [All your days](https://www.allyourdays.com/) (Band tour)<br>
+- [Also Known As](https://veravandeseyp.com/aka/) (Gallery)<br>
+- [Andmarq](http://andmarq.com/) (Artist management)<br>
+- [Antenne Books](https://www.antennebooks.com/) (Books shop)<br>
+- [Antwerp Art](https://antwerpart.be/) (Contemporary art plateform)<br>
+- `★` [Antwerp Art Weekend](https://antwerpartweekend.be/) (Contemporary art event)<br>
+- [Art en grève](https://artengreve.com/) (Movement)<br>
+- [Atlas of Places](https://www.atlasofplaces.com/) (Educational collection)<br>
+- [B'Est Movie 2019](http://rassegnabestmovie.it/) (Movie)<br>
+- [Balenciaga](https://www.balenciaga.com/nl/) (Clothes shop)<br>
+- [Beakermag](https://breakermag.com/) (Magazine)<br>
+- [Bee Home](https://www.beehome.design/) (Diy blueprint)<br>
+- [Bergen Assembly](http://bergenassembly.no/) (Contemporary art event)<br>
+- [Bi Scriptual](http://bi-scriptual.com/) (Book)<br>
+- [Black Artist Fund](https://www.blackartistfund.org/) (Funding initiative)<br>
+- [Bonde](http://www.bonde.nyc/) (Design event)<br>
+- [CPT](https://www.centerforphilosophicaltechnologies.org/) (Research center)<br>
+- [Club Collecte](https://clubcollecte.fr/) (Editorial archives)<br>
+- [Common Sans](http://www.commonsans.com/) (Typeface)<br>
+- [Coral Agency](https://coral.ag/) (Musician Agency)<br>
+- [Dapp Boi](https://dappboi.com/) (Blockchain)<br>
+- [Dateagle Art](https://dateagle.art/) (Art journal)<br>
+- [Demo Festival](https://demofestival.com/) (Design festival)<br>
+- [Design Systems International](https://designsystems.international/) (Experimental)<br>
+- `★` [Designing women](https://designingwomen.readymag.com/) (Art history)
 - [Digital Underground](https://digitalundergroundbook.store/) (Book)<br>
+- [Dutch Design Awards](https://www.dutchdesignawards.nl/) (Awards)<br>
+- [ECAL Typefaces](https://ecal-typefaces.ch/) (Student foundry)<br>
+- [Edouard Malingue](https://edouardmalingue.com/) (Art gallery)<br>
+- [Empire](https://www.e-m-p-i-r-e.eu/) (Publisher)<br>
+- [Entireworld](https://theentireworld.com/) (Clothes shop)<br>
+- [Film Truck](https://www.filmtruck.co/) (Movie)<br>
+- [Found color](https://foundcolor.co/) (Color scheme)<br>
+- [Future London Academy](https://bauhaus.futurelondonacademy.com/) (Educational program)<br>
+- [Good Glyphs](https://goodglyphs.com/) (Typeface)<br>
+- [Goodbye](https://www.goodbyebooks.org/) (Publisher)<br>
+- [Google Fonts + Korean](https://googlefonts.github.io/korean/) (Fonts directory)<br>
+- [Guggenheim](http://exhibitions.guggenheim.org/storylines/) (Art museum)<br>
+- `★` [Han Kjøbenhavn](https://hankjobenhavn.com/) (Clothes shop)<br>
+- [Harvard Design Magazine](http://www.harvarddesignmagazine.org/) (Magazine)<br>
+- [HyperText](https://hypertext.futurefonts.xyz/) (Experimental typefaces)<br>
+- [I will Seoul you](http://iwillseoulyou.kr/) `DOWN 👷‍` (Blog)<br>
+- `★` [Index Art Book Fair](http://www.indexartbookfair.com/) (Art program)<br>
+- `★` [Inonica](https://inonica.com/) (Art magazine)<br>
+- [IOTA Editions](https://iota-editions.com/) (Publisher)<br>
+- [Illuminating Radioactivity](https://illuminating-radioactivity.com/) (Educational)<br>
+- [Julia Stoschek Collection](https://www.jsc.art/) (Art collection)<br>
+- [LATERAL](http://escolalateral.com/) (Design school)<br>
+- [La modernité viennoise](https://modernism.vienna.info/fr/) (Culture)<br>
+- [Landscapes of Fulfillment](https://landscapes-of-fulfillment.org/) (Architecture seminar)<br>
+- `★` [Live Talk From](https://livetalkfrom.com) (Live talk)<br>
+- [Longform Edition](http://www.longformeditions.com/) (Listening collection)<br>
+- [Luz Mística](https://www.luz-mistica.com/) (Color therapy)<br>
+- [MSG](http://madewithmsg.com/) (Apparel)<br>
+- [Man-made disaster](https://manmadedisaster.art/) (Art exhibition)<br>
+- [Marianne Brandt Award](https://marianne-brandt-wettbewerb.de/) (Awards)<br>
+- [Mate Act Now](https://mateactnow.com/) (Activism)<br>
+- [Matter of Art](https://matterof.art/)(Art biennale)<br>
+- [Middle Child](https://middlechildphilly.com/) (Sandwich shop)<br>
+- [Middleplane](https://middleplane.com/) (Book)<br>
 - [Modern Matter](http://amodernmatter.com/) (Magazine)<br>
-- [Taipei Art Book Fair](https://taipeiartbookfair.com/) (Book fair)<br>
+- [Modeselecktor](https://www.modeselektor.com/) (Band)<br>
+- [Monkeybuzz](https://monkeybuzz.com.br/) (Music news)<br>
+- [Mould Map 7](http://mouldmap.com/) (Experimentals comics)<br>
 - [Mucem](https://www.mucem.org/) (Museum)<br>
+- [Novembre](https://novembre.global/about) (Inspiration plateform)<br>
+- [Ochre NYC](https://ochrenyc.com/) (Skincare)<br>
+- [Officesss](https://www.officesss.online/) (Zoom backgrounds)<br>
+- [Oikon Hospitality](https://www.oikonhospitality.com/) (Management)<br>
+- `★` [Oto Nove Swiss](https://www.otonoveswiss.com/) (Contemporary music festival)<br>
+- [PC Graphic Design Dpt.](http://www.purchase.design/) `DOWN 👷‍` (Educational program)<br>
+- [Paid Interns](http://payinterns.nyc/) (Company list)<br>
+- `★` [PAL](https://pal-catalogue.com/) (Furniture catalogue)<br>
+- [RISD GD Triennial](http://risdgdtriennial2018.risd.gd/) (Exhibition)<br>
+- `★` [Rekki](https://rekki.com/) (Application)<br>
+- [Revue Lagon](http://revuelagon.com/) (Magazine)<br>
+- [Revue faire](https://revue-faire.eu/) (Issues)<br>
+- [Richard Rogers Fellowship](http://www.richardrogersfellowship.org/) (Design program)<br>
+- [Ricky Michiels](https://www.rickymichiels.com/) (Artist management)<br>
+- [Route](https://route.onl/) (Artist management)<br>
+- [SSHH](https://sshh.nyc/) (Open space)<br>
+- [SeMA](http://sema.seoul.go.kr/) (Art museum)<br>
+- [Secret Friend](http://secret-friend.xyz/) (Experimental showcase)<br>
+- `★` [See In Black](https://seeinblack.com/) (Photography showcase)<br>
+- [Sifang Art Museum](http://www.sifangartmuseum.org/) `DOWN 👷‍` (Art museum)<br>
+- [Spinny Nights](https://www.spinnynights.com/) (Showcase platform)<br>
 - [Stay Sane/Stay Safe](https://www.stay-sane-stay-safe.com/) (Poster collection)<br>
-- [The Global Studio](https://www.globalstudio2020.utsphotography.com/) (Study program)<br>
+- [Stephanie Nelson Dancegroup](https://www.sndancegroup.org/) (Dance ensemble)<br>
+- [Stubio](https://stu-b-io.com/) (Clothes shop)<br>
+- [Studio Kaze](https://studiokaze.online/) (Clothes shop)<br>
+- [Swiss Art Awards](https://swissartawards.ch/) (Awards)<br>
+- [Swiss Design Awards Blog](https://swissdesignawardsblog.ch/) (Design blog)<br>
+- [Taipei Art Book Fair](https://taipeiartbookfair.com/) (Book fair)<br>
+- [Temper](https://temper.jonaspelzer.com/) (Onepage builder)<br>
+- [Temporary Mark](http://temporarymark.com/) (Clothes shop)<br>
 - [Terén](https://jasuteren.cz/) (Performance art) <br>
-- [Ochre NYC](https://ochrenyc.com/) (Skincare)<br><br>
+- `★` [TeTuhi](https://tetuhi.art/) (Art exhibition)<br>
+- [The Global Studio](https://www.globalstudio2020.utsphotography.com/) (Study program)<br>
+- [The Physics Room](http://physicsroom.org.nz/) (Art gallery)<br>
+- `★` [Théâtre St-Gervais Genève](https://saintgervais.ch/) (Theater)<br>
+- [Timetable](https://timetablerecords.com/) (Music label)<br>
+- [Trambisera Marmi](https://trambiseramarmi.it/) (Construction materials)<br>
+- [Typographic Singularity 2020](https://www.typographicsingularity.com/) (Design event)<br>
+- [Untitled Sans](http://untitledsans.com/) (Typeface)<br>
+- [V-A-C Sreda](https://sreda.v-a-c.org/) (Podcast)<br>
+- [Very Good Films](https://verygoodfilms.co/) (Movies catalog)<br>
+- [Visual Society](https://visualsociety.ch) (Fashion label)<br>
+- [WM Artist Studio](http://www.wmartistmanagement.com/) (Artist management)<br>
+- [Waka Waka, Collection N.02](https://2.collection-wakawaka.world/) (Furniture design collection)<br>
+- [Weltformat Festival](https://weltformat-festival.ch/) (Design festival)<br>
+- [Where We Stand](http://wherewestand.co.uk/) (Design challenge)<br>
+- [Won Hundred](https://wonhundred.com/) (Clothes shop)<br><br>
+- [032c](https://032c.com/) `(?)`<br>
+- [Aires Libres](https://aireslibres.com/) `(?)`<br>
+- [Dreamlaser](http://dreamlaser.ru/) `(?)`<br>
+- [Ecosistema del Diseño Español](https://ecosistemadeldiseño.es/) `(?)`<br>
+- [Embassy of Internet](http://www.embassyofinternet.org/) `(?)` <br>
+- [Latitude](https://explorelatitude.com/) `(?)` <br>
+- [Lubalin 100](http://www.lubalin100.com/) `(?)`<br>
+- [Marini marmi](http://www.marinimarmi.com/) `(?)`<br>
+- [Masters 2018](http://www.antwerpmasters.be/) `(?)`<br>
 - [Museum At Large](https://museumatlarge.com/) `(?)`<br>
 - [Participant Inc](http://participantinc.org/) `(?)`<br>
 - [Postcards from Isolation](https://isolation.is/) `(?)`<br>
-- [Stormwender](https://stromwender.nl/) `(?)`<br>
 - [SILO](https://s-i-l-o.fr/) `(?)`<br>
-- [Ecosistema del Diseño Español](https://ecosistemadeldiseño.es/) `(?)`<br>
-- [Dreamlaser](http://dreamlaser.ru/) `(?)`<br>
-- [Tanzkongress 2019](http://tanzkongress2019.de/) `(?)`<br>
-- [Lubalin 100](http://www.lubalin100.com/) `(?)`<br>
-- [Marini marmi](http://www.marinimarmi.com/) `(?)`<br>
-- [032c](https://032c.com/) `(?)`<br>
-- [Aires Libres](https://aireslibres.com/) `(?)`<br>
-- [Masters 2018](http://www.antwerpmasters.be/) `(?)`<br>
-- [Take a walk on the wild side](http://takeawalkonthewildside.rietveldacademie.nl/) `(?)`<br>
+- [Stormwender](https://stromwender.nl/) `(?)`<br>
 - [TIGHT Top 2018](https://en-2018.tight.media/) `(?)`<br>
-- [Latitude](https://explorelatitude.com/) `(?)` <br>
-- [Embassy of Internet](http://www.embassyofinternet.org/) `(?)` <br>
+- [Take a walk on the wild side](http://takeawalkonthewildside.rietveldacademie.nl/) `(?)`<br>
+- [Tanzkongress 2019](http://tanzkongress2019.de/) `(?)`<br>
 
 ## Contributing
 
