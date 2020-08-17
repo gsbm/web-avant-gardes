@@ -418,7 +418,8 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Taipei Art Book Fair](https://taipeiartbookfair.com/) (Book fair)<br>
 - [Mucem](https://www.mucem.org/) (Museum)<br>
 - [Stay Sane/Stay Safe](https://www.stay-sane-stay-safe.com/) (Poster collection)<br>
-- [The Global Studio](https://www.globalstudio2020.utsphotography.com/) (Study program)<br><br>
+- [The Global Studio](https://www.globalstudio2020.utsphotography.com/) (Study program)<br>
+- [Terén](https://jasuteren.cz/) (Performance art) <br><br>
 - [Museum At Large](https://museumatlarge.com/) `(?)`<br>
 - [Participant Inc](http://participantinc.org/) `(?)`<br>
 - [Postcards from Isolation](https://isolation.is/) `(?)`<br>
@@ -436,7 +437,6 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [TIGHT Top 2018](https://en-2018.tight.media/) `(?)`<br>
 - [Latitude](https://explorelatitude.com/) `(?)` <br>
 - [Embassy of Internet](http://www.embassyofinternet.org/) `(?)` <br>
-- [Jasuteren](https://jasuteren.cz/) `(?)` <br>
 
 ## Contributing
 
