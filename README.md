@@ -82,6 +82,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - `★` [Julian Galay](http://juliangalay.com/) (Compositor)<br>
 - `★` [Julie Cristobal](http://juliecristobal.com/) (Stylist)<br>
 - [Juliette Lepineau](https://juliettelepineau.net/) (Artist)<br>
+- [Junki Hong](https://jun.works/) (Designer)<br>
 - [Juraj Molnár](https://jurajmolnar.com/) (Designer)<br>
 - [Kai Udema](http://kaiudema.com/) (Designer)<br>
 - [Karin Sander](https://sander.arch.ethz.ch/) (Designer)<br>
