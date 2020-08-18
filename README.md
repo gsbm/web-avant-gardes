@@ -331,6 +331,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Bi Scriptual](http://bi-scriptual.com/) (Book)<br>
 - [Black Artist Fund](https://www.blackartistfund.org/) (Funding initiative)<br>
 - [Bonde](http://www.bonde.nyc/) (Design event)<br>
+- [CC/magazine](https://ccmagazine.es/) (Lifestyle magazine)<br>
 - [CPT](https://www.centerforphilosophicaltechnologies.org/) (Research center)<br>
 - [Club Collecte](https://clubcollecte.fr/) (Editorial archives)<br>
 - [Common Sans](http://www.commonsans.com/) (Typeface)<br>
