@@ -402,6 +402,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Ricky Michiels](https://www.rickymichiels.com/) (Artist management)<br>
 - [Route](https://route.onl/) (Artist management)<br>
 - [Sabina advertising](https://sabina.ch/) (Advertising agency)<br>
+- [Sobieski](https://sobieskivodka.com/) (Alcool)<br>
 - [SSHH](https://sshh.nyc/) (Open space)<br>
 - [SeMA](http://sema.seoul.go.kr/) (Art museum)<br>
 - [Secret Friend](http://secret-friend.xyz/) (Experimental showcase)<br>
