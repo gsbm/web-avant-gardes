@@ -378,6 +378,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Luz Mística](https://www.luz-mistica.com/) (Color therapy)<br>
 - [MSG](http://madewithmsg.com/) (Apparel)<br>
 - [Man-made disaster](https://manmadedisaster.art/) (Art exhibition)<br>
+- [Marco](https://www.marcoicecream.com/) (Ice cream)<br>
 - [Marianne Brandt Award](https://marianne-brandt-wettbewerb.de/) (Awards)<br>
 - [Mate Act Now](https://mateactnow.com/) (Activism)<br>
 - [Matter of Art](https://matterof.art/)(Art biennale)<br>
