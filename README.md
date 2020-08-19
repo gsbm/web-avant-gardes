@@ -212,6 +212,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [FP01](https://fp01.eu/) (Architecture studio)<br>
 - [Farbe Designbüro](https://buero-farbe.de/) (Design studio)<br>
 - [Folder Studio](https://folder.studio/) (Design studio)<br>
+- [Foolscape Studio](http://foolscapstudio.com.au/) (Architecture studio)<br>
 - [From A to B](http://studio-fromatob.com/) (Design studio)<br>
 - [Funeral Studio](https://funeral.studio/) (Design studio)<br>
 - [Futur Neue](http://www.futurneue.cc/) (Design studio)<br>
