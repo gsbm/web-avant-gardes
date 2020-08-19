@@ -146,6 +146,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Stephanie Jeong](https://jeongsteph.design/) (Designer)<br>
 - [Sven Stuckenschmidt](https://www.svenstuckenschmidt.de/) (Artist)<br>
 - [Svyat Vishnyakov](https://vishvish.design/) (Designer)<br>
+- [Sylvain Julé](https://sylvain-jule.fr/) (Designer)<br>
 - [Talia Cotton](https://taliacotton.com/) (Designer)<br>
 - [Tanya Ermolaeva](https://ermolaeva.co/) (Designer)<br>
 - [Tatitana Egoshina](https://tatianae.com/) (Designer)<br>
