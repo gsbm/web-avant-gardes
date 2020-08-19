@@ -270,6 +270,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Say](https://www.say.studio/) (Design studio)<br>
 - [Scholz and Associates](https://scholzand.com/) (Agency)<br>
 - [Services Généraux](https://generaux.services/) (Creative agency)<br>
+- [Simon Type](https://simontype.com/) (Type foundry)<br>
 - `★` [Sometimes Always](https://sometimes-always.com/) (Design studio)<br>
 - [Spassky Fischer](http://spassky-fischer.fr/) (Design studio)<br>
 - [Special-Offer](https://special-offer.studio/) (Design studio)<br>
