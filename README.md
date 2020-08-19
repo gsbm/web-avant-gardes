@@ -24,6 +24,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Amos Abel Yong](https://www.ahmoo.se/) (Photographer)<br>
 - [Andrew Tyson](http://andrewtyson.com/) (Filmmaker)<br>
 - [Andrew Walsh-Lister](https://andrew-lister.info/) (Designer)<br>
+- [Anthony Kolber](http://www.kolber.info/) (Designer)<br>
 - [Anthony Scime](https://art-ams.com/) (Designer)<br>
 - [Aristide Benoist](https://www.aristidebenoist.com/) (Designer)<br>
 - [Armin Unruh](https://arminunruh.com/) (Developer)<br>
