@@ -360,6 +360,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Forward Festival](https://forward-festival.com/) (Design festival)<br>
 - [Found color](https://foundcolor.co/) (Color scheme)<br>
 - [Future London Academy](https://bauhaus.futurelondonacademy.com/) (Educational program)<br>
+- [Golden Suisse](https://www.goldensuisse.com/) (Bank)<br>
 - [Good Glyphs](https://goodglyphs.com/) (Typeface)<br>
 - [Goodbye](https://www.goodbyebooks.org/) (Publisher)<br>
 - [Google Fonts + Korean](https://googlefonts.github.io/korean/) (Fonts directory)<br>
