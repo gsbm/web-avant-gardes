@@ -399,6 +399,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Officesss](https://www.officesss.online/) (Zoom backgrounds)<br>
 - [Oikon Hospitality](https://www.oikonhospitality.com/) (Management)<br>
 - `★` [Oto Nove Swiss](https://www.otonoveswiss.com/) (Contemporary music festival)<br>
+- [Over Covid](https://overcovid.pointapp.org/) (Guides)<br>
 - [PC Graphic Design Dpt.](http://www.purchase.design/) `DOWN 👷‍` (Educational program)<br>
 - [Paid Interns](http://payinterns.nyc/) (Company list)<br>
 - `★` [PAL](https://pal-catalogue.com/) (Furniture catalogue)<br>
