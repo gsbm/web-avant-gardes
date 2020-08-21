@@ -87,6 +87,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Juraj Molnár](https://jurajmolnar.com/) (Designer)<br>
 - [Kai Udema](http://kaiudema.com/) (Designer)<br>
 - [Karin Sander](https://sander.arch.ethz.ch/) (Designer)<br>
+- [Kay Schuttel](http://kayschuttel.com/) (Artist)<br>
 - [Kellen Renstrom](https://kellenrenstrom.com/) (Designer)<br>
 - [Khoa Lê](https://lekhoa.com/) (Filmmaker)<br>
 - `★` [Kostas Murkudis](https://kostasmurkudis.org/) (Designer)<br>
