@@ -309,6 +309,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Typical Organization](https://typical-organization.com/) (Design studio)<br>
 - [Unu o unu](http://www.unuounu.org/) (Artist association)<br>
 - [UsVersus](https://usvs.co/) (Design studio)<br>
+- [Visibility](https://vsby.co/) (Industrial design studio)<br>
 - [VVorkroom](http://vvorkroom.com/) (Graphic design agency)<br>
 - [Visual Adaptater](https://visualadapter.com/) (Design studio)<br>
 - [Wade and Leta](https://wadeandleta.com/) (Design studio)<br>
