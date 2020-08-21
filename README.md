@@ -450,7 +450,8 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Waka Waka, Collection N.02](https://2.collection-wakawaka.world/) (Furniture design collection)<br>
 - [Weltformat Festival](https://weltformat-festival.ch/) (Design festival)<br>
 - [Where We Stand](http://wherewestand.co.uk/) (Design challenge)<br>
-- [Won Hundred](https://wonhundred.com/) (Clothes shop)<br><br>
+- [Won Hundred](https://wonhundred.com/) (Clothes shop)<br>
+- `★` [World](http://www.world2.uk/) (Experimental)<br><br>
 - [032c](https://032c.com/) `(?)`<br>
 - [Aires Libres](https://aireslibres.com/) `(?)`<br>
 - [Dreamlaser](http://dreamlaser.ru/) `(?)`<br>
