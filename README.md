@@ -75,6 +75,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Jason Miller](http://jasonmiller.tv/) (Art director)<br>
 - [Javi Medialdea](https://www.javimedialdea.es/) (Designer)<br>
 - [Jeff Staple](https://jeffstaple.tv/) (Designer)<br>
+- [Jennifer Heintz](https://jenniferheintz.com/)
 - [Jenny Nordberg](http://jenny-nordberg.com/) (Artist)<br>
 - [Jeremie Dussault-Lefebvre](https://jeremie.xyz/) (Designer)<br>
 - [Jihee Lee](https://jihee-lee.com/) (Designer)<br>
