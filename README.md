@@ -179,6 +179,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Auwää](https://auwaa.ch/) (Design studio)<br>
 - [Azab](https://www.azab.es/) (Architecture studio)<br>
 - [Barkas](https://thebarkas.com/) (Design studio)<br>
+- [Basebranding](https://www.basebranding.com.au/) (Design studio)<br>
 - [Belen Tenorio](http://www.belentenorio.com/) (Design studio)<br>
 - [Better Half](https://bttrhlf.com/) (Creative studio)<br>
 - `★` [Blank Architects](http://blankarchitects.ru/) (Architecture studio)<br>
