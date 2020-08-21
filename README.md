@@ -393,6 +393,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Modern Matter](http://amodernmatter.com/) (Magazine)<br>
 - [Modeselecktor](https://www.modeselektor.com/) (Band)<br>
 - [Monkeybuzz](https://monkeybuzz.com.br/) (Music news)<br>
+- [Morgenstern](https://www.morgensternsnyc.com/) (Ice cream)<br>
 - [Mould Map 7](http://mouldmap.com/) (Experimentals comics)<br>
 - [Mucem](https://www.mucem.org/) (Museum)<br>
 - [Novembre](https://novembre.global/about) (Inspiration plateform)<br>
