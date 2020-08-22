@@ -267,6 +267,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Patchwork Architecture](https://patchworkarchitecture.co.nz/) (Architecture studio)<br>
 - [Pizza Pizza](https://pizzapizza.io/) (Digital product studio)<br>
 - [Pol Solsona Studio](http://polsolsona.com/) (Design studio)<br>
+- [Polar](https://polar.ltda/) (Design studio)<br>
 - [Porter Packaging](https://porterpackaging.com/) (Production studio)<br>
 - [Porto Rocha](https://portorocha.com/) (Design studio)<br>
 - [Purho](http://www.purho.it/en/) (Design studio)<br>
