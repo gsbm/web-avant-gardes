@@ -227,6 +227,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Gallery by Toko](https://designbytoko.com/) (Design studio)<br>
 - [Geckeler Michels](https://www.geckelermichels.com/) (Product design studio)<br>
 - [Girlpunk](https://www.girlpunk.de/) (Design studio)<br>
+- `★` [Haha](http://haha.services/) (Design studio)<br>
 - [HAWRAF](https://www.hawraf.com/) (Design studio)<br>
 - [HalloBasis](https://hallobasis.com/) (Design studio)<br>
 - [Heller](https://heller.tv) (Space architecture studio)<br>
