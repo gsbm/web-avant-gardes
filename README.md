@@ -71,6 +71,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Hrvoje Živčić](https://hrvojezivcic.com/) (Designer)<br>
 - [Ilari Laamanen](http://ilarilaamanen.com/) (Curator)<br>
 - [JT Grauke](https://jtgrauke.com/) (Designer)<br>
+- `★` [Jacob McKee](https://jacobmckee.com/) (Colorist)<br>
 - [Jacobs Slum](http://jacobsslum.dk/) (Historian)<br>
 - [Jason Miller](http://jasonmiller.tv/) (Art director)<br>
 - [Javi Medialdea](https://www.javimedialdea.es/) (Designer)<br>
