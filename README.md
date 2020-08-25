@@ -461,6 +461,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Dreamlaser](http://dreamlaser.ru/) `(?)`<br>
 - [Ecosistema del Diseño Español](https://ecosistemadeldiseño.es/) `(?)`<br>
 - [Embassy of Internet](http://www.embassyofinternet.org/) `(?)` <br>
+- [Kunsthalle Osnabrück](https://kunsthalle.osnabrueck.de/) `(?)` <br>
 - [Latitude](https://explorelatitude.com/) `(?)` <br>
 - [Lubalin 100](http://www.lubalin100.com/) `(?)`<br>
 - [Marini marmi](http://www.marinimarmi.com/) `(?)`<br>
