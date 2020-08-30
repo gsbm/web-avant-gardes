@@ -261,6 +261,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [OMA](https://oma.eu/) (Architecture studio)<br>
 - [OTK Studio](https://otk.studio/) (Design studio)<br>
 - [Oak Park Studio](https://oakpark.co/) (Design studio)<br>
+- [Open Studio](https://www.open-studio.nl/) (Design studio)<br>
 - [Orior](https://www.oriorfurniture.com/) (Furniture design studio)<br>
 - [Osk](http://osk.co/) (Design studio)<br>
 - [Other Office](http://otheroffice.net/) (Design studio)<br>
