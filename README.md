@@ -273,6 +273,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Polar](https://polar.ltda/) (Design studio)<br>
 - [Porter Packaging](https://porterpackaging.com/) (Production studio)<br>
 - [Porto Rocha](https://portorocha.com/) (Design studio)<br>
+- [Practice](https://www.hipractice.com/) (Brand strategy agency)<br>
 - [Purho](http://www.purho.it/en/) (Design studio)<br>
 - [RTA Studio](http://rtastudio.co.nz/) (Architecture studio)<br>
 - [Random Ltd](https://ransomltd.com/) (Photography studio)<br>
