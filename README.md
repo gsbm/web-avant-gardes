@@ -446,6 +446,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Terén](https://jasuteren.cz/) (Performance art) <br>
 - `★` [TeTuhi](https://tetuhi.art/) (Art exhibition)<br>
 - [The Global Studio](https://www.globalstudio2020.utsphotography.com/) (Study program)<br>
+- [The Periodic Table of Elements Issue](https://www.bloomberg.com/features/2019-periodic-table-elements-issue/) (Scientific issue)<br>
 - [The Physics Room](http://physicsroom.org.nz/) (Art gallery)<br>
 - `★` [Théâtre St-Gervais Genève](https://saintgervais.ch/) (Theater)<br>
 - [Timetable](https://timetablerecords.com/) (Music label)<br>
