@@ -200,6 +200,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [CUSP](https://heycusp.com/) (Creative collective)<br>
 - [Cactus Club](https://www.cactusclub.biz/) (Production company)<br>
 - [Carr](https://www.carr.net.au/) (Architecture studio)<br>
+- [Central studio](https://centralstudio.ch/) (Design studio)<br>
 - [Climate](http://thisisclimate.com/) (Design studio)<br>
 - [Collins](https://www.wearecollins.com/) (Design studio)<br>
 - [Common Works](https://commonworks.co.uk/) (Design studio)<br>
