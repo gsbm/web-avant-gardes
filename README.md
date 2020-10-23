@@ -9,7 +9,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 
 ## Website collection
 
-> Over 400 websites, daily updated.
+> Over 400 websites, weekly updated.
 
 `★ Editor's pick`
 
@@ -366,6 +366,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Demo Festival](https://demofestival.com/) (Design festival)<br>
 - [Design Systems International](https://designsystems.international/) (Experimental)<br>
 - `★` [Designing women](https://designingwomen.readymag.com/) (Art history)
+- `★` [diadia614](https://diadia614.com/) (Magazine)<br>
 - [Digital Underground](https://digitalundergroundbook.store/) (Book)<br>
 - [Dutch Design Awards](https://www.dutchdesignawards.nl/) (Awards)<br>
 - [ECAL Typefaces](https://ecal-typefaces.ch/) (Student foundry)<br>
