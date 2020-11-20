@@ -295,6 +295,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Spin](https://spin.co.uk/) (Design studio)<br>
 - `★` [Studio Almond](https://www.almond.studio/) (Design studio)<br>
 - [Studio Andrea Guccini](http://andreaguccini.com/) (Graphic design agency)<br>
+- [Studio Dumar](https://studiodumbar.com/) (Design studio)<br>
 - [Studio Lin](https://studiolin.org/) (Design studio)<br>
 - [Studio MUT](http://studiomut.com/) (Design studio)<br>
 - [Studio Monozygote](http://studiomonozygote.com/) (Design studio)<br>
