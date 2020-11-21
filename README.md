@@ -207,6 +207,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Compagnie 7273](https://cie7273.com/) (Choreographers)<br>
 - [Contemple](https://ccccontemple.com/) (Design studio)<br>
 - [Contempt](http://contempt.studio/) (Design studio)<br>
+- [Convicts](https://convicts.nyc/) (Creative agency)<br>
 - [Cortese/Mazza](https://cortesemazza.com/) (Architecture studio)<br>
 - [Counterpoint](http://counterpoint-association.com/) (Artist association)<br>
 - [Crevv](https://crevv.com/) (Design studio)<br>
@@ -503,7 +504,7 @@ You can contribute to this non-exhaustive list by :
 
 Adding a website
 ```Markdown
-- [Website name](url) (Sub category)<br>
+- [Website name](url) (Sub category or short description)<br>
 ```
 Adding a label
 | | Description |
