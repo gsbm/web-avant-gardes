@@ -52,7 +52,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Elias Derboven](http://eliasderboven.com/) (Photographer)<br>
 - [Élise Rigollet](https://eliserigollet.com/) (Designer)<br>
 - [Eric Price](https://ericprice.cc/) (Designer)<br>
-- [Erwan Sene](http://www.erwansene.pro/) `DOWN 👷‍` (Artist)<br>
+- [Erwan Sene](http://www.erwansene.pro/) (Artist)<br>
 - [Esther Hovers](https://estherhovers.com/) (Artist)<br>
 - [Esther Hovers](https://estherhovers.com/About-Contact) (Photographer)<br>
 - [Fabian Dornhecker](http://fabiandornhecker.de/) (Designer)<br>
