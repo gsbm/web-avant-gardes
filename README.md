@@ -219,6 +219,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Diplomats](https://diplomats.tv/) (Creative studio)<br>
 - [Dreams Office](http://www.dreamsoffice.fr/) (Design studio)<br>
 - [Dunne & Raby](http://dunneandraby.co.uk/) (Design studio)<br>
+- [Elkin Editions](https://www.elkineditions.com/) (Video production studio)<br>
 - `★` [ELF Pictures](https://elfpictures.hu/) (Filmmaking studio)<br>
 - [Experimental Jetset](https://www.experimentaljetset.nl/) (Design studio)<br>
 - `★` [Extraset](https://extraset.ch/) (Type foundry)<br>
