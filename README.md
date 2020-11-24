@@ -105,6 +105,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Lucas Le Bihan](http://lucaslebihan.fr/) (Designer)<br>
 - [Manu Rosaleny](https://manurosaleny.es/) (Photographer)<br>
 - [Mara Züst](https://marazuest.net/) (Artist)<br>
+- [Marcos Rodrigues](https://marcosrp.co/) (Designer)<br>
 - [Mariana Lobão](http://marianalobao.com/) (Designer)<br>
 - [Mariya Pepelanova](https://pepecph.com/) (Photographer)<br>
 - [Mark Hurrell](https://mhurrell.co.uk/) (Designer)<br>
