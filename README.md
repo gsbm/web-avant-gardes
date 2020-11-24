@@ -48,6 +48,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Davided Mascioli](https://www.dmascioli.com/) (Designer)<br>
 - [Diane Martel](https://diane-martel.com/) (Visual artist)<br>
 - [Diego Funken](http://diegofunken.com/) (Designer)<br>
+- [Dries Bos](https://www.driesbos.com/) (Creative developer)<br>
 - [Elias Derboven](http://eliasderboven.com/) (Photographer)<br>
 - [Élise Rigollet](https://eliserigollet.com/) (Designer)<br>
 - [Eric Price](https://ericprice.cc/) (Designer)<br>
