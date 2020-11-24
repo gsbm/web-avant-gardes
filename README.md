@@ -255,6 +255,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Maud](https://www.maud.com.au/) (Design studio)<br>
 - [Metis Foundry](https://metis-foundry.com/) (Type foundry)<br>
 - [Michael McManus Architects](https://michaelmcmanus.com.au/) (Architecture studio)<br>
+- [Middle Name](https://middlename.co.uk/) (Branding and design studio)<br>
 - [Mint Art Haus](https://mintarthaus.com/) (Design studio)<br>
 - `★` [Moy](https://www.moy.is/) (Dry fruits)<br>
 - [Namespace](https://namespace.studio/) (Design studio)<br>
