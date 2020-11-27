@@ -54,7 +54,6 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Eric Price](https://ericprice.cc/) (Designer)<br>
 - [Erwan Sene](http://www.erwansene.pro/) (Artist)<br>
 - [Esther Hovers](https://estherhovers.com/) (Artist)<br>
-- [Esther Hovers](https://estherhovers.com/About-Contact) (Photographer)<br>
 - [Fabian Dornhecker](http://fabiandornhecker.de/) (Designer)<br>
 - [Faris Kassim](https://www.fariskassim.com/) (Designer)<br>
 - [Fiona Jane Burgess](https://www.fionajaneburgess.com/) (Film director)<br>
@@ -128,7 +127,6 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Niklas Rosén](https://niklasrosen.se/) (Designer)<br>
 - [Olivier Charland](https://olicharland.com/) (Designer)<br>
 - [Oliviero Fiorenzi](https://olivierofiorenzi.com/) (Artist)<br>
-- [Oscar Gómez](http://scrgb.co/) (Designer)<br>
 - [Oscar Gómez](http://scrgb.co/) (Designer)<br>
 - [Pavel Kedzich](https://kedzich.com/) (Designer)<br>
 - [Pedro Cardoso](https://pedrocardoso.fr/) (Designer)<br>
