@@ -100,6 +100,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Laurel Halo](http://www.laurelhalo.com/) (Musician)<br>
 - [Lindsay Howard](http://lindsayhoward.net/) (Curator)<br>
 - [Loup Lopez](https://www.louplopez.com/) (Designer)<br>
+- [Lucas Haider](https://lukashaider.com/) (Designer)<br>
 - [Lucas Hesse](https://www.lucas-hesse.de/) (Designer)<br>
 - [Lucas Le Bihan](http://lucaslebihan.fr/) (Designer)<br>
 - [Manu Rosaleny](https://manurosaleny.es/) (Photographer)<br>
@@ -435,7 +436,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Ricky Michiels](https://www.rickymichiels.com/) (Artist management)<br>
 - [Route](https://route.onl/) (Artist management)<br>
 - [Sabina advertising](https://sabina.ch/) (Advertising agency)<br>
-- [Sobieski](https://sobieskivodka.com/) (Alcool)<br>
+- [Sobieski](https://sobieskivodka.com/) (Alcohol)<br>
 - [SSHH](https://sshh.nyc/) (Open space)<br>
 - [SeMA](http://sema.seoul.go.kr/) (Art museum)<br>
 - [Secret Friend](http://secret-friend.xyz/) (Experimental showcase)<br>
