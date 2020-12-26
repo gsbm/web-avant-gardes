@@ -494,6 +494,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [TIGHT Top 2018](https://en-2018.tight.media/) `(?)`<br>
 - [Take a walk on the wild side](http://takeawalkonthewildside.rietveldacademie.nl/) `(?)`<br>
 - [Tanzkongress 2019](http://tanzkongress2019.de/) `(?)`<br>
+- [The Confort of Books](https://thecomfortofbooks.com) `(?)`<br>
 
 ## Contributing
 
