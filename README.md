@@ -366,6 +366,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [CC/magazine](https://ccmagazine.es/) (Lifestyle magazine)<br>
 - [CPT](https://www.centerforphilosophicaltechnologies.org/) (Research center)<br>
 - [Club Collecte](https://clubcollecte.fr/) (Editorial archives)<br>
+- [College of Social Sciences and Humanities](https://cssh.northeastern.edu/) (Education)<br>
 - [Common Sans](http://www.commonsans.com/) (Typeface)<br>
 - [Coral Agency](https://coral.ag/) (Musician Agency)<br>
 - [Dapp Boi](https://dappboi.com/) (Blockchain)<br>
