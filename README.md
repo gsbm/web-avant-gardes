@@ -252,6 +252,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [MMAATTCCHH](https://mmaattcchh.de/) (Filmmaking studio)<br>
 - [Made in Buro](https://madeinburo.com/) (Creative agency)<br>
 - [Markus](https://markus.se/) (Creative agency)<br>
+- [Marx](https://marxdesign.co.nz/) (Brand strategy studio)<br>
 - [Math Practise](http://math-practice.org/) (Design studio)<br>
 - [Maud](https://www.maud.com.au/) (Design studio)<br>
 - [Metis Foundry](https://metis-foundry.com/) (Type foundry)<br>
