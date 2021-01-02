@@ -251,6 +251,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [LM Chabot](https://lmchabot.com/) (Photography studio)<br>
 - [MMAATTCCHH](https://mmaattcchh.de/) (Filmmaking studio)<br>
 - [Made in Buro](https://madeinburo.com/) (Creative agency)<br>
+- [Maria Danos](http://mariadanos.com.au/) (Architecture studio)<br>
 - [Markus](https://markus.se/) (Creative agency)<br>
 - [Marx](https://marxdesign.co.nz/) (Brand strategy studio)<br>
 - [Math Practise](http://math-practice.org/) (Design studio)<br>
