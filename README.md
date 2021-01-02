@@ -468,6 +468,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Typographic Singularity 2020](https://www.typographicsingularity.com/) (Design event)<br>
 - [Untitled Sans](http://untitledsans.com/) (Typeface)<br>
 - [V-A-C Sreda](https://sreda.v-a-c.org/) (Podcast)<br>
+- [Various Objects](http://variousobjects.co/) (Curated collection)<br>
 - [Very Good Films](https://verygoodfilms.co/) (Movies catalog)<br>
 - [Visual Society](https://visualsociety.ch) (Fashion label)<br>
 - [WM Artist Studio](http://www.wmartistmanagement.com/) (Artist management)<br>
