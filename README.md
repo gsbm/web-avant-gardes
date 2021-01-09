@@ -377,6 +377,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Demo Festival](https://demofestival.com/) (Design festival)<br>
 - [Design Systems International](https://designsystems.international/) (Experimental)<br>
 - `★` [Designing women](https://designingwomen.readymag.com/) (Art history)
+- [Designing Writing](http://designingwriting.com/) (Experimental)<br>
 - `★` [diadia614](https://diadia614.com/) (Magazine)<br>
 - [Digital Underground](https://digitalundergroundbook.store/) (Book)<br>
 - [Dutch Design Awards](https://www.dutchdesignawards.nl/) (Awards)<br>
