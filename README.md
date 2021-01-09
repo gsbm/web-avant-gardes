@@ -135,6 +135,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Pierre Choiniere](https://pierrechoiniere.com/) (Photographer)<br>
 - [Pleun Verhoofstad](https://pleunverhoofstad.com/) (Designer)<br>
 - [Rachel de Joode](https://racheldejoode.com/) (Artist)<br>
+- [Regis Brasme](https://brasme.fr/) (Designer)<br>
 - [Ricardo Ferrol](https://ricardoferrol.com/) (Art director)<br>
 - [Rui da Paz](https://rui.cool/) (Designer)<br>
 - [Sacha Maric](https://www.sachamaric.com/) (Photographer)<br>
