@@ -83,6 +83,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Jisu Kim](https://jisukim.info/) (Designer)<br>
 - [Johannes Schnatmann](http://jotundes.com/) (Artist)<br>
 - [Jon Gacnik](https://jongacnik.com/) (Designer)<br>
+- [Jules Morin](http://www.julesmorin.com/) (Designer)<br>
 - `★` [Julian Galay](http://juliangalay.com/) (Compositor)<br>
 - `★` [Julie Cristobal](http://juliecristobal.com/) (Stylist)<br>
 - [Juliette Lepineau](https://juliettelepineau.net/) (Artist)<br>
