@@ -142,6 +142,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Sacha Maric](https://www.sachamaric.com/) (Photographer)<br>
 - [Sam Velenne Reith](https://samreith.com/) (Designer)<br>
 - [Sammlung Walter](https://sammlungwalter.de/) (Designer)<br>
+- [Samuel Bloch](http://samuelbloch.com/) (Designer)<br>
 - [Samuel Coronado](https://samucoronado.com/) (Designer)<br>
 - [Samy Rio](https://www.samyrio.fr/) (Designer)<br>
 - [Sandra Autukaite](https://www.sandraautukaite.com/) (Designer)<br>
