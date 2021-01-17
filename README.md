@@ -327,6 +327,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [The Grammar of Frames](https://www.thegrammarof.com/) (Brand experience studio)<br>
 - [The new company](http://www.new.company/) (Design studio)<br>
 - `★` [The Royal Studio](https://theroyalstudio.com/) (Design studio)<br>
+- [TIGHTYPE](https://tightype.com/) (Type foundry)<br>
 - [Translation](https://translationllc.com/) (Design studio)<br>
 - [Twenty Nine](https://www.xxix.co/) (Design studio)<br>
 - [Two much](http://twomuch.studio/) (Design studio)<br>
