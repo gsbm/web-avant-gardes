@@ -223,6 +223,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Elkin Editions](https://www.elkineditions.com/) (Video production studio)<br>
 - `★` [ELF Pictures](https://elfpictures.hu/) (Filmmaking studio)<br>
 - [Experimental Jetset](https://www.experimentaljetset.nl/) (Design studio)<br>
+- [extrabrut.shop](https://extrabrut.shop/) (Type foundry)<br>
 - `★` [Extraset](https://extraset.ch/) (Type foundry)<br>
 - [FP01](https://fp01.eu/) (Architecture studio)<br>
 - [Farbe Designbüro](https://buero-farbe.de/) (Design studio)<br>
