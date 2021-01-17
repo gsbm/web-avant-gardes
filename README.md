@@ -208,6 +208,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Central studio](https://centralstudio.ch/) (Design studio)<br>
 - [Climate](http://thisisclimate.com/) (Design studio)<br>
 - [Collins](https://www.wearecollins.com/) (Design studio)<br>
+- [Colllectttivo](https://collletttivo.it/) (Type foundry)<br>
 - [Common Works](https://commonworks.co.uk/) (Design studio)<br>
 - [Compagnie 7273](https://cie7273.com/) (Choreographers)<br>
 - [Contemple](https://ccccontemple.com/) (Design studio)<br>
