@@ -405,6 +405,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [HyperText](https://hypertext.futurefonts.xyz/) (Experimental typefaces)<br>
 - [I will Seoul you](http://iwillseoulyou.kr/) `DOWN 👷‍` (Blog)<br>
 - `★` [Index Art Book Fair](http://www.indexartbookfair.com/) (Art program)<br>
+- `★` [Indiecon](https://indienations.de/) (Book fair)<br>
 - [INFRIGE](https://www.infringe.com/) (Hairdressing)<br>
 - `★` [Inonica](https://inonica.com/) (Art magazine)<br>
 - [IOTA Editions](https://iota-editions.com/) (Publisher)<br>
