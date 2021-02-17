@@ -454,6 +454,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [SeMA](http://sema.seoul.go.kr/) (Art museum)<br>
 - [Secret Friend](http://secret-friend.xyz/) (Experimental showcase)<br>
 - `★` [See In Black](https://seeinblack.com/) (Photography showcase)<br>
+- [Sheffielders](https://sheffielders.org/) (Directory of creatives)<br>
 - [Sifang Art Museum](http://www.sifangartmuseum.org/) `DOWN 👷‍` (Art museum)<br>
 - [Spinny Nights](https://www.spinnynights.com/) (Showcase platform)<br>
 - [Stay Sane/Stay Safe](https://www.stay-sane-stay-safe.com/) (Poster collection)<br>
