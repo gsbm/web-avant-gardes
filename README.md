@@ -150,6 +150,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Sara Marandi](http://www.saramarandi.com/) (Photographer)<br>
 - [Sasha Ng](http://sasha-ng.com/) (Designer)<br>
 - [Scott Reinhard](https://scottreinhard.com/) (Designer)<br>
+- [Slava Kirilenko](https://slavakirilenko.com/) (Type designer)<br>
 - [Sonia Rentsch](http://www.soniarentsch.com/about) (Art director)<br>
 - `★` [Son La Pham](http://www.son-la.co/) (Designer)<br>
 - [Sophia Goedecke](http://sophiagoedecke.de/) (Designer)<br>
