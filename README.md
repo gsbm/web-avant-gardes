@@ -444,6 +444,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - `★` [PAL](https://pal-catalogue.com/) (Furniture catalogue)<br>
 - [Point of No Return](http://pointofnoreturn.be) (Exhibition)<br>
 - [RISD GD Triennial](http://risdgdtriennial2018.risd.gd/) (Exhibition)<br>
+- `★` [Reading Machines](https://tdingsun.github.io/reading-machines/) (Publishing plateform)<br>
 - `★` [Rekki](https://rekki.com/) (Application)<br>
 - [Revue Lagon](http://revuelagon.com/) (Magazine)<br>
 - [Revue faire](https://revue-faire.eu/) (Issues)<br>
