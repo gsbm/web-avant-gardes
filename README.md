@@ -151,6 +151,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Sasha Ng](http://sasha-ng.com/) (Designer)<br>
 - [Scott Reinhard](https://scottreinhard.com/) (Designer)<br>
 - [Sonia Rentsch](http://www.soniarentsch.com/about) (Art director)<br>
+- `★` [Son La Pham](http://www.son-la.co/) (Designer)<br>
 - [Sophia Goedecke](http://sophiagoedecke.de/) (Designer)<br>
 - [Stefanie Tam](http://stefanietam.com/) (Designer)<br>
 - [Stephanie Jeong](https://jeongsteph.design/) (Designer)<br>
