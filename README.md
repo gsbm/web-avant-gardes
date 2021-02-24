@@ -39,6 +39,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Caroline Dussuel](https://carolinedussuel.com/) (Photographer)<br>
 - `★` [Chad Miller](https://chdmlr.com/) (Designer)<br>
 - [Charlotte Debauge-Cahen](https://charlottedebauge.fr/) (Designer)<br>
+- [Chengcheng Hou](https://chengchenghou.com/) (Designer)<br>
 - [Chrissie Abbott](https://chrissieabbott.com/) (Designer)<br>
 - [Christopher Paul Sharpe](http://christopherpaulsharpe.com/) (Photographer)<br>
 - [Dan Flynn](http://design.byform.co/) (Designer)<br>
