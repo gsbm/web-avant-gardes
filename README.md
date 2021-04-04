@@ -231,6 +231,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Experimental Jetset](https://www.experimentaljetset.nl/) (Design studio)<br>
 - [extrabrut.shop](https://extrabrut.shop/) (Type foundry)<br>
 - `★` [Extraset](https://extraset.ch/) (Type foundry)<br>
+- `★` [Ezekiel Laquino](https://ezekielaquino.com/) (Programmatic design studio)<br>
 - [FP01](https://fp01.eu/) (Architecture studio)<br>
 - [Farbe Designbüro](https://buero-farbe.de/) (Design studio)<br>
 - [Folder Studio](https://folder.studio/) (Design studio)<br>
