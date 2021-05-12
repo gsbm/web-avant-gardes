@@ -117,6 +117,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Max Siedentopf](http://maxsiedentopf.com/) (Visual artist)<br>
 - [Melike Turgut](https://www.meliketurgut.com/) (Designer)<br>
 - [Melvin Ghandour](https://melvinghandour.com/) (Designer)<br>
+- [Michael Speichert](https://www.michaelspeichert.com/) (Designer)<br>
 - [Michell Dipp](http://www.michelledipp.com/) (Designer)<br>
 - [Mun Jiwoo](https://www.munjiwoo.com/) (Artist)<br>
 - [Naho Kubota](https://nahokubota.com/) (Photographer)<br>
