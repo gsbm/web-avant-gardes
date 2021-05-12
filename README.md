@@ -407,6 +407,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Good Glyphs](https://goodglyphs.com/) (Typeface)<br>
 - [Goodbye](https://www.goodbyebooks.org/) (Publisher)<br>
 - [Google Fonts + Korean](https://googlefonts.github.io/korean/) (Fonts directory)<br>
+- [GT Maru](https://gt-maru.com/) (Typeface)<br>
 - [Guggenheim](http://exhibitions.guggenheim.org/storylines/) (Art museum)<br>
 - `★` [Han Kjøbenhavn](https://hankjobenhavn.com/) (Clothes shop)<br>
 - [Harvard Design Magazine](http://www.harvarddesignmagazine.org/) (Magazine)<br>
