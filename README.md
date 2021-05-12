@@ -398,6 +398,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Empire](https://www.e-m-p-i-r-e.eu/) (Publisher)<br>
 - [Entireworld](https://theentireworld.com/) (Clothes shop)<br>
 - [Film Truck](https://www.filmtruck.co/) (Movie)<br>
+- [Fingerspelling](https://fingerspelling.xyz/) (Learn sign language)<br>
 - [Forward Festival](https://forward-festival.com/) (Design festival)<br>
 - [Found color](https://foundcolor.co/) (Color scheme)<br>
 - [Future London Academy](https://bauhaus.futurelondonacademy.com/) (Educational program)<br>
