@@ -158,6 +158,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Sophia Goedecke](http://sophiagoedecke.de/) (Designer)<br>
 - [Stefanie Tam](http://stefanietam.com/) (Designer)<br>
 - [Stephanie Jeong](https://jeongsteph.design/) (Designer)<br>
+- [Sungbum Heo](https://architecturalpractice.kr/) (Architect)<br>
 - [Sven Stuckenschmidt](https://www.svenstuckenschmidt.de/) (Artist)<br>
 - [Svyat Vishnyakov](https://vishvish.design/) (Designer)<br>
 - [Sylvain Julé](https://sylvain-jule.fr/) (Designer)<br>
