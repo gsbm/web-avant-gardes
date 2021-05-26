@@ -321,6 +321,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Studio Monozygote](http://studiomonozygote.com/) (Design studio)<br>
 - [Studio Mærtens](https://studiomaertens.com/) (Industrial design studio)<br>
 - [Studio Nanneke Boomgaard](https://nannekeboomgaard.nl/) (Furniture design studio)<br>
+- [studio òbelo](https://obelo.it/) (Design studio)<br>
 - [Studio Otto](https://studio-otto.com/) (Design studio)<br>
 - [Studio Push](https://studio-push.com/) (Design studio)<br>
 - [Studio Rejane Dal Bello](http://rejanedalbello.com/) (Design studio)<br>
