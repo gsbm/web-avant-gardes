@@ -188,6 +188,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [ANTI](https://anti.as/) (Design studio)<br>
 - [Air Studio](https://www.airstudios.com/) (Recording studio)<br>
 - [Apelido & Apelido](https://apelido-apelido.com/) (Design studio)<br>
+- [Approximate Type](https://approxtype.com/) (Type foundry)<br>
 - [Atelier Dreibholz](http://dreibholz.com/) (Design studio)<br>
 - [Atelier Florian Markl](https://florianmarkl.com/) (Design studio)<br>
 - [Auwää](https://auwaa.ch/) (Design studio)<br>
