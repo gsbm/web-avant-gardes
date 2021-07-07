@@ -245,6 +245,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [GDW](https://gdw.kr/) (Design studio)<br>
 - [Gallery by Toko](https://designbytoko.com/) (Design studio)<br>
 - [Geckeler Michels](https://www.geckelermichels.com/) (Product design studio)<br>
+- [Gina Guasch Team](https://ginaguaschteam.com/) (Design studio)<br>
 - [Girlpunk](https://www.girlpunk.de/) (Design studio)<br>
 - `★` [Haha](http://haha.services/) (Design studio)<br>
 - [HAWRAF](https://www.hawraf.com/) (Design studio)<br>
