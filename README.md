@@ -269,6 +269,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Marx](https://marxdesign.co.nz/) (Brand strategy studio)<br>
 - [Math Practise](http://math-practice.org/) (Design studio)<br>
 - [Maud](https://www.maud.com.au/) (Design studio)<br>
+- `★` [Maximage](https://maximage.biz/) (Design studio)<br>
 - [Metis Foundry](https://metis-foundry.com/) (Type foundry)<br>
 - [Michael McManus Architects](https://michaelmcmanus.com.au/) (Architecture studio)<br>
 - [Middle Name](https://middlename.co.uk/) (Branding and design studio)<br>
