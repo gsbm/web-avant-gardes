@@ -274,6 +274,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Michael McManus Architects](https://michaelmcmanus.com.au/) (Architecture studio)<br>
 - [Middle Name](https://middlename.co.uk/) (Branding and design studio)<br>
 - [Mint Art Haus](https://mintarthaus.com/) (Design studio)<br>
+- [Moscow Mule](https://moscowmule.team/) (Design studio)<br>
 - `★` [Moy](https://www.moy.is/) (Dry fruits)<br>
 - [Namespace](https://namespace.studio/) (Design studio)<br>
 - [NewTab studio](https://www.newtab-studio.com/) (Design studio)<br>
