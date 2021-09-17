@@ -9,7 +9,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 
 ## Website collection
 
-> Over 400 websites, weekly updated.
+> Over 400 websites, monthly updated.
 
 `★ Editor's pick`
 
@@ -405,6 +405,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Edouard Malingue](https://edouardmalingue.com/) (Art gallery)<br>
 - [Empire](https://www.e-m-p-i-r-e.eu/) (Publisher)<br>
 - [Entireworld](https://theentireworld.com/) (Clothes shop)<br>
+- `★` [Ethics for Design](https://ethicsfordesign.com/fr) (Documentary)<br>
 - [Film Truck](https://www.filmtruck.co/) (Movie)<br>
 - [Fingerspelling](https://fingerspelling.xyz/) (Learn sign language)<br>
 - [Forward Festival](https://forward-festival.com/) (Design festival)<br>
