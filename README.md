@@ -393,6 +393,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [College of Social Sciences and Humanities](https://cssh.northeastern.edu/) (Education)<br>
 - [Common Sans](http://www.commonsans.com/) (Typeface)<br>
 - [Coral Agency](https://coral.ag/) (Musician Agency)<br>
+- [Creative Ecosystems](https://creativeecosystems.org/) (Art directory)
 - [Dapp Boi](https://dappboi.com/) (Blockchain)<br>
 - [Dateagle Art](https://dateagle.art/) (Art journal)<br>
 - [Demo Festival](https://demofestival.com/) (Design festival)<br>
