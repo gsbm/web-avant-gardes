@@ -176,6 +176,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Yoshihiko Ueda](http://www.yoshihikoueda.com/) (Photographer)<br>
 
 ### Studios, agencies
+- [10011.co](https://www.10011.co) (Creative studio and talent agency)<br>
 - [101](http://101.at/) (Design studio)<br>
 - [205TF](https://www.205.tf/) (Type foundry)<br>
 - `★` [2SJ Architekturfotografie](https://2sjarchitekturfotografie.com/) (Photography studio)<br>
