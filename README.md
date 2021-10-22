@@ -34,6 +34,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Ben Sifel](https://bensifel.com/) (Designer)<br>
 - [Beverly Semmes](https://beverlysemmesstudio.com/) (Artist)<br>
 - [Bharat Sikka](http://www.bharatsikka.com/) (Artist)<br>
+- [Boniface](https://stevenboniface.com) (Photographer)<br>
 - [Bruno Tomé](https://brunotome.dev/) (Designer)<br>
 - [Candy Chiu](http://candychiu.com/) (Designer)<br>
 - [Caroline Dussuel](https://carolinedussuel.com/) (Photographer)<br>
@@ -68,6 +69,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Gian Visi](https://giancreatives.it/) (Designer)<br>
 - [Gianfranco Panza](http://www.gianfrancopanza.com/) (Architect)<br>
 - `★` [Gio Pandone](https://www.giopandone.com/) (Designer)<br>
+- [Grafik](http://grafik.nz) (Designer/Developer)<br>
 - [Gwennina Moigne](http://www.gwenninamoigne.com/) (Designer)<br>
 - [Hrvoje Živčić](https://hrvojezivcic.com/) (Designer)<br>
 - [Ilari Laamanen](http://ilarilaamanen.com/) (Curator)<br>
@@ -112,6 +114,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Mariya Pepelanova](https://pepecph.com/) (Photographer)<br>
 - [Mark Hurrell](https://mhurrell.co.uk/) (Designer)<br>
 - [Martin Wecke](https://martinwecke.de/) (Designer)<br>
+- [Marx Design](http://marxdesign.co.nz/) (Agency)<br>
 - [Mary Gaudin](https://marygaudin.com/) (Photographer)<br>
 - [Matteo Campostrini](http://www.matteocampostrini.com/) (Designer)<br>
 - [Max Siedentopf](http://maxsiedentopf.com/) (Visual artist)<br>
@@ -138,6 +141,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Pierre Choiniere](https://pierrechoiniere.com/) (Photographer)<br>
 - [Pleun Verhoofstad](https://pleunverhoofstad.com/) (Designer)<br>
 - [Rachel de Joode](https://racheldejoode.com/) (Artist)<br>
+- [Ransom](https://ransomltd.com) (Agency)<br>
 - [Regis Brasme](https://brasme.fr/) (Designer)<br>
 - [Ricardo Ferrol](https://ricardoferrol.com/) (Art director)<br>
 - [Rui da Paz](https://rui.cool/) (Designer)<br>
