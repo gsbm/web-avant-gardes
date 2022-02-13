@@ -87,6 +87,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Johannes Schnatmann](http://jotundes.com/) (Artist)<br>
 - [Jon Gacnik](https://jongacnik.com/) (Designer)<br>
 - [Jules Morin](http://www.julesmorin.com/) (Designer)<br>
+- [Julia Schaefer](https://juliaschaefer.ch/) (Designer)<br>
 - `★` [Julian Galay](http://juliangalay.com/) (Compositor)<br>
 - `★` [Julie Cristobal](http://juliecristobal.com/) (Stylist)<br>
 - [Juliette Lepineau](https://juliettelepineau.net/) (Artist)<br>
@@ -142,7 +143,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Pleun Verhoofstad](https://pleunverhoofstad.com/) (Designer)<br>
 - [Rachel de Joode](https://racheldejoode.com/) (Artist)<br>
 - [Ransom](https://ransomltd.com) (Agency)<br>
-- [Ricardo Baez](https://ricardobaez.info/)
+- `★` [Ricardo Baez](https://ricardobaez.info/)
 - [Ricardo Ferrol](https://ricardoferrol.com/) (Art director)<br>
 - [Rui da Paz](https://rui.cool/) (Designer)<br>
 - [Sacha Maric](https://www.sachamaric.com/) (Photographer)<br>
