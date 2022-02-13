@@ -504,6 +504,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Trambisera Marmi](https://trambiseramarmi.it/) (Construction materials)<br>
 - [Typographic Singularity 2020](https://www.typographicsingularity.com/) (Design event)<br>
 - [Untitled Sans](http://untitledsans.com/) (Typeface)<br>
+- `★` [UTS Design Futuring Report 2020](https://utsdesignfuturing.com/) (Design report)<br>
 - [V-A-C Sreda](https://sreda.v-a-c.org/) (Podcast)<br>
 - [Various Objects](http://variousobjects.co/) (Curated collection)<br>
 - [Very Good Films](https://verygoodfilms.co/) (Movies catalog)<br>
@@ -513,6 +514,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Weltformat Festival](https://weltformat-festival.ch/) (Design festival)<br>
 - [Where We Stand](http://wherewestand.co.uk/) (Design challenge)<br>
 - [Won Hundred](https://wonhundred.com/) (Clothes shop)<br>
+
 - `★` [World](http://www.world2.uk/) (Experimental)<br><br>
 - [032c](https://032c.com/) `(?)`<br>
 - [Aires Libres](https://aireslibres.com/) `(?)`<br>
