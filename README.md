@@ -146,6 +146,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Ricardo Ferrol](https://ricardoferrol.com/) (Art director)<br>
 - [Rui da Paz](https://rui.cool/) (Designer)<br>
 - [Sacha Maric](https://www.sachamaric.com/) (Photographer)<br>
+- [Sam Fraser](https://samfraser.nz/) (Designer)<br>
 - [Sam Velenne Reith](https://samreith.com/) (Designer)<br>
 - [Sammlung Walter](https://sammlungwalter.de/) (Designer)<br>
 - [Samuel Bloch](http://samuelbloch.com/) (Designer)<br>
