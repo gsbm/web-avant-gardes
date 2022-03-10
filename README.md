@@ -271,6 +271,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [July](http://studiojuly.co/) (Design studio)<br>
 - [Kruger Buro](https://www.krugerburo.com/) (Design studio)<br>
 - [LM Chabot](https://lmchabot.com/) (Photography studio)<br>
+- [LUMO architecten](https://www.lumo-architecten.be/) (Architecture studio)<br>
 - [MMAATTCCHH](https://mmaattcchh.de/) (Filmmaking studio)<br>
 - [Made in Buro](https://madeinburo.com/) (Creative agency)<br>
 - [Maria Danos](http://mariadanos.com.au/) (Architecture studio)<br>
