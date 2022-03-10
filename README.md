@@ -13,6 +13,13 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 
 `★ Editor's pick`
 
+### Categories
+1. [Personal pages, portfolios](#personal-pages-portfolios)
+2. [Studios, agencies](#studios-agencies)
+3. [Shops, furnitures](#shops-furnitures)
+4. [Miscellaneous](#miscellaneous)
+5. [Unclassified](#unclassified)
+
 ### Personal pages, portfolios
 - [Adam Clarke](http://adamclarkecolour.com/) (Colourist)<br>
 - [Adam Ho](https://www.adamho.com/) (Designer)<br>
