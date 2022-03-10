@@ -370,6 +370,16 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Zero Turns Two](https://two.zero.nyc/) (Design studio)<br>
 - [Zero](https://zero.nyc/) (Design studio)<br>
 
+### Shops, furnitures
+- [Antenne Books](https://www.antennebooks.com/) (Books shop)<br>
+- [Balenciaga](https://www.balenciaga.com/nl/) (Apparel)<br>
+- [MSG](http://madewithmsg.com/) (Apparel)<br>
+- `★` [PAL](https://pal-catalogue.com/) (Furniture catalogue)<br>
+- [Studio Kaze](https://studiokaze.online/) `DOWN 👷‍` (Apparel)<br>
+- [Temporary Mark](http://temporarymark.com/) `DOWN 👷‍` (Apparel)<br>
+- [TOOL](https://toolhk.cc) (Goods shop)<br>
+- [Won Hundred](https://wonhundred.com/) (Apparel)<br>
+
 
 ### Miscellaneous
 - [!!! (Chk Chk Chk)](http://chkchkchk.net/) (Band)<br>
@@ -384,14 +394,12 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [All your days](https://www.allyourdays.com/) (Band tour)<br>
 - [Also Known As](https://veravandeseyp.com/aka/) (Gallery)<br>
 - [Andmarq](http://andmarq.com/) (Artist management)<br>
-- [Antenne Books](https://www.antennebooks.com/) (Books shop)<br>
 - [Antwerp Art](https://antwerpart.be/) (Contemporary art plateform)<br>
 - `★` [Antwerp Art Weekend](https://antwerpartweekend.be/) (Contemporary art event)<br>
 - [Art en grève](https://artengreve.com/) (Movement)<br>
 - [Atlas of Places](https://www.atlasofplaces.com/) (Educational collection)<br>
 - [Autobahn](http://finnreduhn.de/autobahn/) (Experimental)<br>
 - [B'Est Movie 2019](http://rassegnabestmovie.it/) (Movie)<br>
-- [Balenciaga](https://www.balenciaga.com/nl/) (Clothes shop)<br>
 - [Beakermag](https://breakermag.com/) (Magazine)<br>
 - [Bee Home](https://www.beehome.design/) (Diy blueprint)<br>
 - [Bergen Assembly](http://bergenassembly.no/) (Contemporary art event)<br>
@@ -406,7 +414,6 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Coral Agency](https://coral.ag/) (Musician Agency)<br>
 - [Creative Ecosystems](https://creativeecosystems.org/) (Art directory)
 - [Danish Design Center](https://ddc.dk/) (Think tank)<br>
-- [Dapp Boi](https://dappboi.com/) (Blockchain)<br>
 - [Dateagle Art](https://dateagle.art/) (Art journal)<br>
 - [Demo Festival](https://demofestival.com/) (Design festival)<br>
 - [Design Systems International](https://designsystems.international/) (Experimental)<br>
@@ -448,7 +455,6 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - `★` [Live Talk From](https://livetalkfrom.com) (Live talk)<br>
 - [Longform Edition](http://www.longformeditions.com/) (Listening collection)<br>
 - [Luz Mística](https://www.luz-mistica.com/) (Color therapy)<br>
-- [MSG](http://madewithmsg.com/) (Apparel)<br>
 - [Man-made disaster](https://manmadedisaster.art/) (Art exhibition)<br>
 - [Marco](https://www.marcoicecream.com/) (Ice cream)<br>
 - [Marianne Brandt Award](https://marianne-brandt-wettbewerb.de/) (Awards)<br>
@@ -470,7 +476,6 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Over Covid](https://overcovid.pointapp.org/) (Guides)<br>
 - [PC Graphic Design Dpt.](http://www.purchase.design/) `DOWN 👷‍` (Educational program)<br>
 - [Paid Interns](http://payinterns.nyc/) (Company list)<br>
-- `★` [PAL](https://pal-catalogue.com/) (Furniture catalogue)<br>
 - [Point of No Return](http://pointofnoreturn.be) (Exhibition)<br>
 - `★` [Pushforward](https://www.paardpushforward.nl/) (Culture program)<br>
 - [RISD GD Triennial](http://risdgdtriennial2018.risd.gd/) (Exhibition)<br>
@@ -483,7 +488,6 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Route](https://route.onl/) (Artist management)<br>
 - [Sabina advertising](https://sabina.ch/) (Advertising agency)<br>
 - [Schemas of Uncertainty](http://schemasofuncertainty.com) (Research project)<br>
-- [Sobieski](https://sobieskivodka.com/) (Alcohol)<br>
 - [SSHH](https://sshh.nyc/) (Open space)<br>
 - [SeMA](http://sema.seoul.go.kr/) (Art museum)<br>
 - [Secret Friend](http://secret-friend.xyz/) (Experimental showcase)<br>
@@ -494,12 +498,10 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Stay Sane/Stay Safe](https://www.stay-sane-stay-safe.com/) (Poster collection)<br>
 - [Stephanie Nelson Dancegroup](https://www.sndancegroup.org/) (Dance ensemble)<br>
 - [Stubio](https://stu-b-io.com/) (Clothes shop)<br>
-- [Studio Kaze](https://studiokaze.online/) (Clothes shop)<br>
 - [Swiss Art Awards](https://swissartawards.ch/) (Awards)<br>
 - [Swiss Design Awards Blog](https://swissdesignawardsblog.ch/) (Design blog)<br>
 - [Taipei Art Book Fair](https://taipeiartbookfair.com/) (Book fair)<br>
 - [Temper](https://temper.jonaspelzer.com/) (Onepage builder)<br>
-- [Temporary Mark](http://temporarymark.com/) (Clothes shop)<br>
 - [Terén](https://jasuteren.cz/) (Performance art) <br>
 - `★` [TeTuhi](https://tetuhi.art/) (Art exhibition)<br>
 - [The Global Studio](https://www.globalstudio2020.utsphotography.com/) (Study program)<br>
@@ -507,7 +509,6 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [The Physics Room](http://physicsroom.org.nz/) (Art gallery)<br>
 - `★` [Théâtre St-Gervais Genève](https://saintgervais.ch/) (Theater)<br>
 - [Timetable](https://timetablerecords.com/) (Music label)<br>
-- [TOOL](https://toolhk.cc) (Goods shop)<br>
 - [Trambisera Marmi](https://trambiseramarmi.it/) (Construction materials)<br>
 - [Typographic Singularity 2020](https://www.typographicsingularity.com/) (Design event)<br>
 - [Untitled Sans](http://untitledsans.com/) (Typeface)<br>
@@ -520,8 +521,9 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Waka Waka, Collection N.02](https://2.collection-wakawaka.world/) (Furniture design collection)<br>
 - [Weltformat Festival](https://weltformat-festival.ch/) (Design festival)<br>
 - [Where We Stand](http://wherewestand.co.uk/) (Design challenge)<br>
-- [Won Hundred](https://wonhundred.com/) (Clothes shop)<br>
-- `★` [World](http://www.world2.uk/) (Experimental)<br><br>
+- `★` [World](http://www.world2.uk/) (Experimental)<br>
+
+### Unclassified
 - [032c](https://032c.com/) `(?)`<br>
 - [Aires Libres](https://aireslibres.com/) `(?)`<br>
 - [Dreamlaser](http://dreamlaser.ru/) `(?)`<br>
