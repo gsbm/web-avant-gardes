@@ -506,6 +506,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [The Physics Room](http://physicsroom.org.nz/) (Art gallery)<br>
 - `★` [Théâtre St-Gervais Genève](https://saintgervais.ch/) (Theater)<br>
 - [Timetable](https://timetablerecords.com/) (Music label)<br>
+- [TOOL](https://toolhk.cc) (Goods shop)<br>
 - [Trambisera Marmi](https://trambiseramarmi.it/) (Construction materials)<br>
 - [Typographic Singularity 2020](https://www.typographicsingularity.com/) (Design event)<br>
 - [Untitled Sans](http://untitledsans.com/) (Typeface)<br>
