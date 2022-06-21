@@ -483,6 +483,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Over Covid](https://overcovid.pointapp.org/) (Guides)<br>
 - [PC Graphic Design Dpt.](http://www.purchase.design/) `DOWN 👷‍` (Educational program)<br>
 - [Paid Interns](http://payinterns.nyc/) (Company list)<br>
+- [Pathêmes](https://pathem.es/) (Art book)<br>
 - [Point of No Return](http://pointofnoreturn.be) (Exhibition)<br>
 - `★` [Pushforward](https://www.paardpushforward.nl/) (Culture program)<br>
 - [RISD GD Triennial](http://risdgdtriennial2018.risd.gd/) (Exhibition)<br>
