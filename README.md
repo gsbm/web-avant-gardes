@@ -110,7 +110,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Kristin Rosch](https://kristinrosch.com/) (Designer)<br>
 - [Kristina Bartosova](http://kristinabartosova.com/) (Designer)<br>
 - [Laurel Halo](http://www.laurelhalo.com/) (Musician)<br>
-- [Lindsay Howard](http://lindsayhoward.net/) (Curator)<br>
+- [Lindsay Howard](http://lindsayhoward.net/) (Curator) `DOWN 👷‍`<br>
 - [Loup Lopez](https://www.louplopez.com/) (Designer)<br>
 - [Lucas Haider](https://lukashaider.com/) (Designer)<br>
 - [Lucas Hesse](https://www.lucas-hesse.de/) (Designer)<br>
