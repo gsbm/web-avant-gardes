@@ -352,6 +352,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Studio Vedet](https://studiovedet.com/) (Design studio)<br>
 - [Stuuudio](https://stuuudio.co/) (Design studio)<br>
 - [Superimpose](https://superimpose.global/) (Creative agency)<br>
+- [SUVA Type Foundry](https://www.suvatypefoundry.ee/) (Type foundry)<br>
 - [Switch](https://switch.co.nz/) (Design studio)<br>
 - [Syndicat](https://s-y-n-d-i-c-a-t.eu/) (Design studio)<br>
 - [TMPM](https://tmpl.studio/) (Industrial design studio)<br>
