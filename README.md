@@ -297,7 +297,6 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Namespace](https://namespace.studio/) (Design studio)<br>
 - [NewTab studio](https://www.newtab-studio.com/) (Design studio)<br>
 - [Nike Circular Design](https://www.nikecirculardesign.com/) (Design studio)<br>
-- [No Foundry](http://nofoundry.xyz/) (Type catalogue)<br>
 - [No plans](https://noplans.show/) (Design studio)<br>
 - [Norgram](https://www.norgram.co/) (Design studio)<br>
 - [Non-verbal Club](https://nonverbalclub.pt/) (Design studio)<br>
@@ -367,7 +366,6 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Twenty Nine](https://www.xxix.co/) (Design studio)<br>
 - [Two much](http://twomuch.studio/) (Design studio)<br>
 - [Typical Organization](https://typical-organization.com/) (Design studio)<br>
-- [Uncut](https://uncut.wtf/) (Type catalogue)<br>
 - [Unu o unu](http://www.unuounu.org/) (Artist association)<br>
 - [UsVersus](https://usvs.co/) (Design studio)<br>
 - [Visibility](https://vsby.co/) (Industrial design studio)<br>
@@ -479,6 +477,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Morgenstern](https://www.morgensternsnyc.com/) (Ice cream)<br>
 - [Mould Map 7](http://mouldmap.com/) (Experimentals comics)<br>
 - [Mucem](https://www.mucem.org/) (Museum)<br>
+- [No Foundry](http://nofoundry.xyz/) (Type catalogue)<br>
 - [Novembre](https://novembre.global/about) (Inspiration plateform)<br>
 - [Ochre NYC](https://ochrenyc.com/) (Skincare)<br>
 - [Officesss](https://www.officesss.online/) (Zoom backgrounds)<br>
@@ -523,6 +522,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Timetable](https://timetablerecords.com/) (Music label)<br>
 - [Trambisera Marmi](https://trambiseramarmi.it/) (Construction materials)<br>
 - [Typographic Singularity 2020](https://www.typographicsingularity.com/) (Design event)<br>
+- [Uncut](https://uncut.wtf/) (Type catalogue)<br>
 - [Untitled Sans](http://untitledsans.com/) (Typeface)<br>
 - `★` [UTS Design Futuring Report 2020](https://utsdesignfuturing.com/) (Design report)<br>
 - [V-A-C Sreda](https://sreda.v-a-c.org/) (Podcast)<br>
