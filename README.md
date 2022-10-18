@@ -42,6 +42,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Beverly Semmes](https://beverlysemmesstudio.com/) (Artist)<br>
 - [Bharat Sikka](http://www.bharatsikka.com/) (Artist)<br>
 - [Boniface](https://stevenboniface.com) (Photographer)<br>
+- [Bram Vanderbeke](https://bramvanderbeke.com/) (Artist)<br>
 - [Bruno Tomé](https://brunotome.dev/) (Designer)<br>
 - [Candy Chiu](http://candychiu.com/) (Designer)<br>
 - [Caroline Dussuel](https://carolinedussuel.com/) (Photographer)<br>
