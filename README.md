@@ -368,6 +368,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Twenty Nine](https://www.xxix.co/) (Design studio)<br>
 - [Two much](http://twomuch.studio/) (Design studio)<br>
 - [Typical Organization](https://typical-organization.com/) (Design studio)<br>
+- [Ui ui](https://uiui.fi/) (Artist management studio)<br>
 - [Unu o unu](http://www.unuounu.org/) (Artist association)<br>
 - [UsVersus](https://usvs.co/) (Design studio)<br>
 - [Visibility](https://vsby.co/) (Industrial design studio)<br>
