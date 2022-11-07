@@ -147,6 +147,7 @@ The avant-garde (/ˌævɒ̃ˈɡɑːrd/; French: [avɑ̃ɡaʁd]; from French, "ad
 - [Pavel Kedzich](https://kedzich.com/) (Designer)<br>
 - [Pedro Cardoso](https://pedrocardoso.fr/) (Designer)<br>
 - [Philip Heckhausen](http://www.philipheckhausen.com/) (Photographer)<br>
+- `★` [Philipp Polder](https://www.ppolder.com/) (Designer)<br>
 - [Pierre Choiniere](https://pierrechoiniere.com/) (Photographer)<br>
 - [Pleun Verhoofstad](https://pleunverhoofstad.com/) (Designer)<br>
 - [Rachel de Joode](https://racheldejoode.com/) (Artist)<br>
